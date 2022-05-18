@@ -1,0 +1,182 @@
+05:40:09	**Carl Mullin**:	You won't likely see the timer pop-up
+05:40:18	**Carl Mullin**:	Susan is just joining now.
+05:40:28	Siobhan Meehan:	Cheers Carl :-)
+05:40:57	Erin Becote:	Anyone in a European timezone? It is currently 9:30pm for me ... 
+05:41:16	Emile Cochet:	Susan,
+05:41:26	Clinton Cummings:	*Clinton Cummings*
+05:41:30	BROU SERAPHIN KONAN:	hi
+05:41:31	Edgardo E Del valle:	hi
+05:41:33	Emile Cochet:	nasty thunderstorm rolling thru my neighborhood....hopefully wont lose power
+05:41:36	Erin Becote:	ho
+05:41:38	Erin Becote:	hi
+05:41:42	Felix Lora:	Hello
+05:41:53	Aimee McLaughlin:	Are others able to hear?
+05:42:00	Claudio Bomfim:	yes.
+05:42:00	Sean Whiteman:	nope
+05:42:00	Jason Shurtz:	Hello!
+05:42:02	Oluwole Oyedokun:	https://www.linkedin.com/in/oluwole-oyedokun-ph-d-b6aaa183/
+05:42:03	Cameron Paschke-Strawn:	yes
+05:42:04	Claudio Bomfim:	audio is fine
+05:42:04	Heema Sharma:	no
+05:42:08	Sean Whiteman:	had definitions but not Susan
+05:42:08	Tom Fuller:	I can hear but I'm not seeing slides
+05:42:11	Morteza Samadianmoghaddam:	in Frankfurt, we had dinner :D
+05:42:12	Carl Hawkins:	yes I can hear
+05:42:13	Ryan McIlquham:	Your slide didn't advance....
+05:42:20	Jessica Francom:	Is there a new link to follow along with the slides?
+05:42:22	Amanda Cray:	I was booted out during lunch 
+05:42:24	Trey Coon:	@aimeemcalaghlin - not really.  very choppy.
+05:42:38	**Carl Mullin**:	We are just seeing the Intro slide for the afternoon.
+05:42:43	Lisa Huerth:	I was booted out during lunch too! Just the 5th time today!
+05:42:48	Amanda Cray:	I dont see any slides but I do see susan and can hear her 
+05:43:05	Jyothi Reddi:	jyothi reddy
+05:43:08	**Carl Mullin**:	She will be getting to the slides next
+05:43:10	Madhuri Bang:	Madhuri Bang
+05:43:13	Zendre L Glymph:	I’m here. Been login throughout lunch.
+05:43:14	Heema Sharma:	I refreshed the page and I can see and hear now
+05:43:16	Cindy Cuencas:	I can see slides 
+05:43:18	Erin Becote:	I can hear, but I cannot see anything
+05:43:28	Brian Spring:	I do not have access to the q&a chat. Is there a fix for this?
+05:43:39	Lisa James:	They are killing it! KUDOS!
+05:43:44	Cindy Cuencas:	@Heema that always works
+05:43:52	Scott Reed:	how do i get to the cohort bootcamp?
+05:43:56	Paul Dailey:	Cheers for the mentors!
+05:44:17	**Carl Mullin**:	If you are a Percipio user and cannot see, you may want to try joining Zoom directly:
+05:44:18	**Carl Mullin**:	Webinar ID: 395 330 836Passcode: 912744https://skillsoftbootcamp.zoom.us/j/395330836?pwd=MHMvaU5wcjRZMkhuWDV5QXZiMkhBUT09
+05:44:20	Bryan Saunders:	Go mentors!
+05:44:33	Biron McNeely:	The "Deliverables and Tools" slide purpose is.....?
+05:45:05	Mario Kazniakowski:	every 40 minutes my the presentation is dropping
+05:45:42	Timothy Waterman:	** Susan Daniels** Can you real quick go over the differences between Domains, Tasks, and Enablers? You keep mentioning the Enablers are important to know for the exam, but I'm confused about how to pick them out of the lecture.
+05:46:01	David Hulse:	https://github.com/Skillsoft-Content/PMP5Day/blob/main/Slide%20Decks/PMP%20Bootcamp%20Session%201%20Part%202.pdf
+05:46:16	David Hulse:	Slides for part 2
+05:46:30	stephen strout:	if we rejoin via zoom, is our attendance automatically recorded?
+05:46:57	Jessica Asante:	https://github.com/Skillsoft-Content/PMP5Day/tree/main/Slide%20Decks
+05:47:13	Jessica Asante:	slides for the sessions in the link 
+05:47:49	Chloe Hammett:	I keep getting kicked out with a "session expired" message. anything I can do?
+05:48:53	Mario Kazniakowski:	@ Chloe the same here, quite often. Every 40 minutes.
+05:49:29	Tom Fuller:	I'm listening and chatting here, but watching slides via zoom
+05:49:29	Stephen Edmunds:	Move you mouse and interat with chat?
+05:49:38	Chloe Hammett:	extremely frustrating as my screen is on and moving mouse 
+05:49:48	Raymond Lawson:	test
+05:50:16	Paul Dailey:	Good suggestion!
+05:50:23	Timothy Waterman:	** Susan Daniels** Yes that was very helpful, thanks!
+05:50:23	Christopher Mascarina:	@ stephen they said earlier that you want to log in at Percipio to be automatically recorded. I could be wrong. 
+05:50:23	Usman Sethi:	How do we comapre the concept of ITTo's in 6th edition of PMBOK with enablers (Deliverbales and tools)?
+05:50:29	Usman Sethi:	*compare
+05:51:03	Taylor Stephens:	The slides have Lesson and then a topic? What does it correspond to 
+05:51:27	Dawn Dunlop:	Are you using 'enablers' to include inputs, tools/techniques, and outputs or are enablers something different?
+05:51:42	Lisa James:	I've been screen shotting and placing notes in a Word doument to review after.  
+05:51:46	Jerome Rouge:	** Susan Daniels** We are progressing using Domain/Tasks/Enablers. PMBOK talk about Principles/Performance domain. How to make the link ?
+05:52:39	Julie Siripoke:	@Timothy Waterman - the info about domain/tasks/enablers is in this doc (just ran across it while checking the resources.) 
+https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/pmp-examination-content-outline.pdf
+05:54:44	Elizabeth Kent:	Hello, I had some account issues this morning that were just resolved by the O2O Team
+- how can I request a playback of the missed lessons?
+05:54:51	Charmakeitha Smith:	 What is the body of work you recommend googling 
+05:54:56	Timothy Waterman:	@Julie Siripoke - That's all I needed to put that in context. Thanks!
+05:55:03	Jason Hazley:	yes
+05:55:10	Siobhan Meehan:	The Way of Working
+05:55:12	George Gyles:	yes, config management
+05:55:18	Jason Maass:	Construction
+05:55:19	Anthony Feige:	Analytic Techniques
+05:55:19	John Norseen:	Design
+05:55:22	Charmakeitha Smith:	Thank you
+05:55:23	Jad Graves:	Risk assessment and risk mitigation
+05:55:24	Clifford Weinstein:	complex problem refinement.
+05:55:24	Timothy Wolfe:	Escape Room.
+05:55:26	John Chilson:	"way of working"
+05:55:26	Shrikant Kulkarni:	Solutionalizing
+05:55:32	Russell Winn:	used it to counter or temper "group think"
+05:55:33	Aaron Amick:	Curriculum development  
+05:55:35	Sarina Miller:	solution
+05:55:36	Juan Garcia:	Medical
+05:55:36	Nylah Thomas:	process improvement
+05:55:39	Aprile Atwater:	Trainign needs
+05:55:39	Timothy Goloversic:	productuc improvement
+05:55:41	Tom Fuller:	Dealing with deployments during covid
+05:55:43	Nicholas Arambula:	Instructional Systems Solutions
+05:55:54	Matt Reudelhuber:	policy development
+05:55:57	Jorge Arturo Monge:	psychological settings
+05:55:59	Maria Beltre:	We have grooming sessions for brainstorming purposes
+05:56:01	Cameron McCampbell:	intelligence analysis and mission planning
+05:56:16	Edgardo E Del valle:	assessing how to begin a project
+05:56:20	Tony Preston:	Leadership Development Team Building
+05:56:45	Timothy Wolfe:	That's very unsafe.  She needs a larger ladder.
+05:57:00	Dawn Dunlop:	@ Julie Siripoke - That was a good find.  So are there no more ITTO's and Initiating, Planning, Execution, M&C, Closing?  Having hard time knowing what PMBOK threw out to move to Agile.  Happy with the move, but would be VERY helpful to know what to study.
+05:57:05	Troy Lindsay:	good formula
+05:58:35	Julie Siripoke:	@Dawn Dunlop- I'm taking the training like everyone else, I was just trying to be helpful because I was reviewing the doc at the same time the question was asked. You probably want to send the question to the training team
+06:00:05	Alex Broud:	does the most likely become the median or is it possible that the most likely can sway to an optimistic/pessimistic estimimate
+06:01:16	Edgardo E Del valle:	Early start/late start is part of it.... Early Ends / Late Finish
+06:01:22	MAIMA KAMARA:	your presentation is not progressing
+06:01:39	Michael Notarianni:	test
+06:02:07	Joseph Stapleton:	What if a team member has an incentive to overestimate time required? 
+06:02:37	Phillip Hiner:	How do you estimate if you have no prior knowledge of the task or what’s related to the task? Are you reliant on taking your teams word for it?
+06:03:20	Edgardo E Del valle:	is part of scheduling
+06:03:22	Suneel Sahu:	**Susan Daniels**,  Can you join the 2nd session 
+06:03:30	Stephen Edmunds:	Pull a Scotty! Ask for more time upfront and so when you dont need it you have more time to develop for the programs if you do
+06:03:55	Eric Towns:	Follow-up to the Domain question.....How do the three domains that you explain relate to the PMBOK's use of "Project Performance  Domains"
+06:04:37	Suneel Sahu:	morning IST bcz 2nd session very late for me 
+06:04:56	Joseph Stapleton:	Great answer, thanks. 
+06:05:24	Mike Franco:	lessons learn
+06:05:34	Stephen Edmunds:	Estimate through other projects similar one completed at teh sam ecompany?
+06:06:09	Edgardo E Del valle:	ES-LS / EF-LF
+06:07:23	Siobhan Meehan:	is PMBOK 6th edition completely out dated?
+06:07:29	Levi Burgess:	so use the budget method of always over estimate to ensure you don't go over budget? Same with this by focusing on over estimating effort (pessimistic), correct?
+06:07:34	Erin Becote:	That's a very accurate description of version 7
+06:09:09	Jad Graves:	did she say "PER"?
+06:09:14	Jorge Arturo Monge:	PERT
+06:09:14	Manousos Galanakis:	PERT
+06:09:17	Seth Maldonado:	PERT
+06:09:18	Jyothi Reddi:	PERT
+
+06:09:18	Jad Graves:	TY
+06:09:57	Jamie Davis:	PERT = ?
+06:10:09	Jamie Davis:	disregard
+06:10:16	Joseph Stapleton:	Program Evaluation and Review Technique (PERT)
+06:10:27	Jamie Davis:	Mahalo
+06:10:27	TRACI SLUSS:	I was wondering the same before the slide changed. 
+06:11:26	Sequoia Sime-Geffner:	What does PERT stand for?
+06:11:41	Sequoia Sime-Geffner:	Sorry...I see the answer above
+06:12:15	Michelle Fortier:	why was pert dividing by 6?
+06:12:31	Claudio Bomfim:	1 + 4 + 1
+06:12:43	Michelle Fortier:	Thanks Claudio!
+06:13:01	Claudio Bomfim:	yw
+06:13:34	Micheal Sears:	MS Project!!
+06:15:03	Joseph Stapleton:	Michael, that's the most excited I've ever seen someone about a Microsoft office product haha
+06:16:46	Alex Broud:	scrum
+06:17:26	Robert Sproat:	WHAT WAS THE X AXIS IN THE KANBAN CHART?
+
+06:18:07	Abhishek Srivastava:	Its the status of the work..'To Do', 'In progress' , 'Done' etc.
+06:18:30	Lisa James:	@Sequoia - PERT =  Program Evaluation Review Technique
+06:18:32	Norman Johnson:	what is the difference between work and task?
+06:19:45	Claudio Bomfim:	Kanban Board COlumns: Design / Development / Test
+06:20:32	ACHINTYA KUMAR KHAN:	Kanban aims at reducing Work in Progress
+06:20:42	Alejandro del Angel Rodriguez:	is the concept of self-organize team only related to agile?
+06:20:46	Angela Ott:	what are the x and y axis for each chart again?  I am still confused
+06:20:59	Claudio Bomfim:	Thanks for clarifying Susan.
+06:21:03	Paul Duit:	Yes, Alejandro
+06:21:08	Kara Vernon:	We like utilizing JIRA for Kanban
+06:21:45	Alyssa Lavers:	I've been using the Kanban for ages without even knowing it was a formal idea!
+06:22:11	Cameron Paschke-Strawn:	accidentally got disconnected for 15 seconds. I'm back.
+06:25:20	Joseph Stapleton:	Training and Coaching Plan = Training and Mentoring Plan?
+06:25:29	Troy Lindsay:	Good insight thus far
+06:26:32	Lisa James:	Yes Susan! 
+06:27:34	Erin Becote:	@Angela the x-axis in a Gantt chart is time/duration of an activity/task, the y-axis is the activity/task.  In a Kanban, the y-axis is a deliverable, the x-axis is a stage (i.e. design, develop, test), and the tasks related to each deliverable listed in the y-axis fill in the columns as they move through each stage of the process
+06:30:05	Edgardo E Del valle:	I had done that tell my lieutenant and captains on how to deal with everyday things and brief the Colonel and not overreact and set his mind at ease lol
+06:31:10	Andrew Peterson:	upskilling team members - are there other benefits besides them being experts on the solution?
+06:31:17	Paul Dailey:	We're getting ready to launch our MVP and we're training a small subset of our product owners. We're empowering them to then go and train others as we near full go-live. It seems to be working well.
+06:31:34	Charmakeitha Smith:	kanban is similar to a process map?
+06:31:39	Stephen Edmunds:	coaching is more techincal skills and mentoring is helping develop the individual 
+06:32:24	Angela Ott:	thank you Erin Becote :)
+06:33:18	Erin Becote:	You're welcome!
+06:35:24	Jonathan Olson:	I've found coaching focuses on processes "the what", where mentoring focuses on concepts "the how".
+06:35:25	Stephen Edmunds:	specific action versu general statement
+06:35:40	Ryan Pursley:	@Andrew Peterson, if you have a qualification or certification that you can bottle neck really quick in if you don't keep training continuous, you may find yourself in a really bad situation
+06:37:05	Christopher Hall:	I am gathering that a common phrase that is synonymous with document reviews is required reading, correct?
+06:38:33	Angela Ott:	**Susan** can you please go to full screen mode?  The slides are smaller and harder to see at the moment - thank you :)
+06:40:15	Stephen Edmunds:	Experienced this persona intereviewing didnt know what the job was 
+06:40:24	David Chui:	it allows for apples to apples comparison
+06:41:17	Siobhan Meehan:	whoo hoo
+06:43:28	Manousos Galanakis:	ty
+06:43:34	Erin Becote:	ty
+06:43:42	Alyssa Lavers:	Thank you!
+06:43:47	Dominique Griffin:	Thank you

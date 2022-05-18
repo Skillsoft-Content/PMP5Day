@@ -1,0 +1,1342 @@
+WEBVTT
+
+1
+00:00:00.149 --> 00:00:06.720
+person with specialized education knowledge skill experience or training.
+
+2
+00:00:09.809 --> 00:00:17.789
+resource calendars identify working days shifts and when specific resources are made available to the project.
+
+3
+00:00:20.880 --> 00:00:33.120
+Lessons learned register a project document use to record knowledge gained during a project so that it can be used in the current project and entered into the lessons learned repository.
+
+4
+00:00:36.600 --> 00:00:52.860
+**Susan Daniels***: Project charter, a document issued by the project initiator or sponsor that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities.
+
+5
+00:00:55.290 --> 00:01:02.250
+consensys consensus consensus is a collaborative process to reach a decision that everyone can support.
+
+6
+00:01:05.280 --> 00:01:08.010
+rolling wave planning and iterative.
+
+7
+00:01:11.100 --> 00:01:14.250
+**Susan Daniels***: Welcome back everybody, I hope you had a nice lunch.
+
+8
+00:01:15.420 --> 00:01:33.000
+**Susan Daniels***: Let me double check that i'm sharing optimized I am Okay, so I hope you had a nice lunch, this is still day one session one but we're in the afternoon now, and this is the first segment of the afternoon.
+
+9
+00:01:34.110 --> 00:01:37.620
+**Susan Daniels***: During this afternoon and give you an overview of what we're going to be covering.
+
+10
+00:01:42.090 --> 00:01:53.280
+**Susan Daniels***: It is the empower TEAM members and stakeholders train TEAM members and the stakeholders, you can empower them, but if they still don't have the competencies that you need, you have to train them.
+
+11
+00:01:53.820 --> 00:02:04.170
+**Susan Daniels***: And then we talk about how to engage and support virtual teams, a very specific case study, if you will, because that's where the markets moving to.
+
+12
+00:02:05.160 --> 00:02:12.480
+**Susan Daniels***: Then we're going to build and share understanding about the project that's why we're shifting from less than one in the.
+
+13
+00:02:13.290 --> 00:02:30.060
+**Susan Daniels***: curriculum, I mean pmi curriculum to lesson to where we're starting to do the work and we're going to build a shared understanding about the project, starting at the big 50,000 foot level really from the vision statement, if you will, and bringing it down to some of the initiating documents.
+
+14
+00:02:31.110 --> 00:02:35.340
+**Susan Daniels***: And once we've kind of got a big picture in place then we've got to figure out.
+
+15
+00:02:35.670 --> 00:02:51.180
+**Susan Daniels***: So what's the best way to do this right what methodology or approach and I take so we'll finish the day i'm comparing and contract contrasting different life cycles of projects and we'll be touching about.
+
+16
+00:02:52.050 --> 00:03:08.700
+**Susan Daniels***: agile and traditional project management back and forth throughout the afternoon when there's differences so that's an overview of our afternoon i'm so glad that you're back and you're joining me um so let's just go ahead and get started, it is after 230.
+
+17
+00:03:10.740 --> 00:03:19.290
+**Susan Daniels***: want to do a little housekeeping again i'm thanking the mentors for all of their hard work, I mentioned earlier, they have over 300 questions in the morning.
+
+18
+00:03:19.830 --> 00:03:32.040
+**Susan Daniels***: On that's fielding just to Q amp a questions they answered in real time multiple of your chat questions but it's helpful if you can keep your technical questions to the Q amp a.
+
+19
+00:03:33.630 --> 00:03:40.830
+**Susan Daniels***: And that'll keep the streaming this going so fast down to just that about the curriculum and if.
+
+20
+00:03:41.550 --> 00:03:47.880
+**Susan Daniels***: You have any questions about where to find the curriculum or how to access it on that's another question you ascend to the Q amp a.
+
+21
+00:03:48.270 --> 00:04:00.000
+**Susan Daniels***: But the chat should be about real time was going on in the class and dialoguing back and forth among yourselves and Mike and me on the the point of discussion at the time.
+
+22
+00:04:01.680 --> 00:04:16.170
+**Susan Daniels***: Okay, but the mentors are absolutely rocking it and and I just want to thank them for all of their support, I throw a question on top of everything else and juggling and respond in real time so they're just amazing um couldn't do this without them.
+
+23
+00:04:16.950 --> 00:04:24.150
+**Susan Daniels***: I mentioned earlier that i'm new i'm new to skill saw i've been training p&p exam prep courses sense.
+
+24
+00:04:25.830 --> 00:04:34.740
+**Susan Daniels***: and have Todd literally hundreds and hundreds of students and live on ground classes, as well as virtually so.
+
+25
+00:04:35.280 --> 00:04:43.440
+**Susan Daniels***: I have a wealth of experience on how the test comes through my students come back to me, and they share their experience and coach others.
+
+26
+00:04:43.830 --> 00:04:58.020
+**Susan Daniels***: On what to anticipate without divulging any specific questions, but themes and recommendations for how best to study and those I want to pass on to you as we go through the slides kind of what to anticipate.
+
+27
+00:05:00.000 --> 00:05:09.840
+**Susan Daniels***: So I mentioned to you that this is an outline of what we're going to be studying but we're going to end today just beginning to get into starting the project.
+
+28
+00:05:10.350 --> 00:05:20.070
+**Susan Daniels***: When we're here tomorrow we're going to go deep on scope and schedule, I mean literally an hour or more on each one so it's a very.
+
+29
+00:05:20.760 --> 00:05:31.650
+**Susan Daniels***: tool and technique rich curriculum coming up tomorrow today and we're going to hop skip and jump to multiple topics and there is a tool here and there, there's a technique here and there.
+
+30
+00:05:31.920 --> 00:05:40.320
+**Susan Daniels***: But, on the whole we're just going to be moving through how to continuously improve your team management skills.
+
+31
+00:05:45.540 --> 00:06:01.860
+**Susan Daniels***: we've seen this format before right and some of these are the outputs that we're going to get as a result of empowering our teams are going to make decisions and they're going to be able to estimate their work and they're gonna be able to estimate that their.
+
+32
+00:06:03.840 --> 00:06:22.710
+**Susan Daniels***: level of effort Okay, that is going to be involved in trying to get something done and we were talking about making decisions, these are examples of some decision making processes or approaches, I will introduce them and we'll go deeper on them later in the day.
+
+33
+00:06:24.450 --> 00:06:31.590
+**Susan Daniels***: So the first thing you're trying to do when you're trying to empower your team is to figure out what are their strengths right.
+
+34
+00:06:32.250 --> 00:06:45.480
+**Susan Daniels***: So you need to get in lean into your team and figure out what their aptitudes are I mean i've been on teams, where i've come in and one role and that's why I was invited to the table.
+
+35
+00:06:45.780 --> 00:06:56.820
+**Susan Daniels***: But I was able to express that I couldn't do that i'm kind of good at that, and suddenly I was doing the powerpoints instead of somebody who was kind of originally tasked to do it.
+
+36
+00:06:57.210 --> 00:07:05.370
+**Susan Daniels***: In return, they took over, something I didn't enjoy doing, but we still stay true to our core work that we are specialty that.
+
+37
+00:07:06.150 --> 00:07:18.810
+**Susan Daniels***: This is leaning towards and trying to get you to think outside of pigeon holing your team or putting them in a box and thinking that is all they are good for like a cog in a machine.
+
+38
+00:07:20.010 --> 00:07:30.330
+**Susan Daniels***: Your teams bring a lot to the table and you need to give them that opportunity to share with you what all they have to offer.
+
+39
+00:07:30.660 --> 00:07:41.820
+**Susan Daniels***: And to lean into their strengths and let them, to the extent possible allocate the work among themselves whether its traditional project management or agile okay.
+
+40
+00:07:43.140 --> 00:07:57.510
+**Susan Daniels***: it's it's a matter of allowing them to groom and mentor and train each other to be ever better at their executing their on in their talents and skill sets.
+
+41
+00:08:00.570 --> 00:08:02.850
+**Susan Daniels***: Okay, I got a question.
+
+42
+00:08:11.100 --> 00:08:19.410
+**Susan Daniels***: Okay, so the question here from Timothy is, can you um can I go back over the difference between domains tasks and enablers.
+
+43
+00:08:20.520 --> 00:08:24.600
+**Susan Daniels***: Okay, in domains, the whole let's go back to this thing.
+
+44
+00:08:25.800 --> 00:08:37.200
+**Susan Daniels***: There are three the curriculum overall and the exam content outline is the tasks that are are being examined are divided into three domains.
+
+45
+00:08:37.530 --> 00:08:45.330
+**Susan Daniels***: People, which is what we're focused on today process which is some of the things that we're doing is starting the project and doing the work.
+
+46
+00:08:45.720 --> 00:08:59.700
+**Susan Daniels***: Back to people and then keeping the business in mind those are the three major domains under each domain, we have tasks, and this is what you're seeing listed here are the tasks that are being tested.
+
+47
+00:09:00.960 --> 00:09:14.100
+**Susan Daniels***: For each tasks, there are certain enablers Okay, also to help them I to help you as a project manager successfully execute that task now.
+
+48
+00:09:14.760 --> 00:09:24.090
+**Susan Daniels***: The outputs are generally on this side and the tools or techniques that are used okay tools that you would want or techniques are often listed on this side.
+
+49
+00:09:24.960 --> 00:09:39.150
+**Susan Daniels***: The goal of this particular type of slide format is to be able to match the enablers all of this okay both that the deliverables and the tools to the specific tasks that it is aligned to.
+
+50
+00:09:40.290 --> 00:09:49.230
+**Susan Daniels***: You can create these as flashcards where you fall down you print these and you fall down the top and if you pull if you pull it and you see this and you have to go.
+
+51
+00:09:49.980 --> 00:09:55.650
+**Susan Daniels***: I must be talking about empowering my team because they're making decisions and they're estimating their own work and.
+
+52
+00:09:55.890 --> 00:10:01.860
+**Susan Daniels***: These are all ways of making decisions, and then you flip it up and you go yep i'm empowering TEAM members I got that one right.
+
+53
+00:10:02.220 --> 00:10:09.900
+**Susan Daniels***: So you can create these as like flash cards by just simply folding the top down a little, I hope that answered your question for you.
+
+54
+00:10:10.620 --> 00:10:27.420
+**Susan Daniels***: These will be on touched on in the slide decks and they're also in some of the study materials that are being in your student handbook Okay, sometimes they go deeper in that, as well as some of the accompanying videos that may be on your platform.
+
+55
+00:10:29.070 --> 00:10:33.210
+**Susan Daniels***: Oh, you like Maya flashcards suggestion okay um.
+
+56
+00:10:35.250 --> 00:10:41.970
+**Susan Daniels***: One thing that um If anyone should take the time to move all of the.
+
+57
+00:10:43.110 --> 00:10:56.700
+**Susan Daniels***: guidelines into like one deck i'm, just like the other lecture peers know it's available, because then they can print it and create their own flashcards but or you can print these out at your convenience.
+
+58
+00:10:58.920 --> 00:11:07.470
+**Susan Daniels***: So getting back on track on this is team strengths that's where you start you're trying to empower your team right you're trying to make it so.
+
+59
+00:11:08.400 --> 00:11:20.190
+**Susan Daniels***: Literally you don't have to spend as much time trying to tell each person what to do right you just say hey, this is the deliverable, this is what I mean by win okay.
+
+60
+00:11:20.790 --> 00:11:37.590
+**Susan Daniels***: and negotiate a realistic expectation, for when it will be done and how you're going to have acceptance criteria and then let the team, to the extent they have the competencies and the authority to decide among themselves how they're going to allocate the work.
+
+61
+00:11:39.330 --> 00:11:54.870
+**Susan Daniels***: So when I talked about authorities, one of the things is the team decision making tools and there was an array of them, this is not the point in the lecture where I talk about each one and how it's done, but please know that there are quite a few ways to.
+
+62
+00:11:56.490 --> 00:12:17.940
+**Susan Daniels***: make a very objective decision based on pretty subjective input okay each person has their own perspective and agenda, but when you apply these tools ultimately you come out with a scored result okay you come out with a way of achieving a decision.
+
+63
+00:12:19.980 --> 00:12:46.380
+**Susan Daniels***: I do not give my tip my hat, if you will, or acknowledge that any agile methodology from pmi they promote disciplined agile and disciplined agile says it is agnostic, which means it isn't favoring scrum versus safe versus.
+
+64
+00:12:47.700 --> 00:13:05.130
+**Susan Daniels***: Other forms of combat and there's no tool there's no method that they value more than another discipline agile takes all of it into consideration, it is a guide to help you determine your way of work.
+
+65
+00:13:06.270 --> 00:13:15.750
+**Susan Daniels***: Please put in your notes when you're out on the agile when you're out on the pmi website right when you log in as a Member.
+
+66
+00:13:16.650 --> 00:13:33.000
+**Susan Daniels***: Look, for the way of work OK, Google it or search for it and start to explore this reference book, it takes in every tool and technique is currently used in the market, I know I said every.
+
+67
+00:13:33.660 --> 00:13:54.540
+**Susan Daniels***: it's probably not ever accurate to say every and all but it's pretty close Okay, of all the tools and techniques that are used in the agile world and it tells you, depending on what your goal is okay what when to apply it okay and it's just a superior body of work.
+
+68
+00:13:55.620 --> 00:14:15.000
+**Susan Daniels***: I strongly recommend you go out and explore it, it will broaden your understanding of how agile is done in the world today, it goes beyond just scrum although we're going to go deep on scrum because it's very foundational to the ceremonies and the artifacts that are produced an agile.
+
+69
+00:14:16.920 --> 00:14:17.490
+**Susan Daniels***: So.
+
+70
+00:14:19.470 --> 00:14:33.060
+**Susan Daniels***: brainstorming when you're trying to empower your team, you want to very much thing that it's a safe environment to begin to create ideas and solutions to what challenges.
+
+71
+00:14:33.780 --> 00:14:43.200
+**Susan Daniels***: You want to train your team when you're empowering them to not depend on you entirely to come up with the answer, and the solution.
+
+72
+00:14:44.310 --> 00:14:55.950
+**Susan Daniels***: Part of empowering them is to help brainstorming sessions and where one person plays off another person's idea are people familiar with them.
+
+73
+00:14:57.030 --> 00:15:07.380
+**Susan Daniels***: brainstorming in kind of what environment have you use brainstorming often done it for solution development, but perhaps you've got other areas.
+
+74
+00:15:10.680 --> 00:15:17.280
+**Susan Daniels***: And it's called the way of work is what I recommend you look at, not on the Google, but on the.
+
+75
+00:15:18.690 --> 00:15:23.370
+**Susan Daniels***: website okay configuration management okay.
+
+76
+00:15:25.080 --> 00:15:34.470
+**Susan Daniels***: analytic techniques is oh definitely brainstorming design, which is pretty close to you know, in the neuroma solution complex problem, we find that.
+
+77
+00:15:36.540 --> 00:15:39.810
+**Susan Daniels***: escape room I like that one okay i'm.
+
+78
+00:15:41.250 --> 00:15:46.080
+**Susan Daniels***: brainstorming in the medical situation right trying to do, maybe get to the diagnosis okay.
+
+79
+00:15:47.820 --> 00:15:54.630
+**Susan Daniels***: All right, so it really helps people create ideas and feel safe and they're not going to do it.
+
+80
+00:15:55.050 --> 00:16:01.290
+**Susan Daniels***: If they think only you have the right answer and you're really not interested in hearing anybody else's opinion.
+
+81
+00:16:01.710 --> 00:16:13.680
+**Susan Daniels***: So am I here is trying to promote that inclusiveness that engagement that empowerment approach to leadership of your teams that's the path to perform creating a high performing team.
+
+82
+00:16:15.750 --> 00:16:25.530
+**Susan Daniels***: Estimates Okay, so one of the things we empower our teams to do is to estimate the level of effort.
+
+83
+00:16:26.190 --> 00:16:33.870
+**Susan Daniels***: going to estimate for us how much time or how much effort something's going to take okay.
+
+84
+00:16:34.350 --> 00:16:40.860
+**Susan Daniels***: And we use a concept called three point estimating and there's a video that follows after this so i'm not going to go deep on it.
+
+85
+00:16:41.250 --> 00:16:47.670
+**Susan Daniels***: But I will share with you that there are two types, there is kind of the traditional which just takes the.
+
+86
+00:16:48.630 --> 00:17:01.680
+**Susan Daniels***: optimistic most likely in the pessimistic and divides them, you know as an up a nap and divide them by three and when you use a traditional it just simply says between my optimistic.
+
+87
+00:17:02.190 --> 00:17:13.410
+**Susan Daniels***: My most likely is in the middle of my pessimistic somewhere out here the answer, or how much effort, this is going to take us somewhere in between, now we can use.
+
+88
+00:17:15.330 --> 00:17:27.630
+**Susan Daniels***: Three point estimating to help us estimate duration of a task we can use it to estimate a cost, we can use it to talk about how much work something's going to be.
+
+89
+00:17:28.290 --> 00:17:40.020
+**Susan Daniels***: But what you're saying is the answer can be anywhere between my optimistic and my pessimistic and they're all about the same probability okay.
+
+90
+00:17:40.770 --> 00:17:48.840
+**Susan Daniels***: it's anywhere they're all way to the same my optimistic most likely and pessimistic Adam a vibe by three it's just the average.
+
+91
+00:17:49.710 --> 00:17:56.160
+**Susan Daniels***: We have something called PR which you will, you will see in the video, I believe, and this is where we go hmm.
+
+92
+00:17:56.640 --> 00:18:10.080
+**Susan Daniels***: I actually have a pretty good idea i'm experienced to doing this on it's not new to us, this is not innovation this the people i'm asking been our experts.
+
+93
+00:18:10.920 --> 00:18:19.200
+**Susan Daniels***: So we can pretty much take the weight of and put it on the most likely, so we go optimistic.
+
+94
+00:18:19.800 --> 00:18:31.290
+**Susan Daniels***: i'll take one optimistic so i'll take four values in my most likely because I really think I pretty much know and then i'll add my pessimistic estimate as well.
+
+95
+00:18:31.920 --> 00:18:42.630
+**Susan Daniels***: So that I have a buffer in there, and not just going to take the one number of my most likely what i'm building in buffer on either side and that's how we can.
+
+96
+00:18:43.500 --> 00:18:53.010
+**Susan Daniels***: estimate using three point simple average when your guess is as good as mine, you know it could be anywhere in this range and PR when it goes.
+
+97
+00:18:53.640 --> 00:19:03.960
+**Susan Daniels***: pretty sure I know you know forgot, a lot of trend line got a pretty good I know basis for my estimate, but I still want that buffer of the optimistic and most likely build in.
+
+98
+00:19:05.520 --> 00:19:14.250
+**Susan Daniels***: will also see other estimating techniques such as analogous parametric some bottoms up, but then that'll come in at a later point.
+
+99
+00:19:15.600 --> 00:19:33.480
+**Susan Daniels***: The The important thing here is to to understand you're empowering your team and they get to estimate for you how much effort something's going to take so that they can not over promise and under deliver.
+
+100
+00:19:36.540 --> 00:19:45.540
+**Susan Daniels***: Now, in agile these estimates level of estimates level of effort is not man hours Okay, it is.
+
+101
+00:19:46.860 --> 00:20:04.800
+**Susan Daniels***: A what they say here it is i'm not unit to estimate the difficulty of implementing a user story it's an abstract measure of effort, so you can compare and contrast different little bodies of work that expect to be done during an iteration.
+
+102
+00:20:06.330 --> 00:20:19.830
+**Susan Daniels***: If something they've used things like T shirt sizes well that for me that's going to be a large, medium or small and somebody else's that's an extra small, for me, are they have to do anything someone else goes easy for you that's an extra large for me.
+
+103
+00:20:20.310 --> 00:20:31.260
+**Susan Daniels***: And the other, then they start to on talk about overall, given the amount of effort it's going to take to get this done what should this body of work this little deliverable user story.
+
+104
+00:20:31.590 --> 00:20:49.320
+**Susan Daniels***: How much should it be, and they go okay we're going to make that a medium, then they look at the next test, they have to do when they do the same thing, I think the build consensus using T shirt sizes i've seen it done using balls whether it's a golf ball, you know it's a.
+
+105
+00:20:51.450 --> 00:21:06.450
+**Susan Daniels***: volleyball a soccer ball, you know basketball size, whatever your team wants to use they allocate points to that and they then are coming to consensus on what that body of work is.
+
+106
+00:21:07.380 --> 00:21:15.840
+**Susan Daniels***: Key takeaways not all these different estimating techniques techniques talk about those again, but the key takeaway is in traditional.
+
+107
+00:21:17.490 --> 00:21:28.320
+**Susan Daniels***: They come up with estimating the effort using like three point right now logis now just simply says this is how we did it last time it's probably similar to that.
+
+108
+00:21:31.320 --> 00:21:39.240
+**Susan Daniels***: But you let them decide how much effort and duration is going to take to get something done that's empowering your team.
+
+109
+00:21:40.470 --> 00:21:41.850
+**Susan Daniels***: Okay i'm going to look at.
+
+110
+00:21:45.510 --> 00:21:46.110
+Okay.
+
+111
+00:21:47.940 --> 00:21:49.950
+**Susan Daniels***: Okay i'm just trying to look through your chats.
+
+112
+00:21:54.690 --> 00:21:56.940
+**Susan Daniels***: Truly okay that's.
+
+113
+00:21:59.340 --> 00:22:00.840
+**Susan Daniels***: Okay, do you like the formula.
+
+114
+00:22:02.430 --> 00:22:21.360
+**Susan Daniels***: Does the most likely become the median or is it possible that the most likely can sway wait, how they jumped on me and sway to an optimistic or pessimistic estimate on that's a good question so if you just went for your most likely right um.
+
+115
+00:22:23.280 --> 00:22:30.990
+**Susan Daniels***: let's take you three point you're the whole reason you use optimistic most likely a pessimistic is because you don't want to use just one number.
+
+116
+00:22:31.410 --> 00:22:50.580
+**Susan Daniels***: There is most people will just try to go, most likely, but you haven't asked them, so what would be your pessimistic, and why, and if you ask them why then they can also tell you what kind of risks are involved in potentially using their pessimistic new well you know.
+
+117
+00:22:51.840 --> 00:23:05.520
+**Susan Daniels***: Sally over there she's been talking about going on vacation next week isn't approved yet, but if she does and i'm going to have to pick up her work, so you know pessimistically it could take me two weeks to get this done.
+
+118
+00:23:06.390 --> 00:23:22.530
+**Susan Daniels***: optimistically as she stays doesn't go on vacation and you have undivided attention and you could focus just on this, how long would it take you Oh, if I could just do this I take me about a half a day hey I got everything else going on, so give me a week.
+
+119
+00:23:23.580 --> 00:23:30.240
+**Susan Daniels***: Fine, so now you have these three estimates, when you add them together is going to probably skew right.
+
+120
+00:23:30.840 --> 00:23:44.700
+**Susan Daniels***: and give you more buffer by skewing it towards the pessimistic and that's kind of what your goal is by having the three in automatically kind of moves it off the median and kind of moves it towards gives you that buffer of.
+
+121
+00:23:45.900 --> 00:23:53.580
+**Susan Daniels***: Losing off that most likely and more towards the pessimistic and you're building in buffer into your schedule, naturally.
+
+122
+00:23:56.040 --> 00:24:05.370
+**Susan Daniels***: What if a team Member has an incentive to overestimate time required okay never heard of that that shocking.
+
+123
+00:24:06.450 --> 00:24:14.250
+**Susan Daniels***: actually know happens all the time right, we would even be inclined to add a little buffer ourselves.
+
+124
+00:24:15.240 --> 00:24:22.440
+**Susan Daniels***: Where this really comes in, is in a team environment, and you can self correct because people will pick up.
+
+125
+00:24:22.830 --> 00:24:33.450
+**Susan Daniels***: On other people kind of padding heavily expectations and then they find out that he actually could work faster or he is working faster she can pick up the pace.
+
+126
+00:24:33.870 --> 00:24:44.400
+**Susan Daniels***: So the team generally will self correct that when you put them in an empowered team all right they get away with it for a little while, but not for long Okay, especially if.
+
+127
+00:24:44.670 --> 00:24:54.540
+**Susan Daniels***: The other TEAM members all have to build consensus at the end of what it's going to take so let let the horses run or let it let it happen, but it will self correct.
+
+128
+00:24:56.520 --> 00:25:05.100
+**Susan Daniels***: How do you estimate, if you have no prior knowledge for the task or what's related to the task, or you rely on taking your team's word for it.
+
+129
+00:25:05.760 --> 00:25:13.920
+**Susan Daniels***: Okay, so that's a good question, if you are reliant on if you've never done it before right brand new to you.
+
+130
+00:25:14.430 --> 00:25:27.060
+**Susan Daniels***: Then you want to use the simple optimistic most likely and pessimistic mostly because anything within that range is probably right okay you don't have anything to go on.
+
+131
+00:25:27.510 --> 00:25:36.900
+**Susan Daniels***: So how do you figure out your optimistic and post pessimistic you try to look back at any prior similar projects or similar task.
+
+132
+00:25:37.260 --> 00:25:51.270
+**Susan Daniels***: Executions you can go out in the market and go parametric and find something similar out in the market to benchmark against, so there are there are other ways to help you get to your optimistic and pessimistic and most likely.
+
+133
+00:25:53.130 --> 00:26:03.000
+**Susan Daniels***: But yes, at a certain point you do defer to your subject matter experts on your team to tell you, their estimate their best estimate.
+
+134
+00:26:04.080 --> 00:26:22.830
+**Susan Daniels***: Remember, you as a project manager you're going to be responsible for a lot of bodies of work it, you know very little about Okay, you are the integrator and organizer you create the plan plan the work, work, the plan okay so yeah a lot of times you build in trust.
+
+135
+00:26:30.300 --> 00:26:39.270
+**Susan Daniels***: Okay follow up to the domain question how do the three domains that you explain relate to the pen box use the project performance domains.
+
+136
+00:26:40.020 --> 00:26:53.880
+**Susan Daniels***: um they basically took the pin box sixth edition and ran it through a blender and came out with the version seven that information is all available and embedded back into.
+
+137
+00:26:55.590 --> 00:27:01.770
+**Susan Daniels***: The curriculum that you're seeing today it just isn't organized or framed or labeled.
+
+138
+00:27:02.910 --> 00:27:11.790
+**Susan Daniels***: The same way at all OK, so the old sixth edition mindset and you know framework of how things are done.
+
+139
+00:27:12.180 --> 00:27:25.380
+**Susan Daniels***: All those tools, all those processes and all those techniques still apply they do, they have just chose to create a completely different framework, from which to operate, which is.
+
+140
+00:27:25.860 --> 00:27:45.240
+**Susan Daniels***: Basically, you got your people tasks your process tasks and keeping the business in mind tasks he, you will see an ECHO through today's curriculum some of the resource management right you're going to but you're not going to see the same language.
+
+141
+00:27:46.800 --> 00:27:51.960
+**Susan Daniels***: And framing that they have used in the past it's a new era, if you will.
+
+142
+00:27:54.870 --> 00:28:00.480
+**Susan Daniels***: Okay, I need to move on guys i'm so here's your on, let me bring the video over.
+
+143
+00:28:01.740 --> 00:28:07.830
+**Susan Daniels***: And eliana only runs for about three three minutes i'm going to have to cut it off at a certain point.
+
+144
+00:28:12.210 --> 00:28:12.780
+excuse.
+
+145
+00:28:19.680 --> 00:28:33.060
+**Susan Daniels***: Three point estimating or pert is an excellent estimating tool that can incorporate uncertainty into your estimates sometimes risk events will affect how much activity will cost or how long it will take.
+
+146
+00:28:33.510 --> 00:28:41.400
+**Susan Daniels***: And we're going to take that into account with this estimating technique because PR can be used to estimate the project cost or schedule.
+
+147
+00:28:41.670 --> 00:28:49.080
+**Susan Daniels***: In this example we're going to use an activity duration, rather than a cost but keep in mind that this tool works exactly the same.
+
+148
+00:28:49.380 --> 00:28:57.360
+**Susan Daniels***: Whether we're estimating time or money for this example i'd like you to imagine a commute that you've taken on a regular basis.
+
+149
+00:28:57.840 --> 00:29:08.130
+**Susan Daniels***: You are very familiar with this trip because you've taken it many times before, so many times that I would consider you to be the subject matter expert for this task.
+
+150
+00:29:08.430 --> 00:29:20.700
+**Susan Daniels***: Now, think of this task on the best day when there's no traffic, the weather is perfect and everything goes exactly as planned, this would be considered the optimistic estimate for the task.
+
+151
+00:29:21.210 --> 00:29:34.320
+**Susan Daniels***: Next, think of this task on the worst day perhaps there was traffic or road construction or the weather created delays you eventually arrived at your destination, but it took a very long time.
+
+152
+00:29:35.040 --> 00:29:48.450
+**Susan Daniels***: This would be considered the pessimistic estimate for the task, finally, think of an average amount of time that this task takes this is the most likely duration, that the task will take on a regular day.
+
+153
+00:29:49.350 --> 00:29:57.870
+**Susan Daniels***: For our example i'm going to use 40 minutes for the optimistic 90 minutes for the pessimistic and 15 minutes for the most likely.
+
+154
+00:29:58.320 --> 00:30:08.640
+**Susan Daniels***: Because we have access to subject matter experts who know this task very well i'm going to rely more heavily on the most likely estimate waiting it by four.
+
+155
+00:30:09.060 --> 00:30:17.550
+**Susan Daniels***: In case you're wondering, we always weigh the most likely by four when performing three point estimates, with the help of subject matter experts why.
+
+156
+00:30:18.120 --> 00:30:29.010
+**Susan Daniels***: It all goes back to the program evaluation and review technique, also known as pert pert started in the late 1950s, with the US navy polaris submarine Program.
+
+157
+00:30:29.400 --> 00:30:44.670
+**Susan Daniels***: When subject matter experts are available, we use what's called the beta formula, and we are most likely by for in this example by waiting, the most likely estimate by four it steers the average a little closer to the most likely number.
+
+158
+00:30:45.420 --> 00:30:51.930
+**Susan Daniels***: In this example, using the beta formula we come up with an expected duration of 55 minutes.
+
+159
+00:30:52.950 --> 00:31:04.050
+**Susan Daniels***: What would we do if we have no subject matter expert to help us with the estimates in that case we must proceed with the three estimates, we have based on what little experience, we do have.
+
+160
+00:31:04.440 --> 00:31:11.010
+**Susan Daniels***: Or what estimates, we can come up with, we do not wait any of these three points, more heavily than the others.
+
+161
+00:31:11.520 --> 00:31:20.670
+**Susan Daniels***: In this example using an unweighted formula, also known as the triangular formula we come up with an expected duration of 60 minutes.
+
+162
+00:31:21.210 --> 00:31:39.690
+**Susan Daniels***: If you recall, in the beta formula our estimate was 55 minutes, and now, without subject matter expertise, we have to a lot a little more time to this activity with the estimate of 60 minutes it's always a good idea to build some reserve into your schedule or budget when.
+
+163
+00:31:49.590 --> 00:31:59.820
+**Susan Daniels***: Hopefully that answers some of your questions um so as you can see there's two different formulas based upon whether you have subject matter experts experience.
+
+164
+00:32:00.120 --> 00:32:09.330
+**Susan Daniels***: trend lines to go off of or if it's no brand new to you guys and you don't have very much to go on, then you would use an alternative formula.
+
+165
+00:32:12.270 --> 00:32:22.440
+**Susan Daniels***: So let's say that we have empowered our team and they understand the work that needs to be done and they've made estimates of the different tasks that Labor for them.
+
+166
+00:32:22.800 --> 00:32:32.730
+**Susan Daniels***: Now it's up to you to try to build in accountability and the best way to build an accountability is to be visible or transparent okay.
+
+167
+00:32:34.710 --> 00:32:43.320
+**Susan Daniels***: So I have a question on we are dividing by six weeks we have optimistic pessimistic and four of the.
+
+168
+00:32:44.640 --> 00:32:58.920
+**Susan Daniels***: Most likely and that six items, so you divide by the six items, much like you divide by three items when you only optimistic most likely and pessimistic okay so back to team tasks, there are different.
+
+169
+00:33:00.600 --> 00:33:08.580
+**Susan Daniels***: Shall we say information radiators that are available to help you track and the task and where they are in process.
+
+170
+00:33:10.470 --> 00:33:19.890
+**Susan Daniels***: it's important that you understand what a Gantt chart is and mostly by just visually recognizing it as a Gantt chart and how to read it.
+
+171
+00:33:20.490 --> 00:33:30.810
+**Susan Daniels***: So you're going to have your tasks down one side and you're going to have the duration of those tasks across that is the standard framework of a Gantt chart.
+
+172
+00:33:32.340 --> 00:33:47.040
+**Susan Daniels***: There are a lot more I can go into, but this is not the time to do so, but you do need to know the Gantt charts are great for traditional project management Okay, we lay out the work right over time and then we track it.
+
+173
+00:33:48.510 --> 00:34:09.660
+**Susan Daniels***: And alternative more any flexible life cycle project is a can ban board okay can ban basically takes on bodies of work and where the different tasks are in process as they move through the different steps they have to take to be executed.
+
+174
+00:34:10.740 --> 00:34:19.440
+**Susan Daniels***: This might be design develop test would be the different columns and you've got different bodies of work that are in the design phase.
+
+175
+00:34:19.710 --> 00:34:37.500
+**Susan Daniels***: And a couple of already moved into the develop phase, then we're pleased to report that for this particular body and deliverable that we Oh, we already got one in testing so combat boards are excellent for communicating where work is in progress.
+
+176
+00:34:39.600 --> 00:34:48.330
+**Susan Daniels***: Excuse me so Gantt charts tell you how work is planned over time can ban boards show you where work is.
+
+177
+00:34:49.470 --> 00:35:02.130
+**Susan Daniels***: In progress is sort of a snapshot at any given time, these are better for forecasting or looking back right what's happened and where are we, and what can we anticipate this is much more forward looking.
+
+178
+00:35:08.880 --> 00:35:09.510
+**Susan Daniels***: Excuse me.
+
+179
+00:35:11.550 --> 00:35:16.260
+**Susan Daniels***: Now we've come to one of these guidelines and i'm going to pause for a moment and let you read it.
+
+180
+00:35:29.100 --> 00:35:38.580
+**Susan Daniels***: Okay, think about where this slide is located, is it starts talking about work breakdown structures before we've even introduced the concept.
+
+181
+00:35:39.930 --> 00:35:52.380
+**Susan Daniels***: But it belongs is still belongs in this location, because we're talking about empowering teams that a core part of empowering teams is being able to demonstrate task accountability.
+
+182
+00:35:53.040 --> 00:36:02.490
+**Susan Daniels***: So don't worry about this work breakdown structure reference we'll cover that tomorrow, when we talk about managing scope okay.
+
+183
+00:36:04.170 --> 00:36:05.430
+**Susan Daniels***: When i'm.
+
+184
+00:36:07.020 --> 00:36:16.650
+**Susan Daniels***: The way that we do task, accountability and agile, is that we do a sprint planning and everybody to estimate how much work is going to take.
+
+185
+00:36:16.980 --> 00:36:37.380
+**Susan Daniels***: The what can actually actually realistically fit into that two weeks, and then, once they've committed then they're accountable for showing how they're progressing on that work during the two weeks and that's where combat comes in very helpful in a agile work environment.
+
+186
+00:36:39.810 --> 00:36:57.750
+**Susan Daniels***: not going to go very deep on this one right now, because it really is based upon concepts that we're dependent on learning tomorrow simply begin to study it and you know add it to your list of ones, you have to slow down and recognize these tasks, happen to be able to achieve this task.
+
+187
+00:36:59.340 --> 00:37:00.510
+**Susan Daniels***: Let me check the.
+
+188
+00:37:01.650 --> 00:37:02.310
+**Susan Daniels***: The chat.
+
+189
+00:37:04.050 --> 00:37:04.320
+Okay.
+
+190
+00:37:07.440 --> 00:37:10.440
+**Susan Daniels***: Okay whoops sorry happy finger they're.
+
+191
+00:37:12.900 --> 00:37:16.140
+**Susan Daniels***: Determined we still love levels and decision making authority.
+
+192
+00:37:19.860 --> 00:37:24.900
+**Susan Daniels***: TEAM members should identify plan and manage tasks okay.
+
+193
+00:37:26.130 --> 00:37:47.070
+**Susan Daniels***: All they have to do to make a test question here is say the sponsor the project manager the supervisor or the TEAM members should identify plan and manage tasks and you would know that you need to know the correct answer and creating a high performing team and empowering your team.
+
+194
+00:37:48.210 --> 00:37:58.320
+**Susan Daniels***: Of course, the TEAM members would own their work be accountable for it and they're, the ones who allocate a work among themselves and their strengths.
+
+195
+00:38:00.750 --> 00:38:06.240
+**Susan Daniels***: We talked about how to estimate empowers teams to drive their own improvement okay.
+
+196
+00:38:07.350 --> 00:38:18.720
+**Susan Daniels***: that's easier said than done, but we'll talk about how that's accomplished when we discuss on sprint retrospectives, which is when the team looks.
+
+197
+00:38:19.590 --> 00:38:28.710
+**Susan Daniels***: At what they've accomplished what's worked what didn't work, what should we do differently okay and that's how you empower them to drive their own improvement.
+
+198
+00:38:31.830 --> 00:38:32.310
+**Susan Daniels***: What.
+
+199
+00:38:34.830 --> 00:38:38.640
+**Susan Daniels***: Okay, what is the X axis in the can man chart.
+
+200
+00:38:41.520 --> 00:38:49.830
+**Susan Daniels***: Okay, these are the tasks the overarching deliverable that needs to be done, these are the action steps are they that that.
+
+201
+00:38:50.070 --> 00:38:59.250
+**Susan Daniels***: That the sub parts of a little units and will work packages that needs to be accomplished, to be able to to produce this so these would be small deliverables.
+
+202
+00:38:59.520 --> 00:39:15.510
+**Susan Daniels***: And they can be organized by this is what we owe for sales, this is what we have from marketing, this is what we owe for customer service Okay, because we're ultimately trying to create a deliverable that meets all of their needs and for us to make sales happy to be able to.
+
+203
+00:39:18.090 --> 00:39:21.600
+**Susan Daniels***: allocate based upon contract right or based upon.
+
+204
+00:39:23.910 --> 00:39:35.070
+**Susan Daniels***: sale customer right or customer account, then there may be a body of work that has to happen there may be multiple steps that have to happen, and then they can watch it happen over time.
+
+205
+00:39:35.340 --> 00:39:43.770
+**Susan Daniels***: But this is the deliverables, these are the little tasks to achieve that deliverable and where they are in process hope that answered your question.
+
+206
+00:39:45.660 --> 00:39:58.020
+**Susan Daniels***: Okay, what is the status of the work to do in progress, done Okay, that is the most common basic categories for Cameron, you know to do.
+
+207
+00:39:59.610 --> 00:40:07.260
+**Susan Daniels***: Progress done much really effective Kim bands are much better at delineating.
+
+208
+00:40:08.820 --> 00:40:12.540
+**Susan Daniels***: The sequence of work and where this little.
+
+209
+00:40:13.710 --> 00:40:16.020
+**Susan Daniels***: task you know there's not testers call it a.
+
+210
+00:40:17.610 --> 00:40:30.630
+**Susan Daniels***: component is in process, so this can be designed, develop and test but i've seen combat boards have up to 12 subdivisions Okay, where even testing has its own.
+
+211
+00:40:30.840 --> 00:40:36.300
+**Susan Daniels***: You know delineation and development has its own delineation and design this further.
+
+212
+00:40:36.630 --> 00:40:47.610
+**Susan Daniels***: develop down because if they may have a where it's pending review and approval right okay that's where it's sitting so campaigns are highly customizable.
+
+213
+00:40:47.940 --> 00:40:56.520
+**Susan Daniels***: And it's kind of there's no wrong way to do one as long as it's showing the work progressing as well as you list what needs to be done.
+
+214
+00:40:58.770 --> 00:41:04.110
+**Susan Daniels***: And there's quite a few videos available out on can how to do campaign, but.
+
+215
+00:41:04.710 --> 00:41:14.970
+**Susan Daniels***: What you mean for the test is simply that it's an inflammation radiator it helps you track accountability and it's a snapshot in time this is more about.
+
+216
+00:41:15.540 --> 00:41:25.140
+**Susan Daniels***: forecasting okay and future looking you don't tell you, we are here today, or something, but on the on the whole it's about forecasting work overtime.
+
+217
+00:41:27.420 --> 00:41:32.460
+**Susan Daniels***: Right there's a comment here camden aimed at reducing work in progress right we.
+
+218
+00:41:32.790 --> 00:41:42.420
+**Susan Daniels***: were trying to see whether there's bottlenecks happening somewhere, you know we can talk about how you limit work in progress, but that's not where we are in the lecture today okay i'm.
+
+219
+00:41:42.810 --> 00:41:55.620
+**Susan Daniels***: hanging in there we'll get back to it, we talk more when we're talking about how to manage the work right now we're just trying to keep the team, we can powered and going okay and accountability is the key takeaway for this.
+
+220
+00:41:58.230 --> 00:42:13.230
+**Susan Daniels***: Alright, so we've got i'm going to try to take a break about 330 and I want to cover the next task which is train TEAM members and stakeholders and there's only a few slides that are involved, but I think will will make it through.
+
+221
+00:42:19.320 --> 00:42:34.710
+**Susan Daniels***: So if these are the deliverables will have a mentoring plan and training plan, of course, we have to estimate the cost if we're going to send our our team to go get this training hey gotta get a scheduling and.
+
+222
+00:42:35.850 --> 00:42:50.310
+**Susan Daniels***: there's there's really no value in sending them out if you don't come back and assess whether they actually benefited from the training or not, so this needs to be some sort of training, assessment, as well as you know, perhaps evidence of certifications.
+
+223
+00:42:52.350 --> 00:43:00.300
+**Susan Daniels***: Those are some of the outcomes of train TEAM members and stakeholders Okay, but to get there you have to do the gap analysis right.
+
+224
+00:43:00.900 --> 00:43:13.800
+**Susan Daniels***: You got to actually conduct the training and we'll talk about pairing and mentoring, towards the end of this section, what I want you to get as a key takeaway here is this not just training TEAM members.
+
+225
+00:43:16.710 --> 00:43:23.910
+**Susan Daniels***: and stakeholders, sometimes remember the definition of a stakeholder is any person.
+
+226
+00:43:25.170 --> 00:43:38.910
+**Susan Daniels***: or organization that can impact or is impacted or perceives it can be impacted by your projects processes or outcomes so that's very broad.
+
+227
+00:43:39.300 --> 00:43:47.880
+**Susan Daniels***: And sometimes we need to work with people who don't understand how agile works right, so we have to take our stakeholders.
+
+228
+00:43:48.330 --> 00:43:56.850
+**Susan Daniels***: and take them through some basic agile training, so they understand why we're doing what we're doing and the way that we've organized our work and how it's going to unfold.
+
+229
+00:43:57.330 --> 00:44:10.020
+**Susan Daniels***: In the future, are we going to have one and done and plan our work, work, our plan and control for variances are we going to do incremental releases and incremental enhancements and get feedback along the way.
+
+230
+00:44:11.340 --> 00:44:20.190
+**Susan Daniels***: This is all part of training and your stakeholders so don't be surprised that in your training plan you're doing more than just your team.
+
+231
+00:44:20.550 --> 00:44:29.520
+**Susan Daniels***: i've trained my sponsors before okay literally had to sit down and train my sponsors and give them basics on different kinds.
+
+232
+00:44:30.150 --> 00:44:41.460
+**Susan Daniels***: of tools and techniques that I was using so they were on board with me and they understood my kind of the method to my madness, if you will, or my the wisdom of my approach.
+
+233
+00:44:43.050 --> 00:45:00.450
+**Susan Daniels***: So the job files to you as the project manager to do the training and coaching plan Okay, but there's a difference between training and coaching training is very formalized and it's focused on skills right very skill specific.
+
+234
+00:45:01.650 --> 00:45:09.030
+**Susan Daniels***: Mostly like what you're doing here you're learning tools and techniques and vocabulary and methodologies right it's a very.
+
+235
+00:45:10.830 --> 00:45:19.470
+**Susan Daniels***: focused on either you do, or you don't right, you know it, or you don't you can, or you can't, but when it comes to coaching.
+
+236
+00:45:19.920 --> 00:45:31.770
+**Susan Daniels***: coaching is more the soft skills, it is the interpersonal skills when you're coaching your team okay or your polka coaching your your arm your stakeholders.
+
+237
+00:45:32.280 --> 00:45:45.330
+**Susan Daniels***: They may want to take a very aggressive barrel in and confront the person about the issue i'm going to march in there and solve that when you realize when maybe a softer approach.
+
+238
+00:45:46.500 --> 00:45:55.770
+**Susan Daniels***: and asking questions first you know, seeing what might have been the drivers that created the situation from their perspective, you know.
+
+239
+00:45:56.220 --> 00:46:08.070
+**Susan Daniels***: Then that's more coaching you're not training them on how to do something as far as a skill or a method you are coaching them on how to achieve a goal.
+
+240
+00:46:09.900 --> 00:46:29.400
+**Susan Daniels***: Through softer skills and as project managers You may be surprised how often you may need to coach Okay, some of your stakeholders on how best to support you in engaging with other other players and how to.
+
+241
+00:46:31.230 --> 00:46:33.870
+**Susan Daniels***: how best to approach.
+
+242
+00:46:35.550 --> 00:46:40.950
+**Susan Daniels***: Problem Solving Okay, on the whole so coaching is.
+
+243
+00:46:42.120 --> 00:46:50.460
+**Susan Daniels***: If you don't have one, you should probably get one, but you are definitely going to be one Okay, a coach and a mentor and a trainer for your team.
+
+244
+00:46:50.850 --> 00:47:02.940
+**Susan Daniels***: it's it's all about closing the gap and keeping your project moving forward, where everybody's engaged in the way you need them engaged and no one's alienated.
+
+245
+00:47:05.460 --> 00:47:09.030
+**Susan Daniels***: So this is the plan, the training and coaching plan.
+
+246
+00:47:11.280 --> 00:47:14.700
+**Susan Daniels***: This is just a step by step approach on how to do it.
+
+247
+00:47:23.130 --> 00:47:25.890
+**Susan Daniels***: Okay, these are just considerations um.
+
+248
+00:47:27.690 --> 00:47:32.280
+**Susan Daniels***: i'm not sure I have much to add to this is pretty straightforward.
+
+249
+00:47:33.810 --> 00:47:37.650
+**Susan Daniels***: But I will I will share this that um.
+
+250
+00:47:40.260 --> 00:47:48.390
+**Susan Daniels***: You need to training plan to be in time, we need to make sure that you're not only training the team that's going to be executing.
+
+251
+00:47:49.260 --> 00:48:06.240
+**Susan Daniels***: Okay, and helping you to influence and navigate the execution of your project but you'll also have to end your training plan consider who's the recipient of your project at the end Okay, let me be more clear.
+
+252
+00:48:08.910 --> 00:48:17.700
+**Susan Daniels***: Many times projects are to create something new unique to arm produce change in the organization.
+
+253
+00:48:18.270 --> 00:48:25.260
+**Susan Daniels***: And, as a result of being pretty much a professional change agent, you are being disruptive right.
+
+254
+00:48:25.620 --> 00:48:38.160
+**Susan Daniels***: To the the ongoing processes of the organization if they got their way of doing business Now it may be bad and they need it fixed and your job is to help them fix it okay and they're happy you're doing that.
+
+255
+00:48:38.430 --> 00:48:49.140
+**Susan Daniels***: Right, so not all changes not welcome but let's say that your job is to change the process implement a new solution platform or to.
+
+256
+00:48:50.520 --> 00:48:52.890
+**Susan Daniels***: do some sort of integration process.
+
+257
+00:48:55.260 --> 00:49:02.250
+**Susan Daniels***: You do a great job getting it all ready and you think you're done when the solution is built.
+
+258
+00:49:03.300 --> 00:49:14.520
+**Susan Daniels***: let's have the you know the cake cookies and balloons you're not Okay, you need to make sure that the end recipient players organization agent.
+
+259
+00:49:15.210 --> 00:49:26.130
+**Susan Daniels***: is prepared to receive it, and that they know how to use it Okay, so if you're responsible for training the people receiving the change.
+
+260
+00:49:26.460 --> 00:49:37.470
+**Susan Daniels***: You got to put that into your plan, maybe six weeks or eight weeks before the whole thing is expected to be done so that they can be ready to receive it and use it.
+
+261
+00:49:38.340 --> 00:49:46.650
+**Susan Daniels***: in a timely manner, especially if you have multiple batches of people that have to be trained on this new way of doing things.
+
+262
+00:49:48.300 --> 00:50:02.100
+**Susan Daniels***: classic train the trainer approach might be applicable, but the training of the for the transition plan is very much a part of your overall training and coaching plan let's see what kind of feedback I have.
+
+263
+00:50:04.470 --> 00:50:06.240
+**Susan Daniels***: Okay i'm seeing that i'm.
+
+264
+00:50:07.350 --> 00:50:14.490
+**Susan Daniels***: you're talking about different types of campaigns jira is a great can ban board a digital combat board.
+
+265
+00:50:16.200 --> 00:50:19.380
+**Susan Daniels***: Okay, training and coaching equals, training and mentoring plan.
+
+266
+00:50:19.890 --> 00:50:30.450
+**Susan Daniels***: On coaching sometimes occurs, whether it's being asked for or not okay you you're catching them doing what's right and you reinforce what's what's doing right.
+
+267
+00:50:30.780 --> 00:50:51.150
+**Susan Daniels***: And you'd correct what's wrong my like a coach right great job oh next time remember to do this that's coaching mentoring is more what I was alluding to when it was um you may want to try it this way, you know right um so mentoring, sometimes happens, whether they're they're.
+
+268
+00:50:52.860 --> 00:51:03.780
+**Susan Daniels***: oftentimes they will look to you okay from mentoring coaching each your role to give it as as as the as the projects unfolding mentoring, is a more delicate touch be will.
+
+269
+00:51:04.890 --> 00:51:05.280
+**Susan Daniels***: Okay.
+
+270
+00:51:06.750 --> 00:51:07.770
+**Susan Daniels***: let's see what kind of things.
+
+271
+00:51:09.540 --> 00:51:18.240
+**Susan Daniels***: I had to tell my lieutenant and Captain on how to deal with the everyday things and brief the color Colonel and not overreact.
+
+272
+00:51:19.020 --> 00:51:31.020
+**Susan Daniels***: And said his mind at ease right um this comes that you will coach up line, and you will you will on train up line a lot, the higher up in an organization people get.
+
+273
+00:51:32.550 --> 00:51:45.180
+**Susan Daniels***: More and more, they have under the wingspan which means they literally lose touch with the details Okay, there are so busy just trying to keep everything integrated Okay, and moving.
+
+274
+00:51:46.140 --> 00:52:00.840
+**Susan Daniels***: Together, so when they go deep on something sometimes they need to be brought up to speed, they need to be orientated to how things are done at this level, so that they can appreciate the progress that you've made or they can appreciate.
+
+275
+00:52:01.650 --> 00:52:09.540
+**Susan Daniels***: The dynamics and how bad things really are and how much help is needed so sometimes it will be your role to.
+
+276
+00:52:10.470 --> 00:52:20.070
+**Susan Daniels***: Give them the big picture and then how it applies specifically to the situation, you will be coaching up line and training up line a lot as a project manager.
+
+277
+00:52:20.580 --> 00:52:37.050
+**Susan Daniels***: And it's not like they should know what's going on, they know generally what's going on they're there to ask you questions about the specifics okay they're there now to get into specific level and it's up to you to provide those details in context.
+
+278
+00:52:39.360 --> 00:52:52.680
+**Susan Daniels***: require competencies Okay, we are still training and in coaching and mentoring here right well it's your job to pretty much figure out what competencies, you need and whether you have them or not.
+
+279
+00:53:02.070 --> 00:53:05.910
+**Susan Daniels***: Okay i've already talked to you about some of the unique on stakeholder things.
+
+280
+00:53:08.070 --> 00:53:13.950
+**Susan Daniels***: Now trained him teamers on the customers business culture desired outcomes and project context.
+
+281
+00:53:14.370 --> 00:53:23.940
+**Susan Daniels***: That happens all the time, as people float in and off your team in and out of your team, you may need to orientate them to what the project is all about.
+
+282
+00:53:24.420 --> 00:53:30.210
+**Susan Daniels***: That table of organization how everyone fits together orientate them to the project overall objectives.
+
+283
+00:53:30.600 --> 00:53:40.590
+**Susan Daniels***: There may be some basic things that you put together for your project, so you don't have to keep repeating yourself, you can just say hey we've put together a couple of slide decks.
+
+284
+00:53:40.950 --> 00:53:50.640
+**Susan Daniels***: out on the sharepoint side, once you start today we're looking at those and then i'll get to organize you know get you get to go in and figure out how this whole thing fits together.
+
+285
+00:53:51.090 --> 00:53:56.640
+**Susan Daniels***: And we'll meet later to talk to answer any questions you have but building that.
+
+286
+00:53:57.600 --> 00:54:15.690
+**Susan Daniels***: Especially if you have a really big complex long term project being able to have just an orientation back can really get someone up to speed rapidly, especially if you have phases in your project and people leave a new people come in for the next phase.
+
+287
+00:54:17.580 --> 00:54:33.690
+**Susan Daniels***: It just it just lays the groundwork for them so um I would consider that one of the core competencies, that is needed, do you understand the big picture, do you know what's going on here okay and it's up to you to make sure your team has that.
+
+288
+00:54:36.210 --> 00:54:50.970
+**Susan Daniels***: So this is one of those slides that got little check marks on it so by now, you should know that you would see these listed and then you would have to be able to recognize, those are different kinds of trainings right now.
+
+289
+00:54:51.450 --> 00:55:04.020
+**Susan Daniels***: I will tell you pmi is not going to use the word learning or training has one of the answers invite us on interactive simulations.
+
+290
+00:55:04.680 --> 00:55:18.870
+**Susan Daniels***: virtual classrooms document reviews all right, because they don't obviously tell you that it has to do with training classroom is a clue Okay, but um you need to understand.
+
+291
+00:55:19.890 --> 00:55:24.600
+**Susan Daniels***: and recognize what what kind of approaches, do you have to do your training.
+
+292
+00:55:26.370 --> 00:55:31.560
+**Susan Daniels***: Unfortunately, a lot of it is on the job hey good or bad, a lot of is on the job.
+
+293
+00:55:33.240 --> 00:55:33.720
+Okay.
+
+294
+00:55:38.940 --> 00:55:40.170
+**Susan Daniels***: Okay, so.
+
+295
+00:55:41.190 --> 00:56:02.130
+**Susan Daniels***: This is definitions of different kinds of training, I think that you're going to have a combination, some of you were you're doing virtual instructor led training that's what you're experiencing now supported by some self paced E learning going and watching videos right and using the.
+
+296
+00:56:04.020 --> 00:56:08.640
+**Susan Daniels***: The test prep questions right that's kind of self paced E learning.
+
+297
+00:56:09.960 --> 00:56:19.350
+**Susan Daniels***: There the nice thing about on the era that we live in is that we can have training modules computer based training modules developed.
+
+298
+00:56:19.740 --> 00:56:27.540
+**Susan Daniels***: That are pretty sophisticated that you can use as an orientation guide or training tool to help.
+
+299
+00:56:28.470 --> 00:56:37.530
+**Susan Daniels***: Get people up to speed either with onboarding to your project or helping them to onboard with whatever your end solution is that you produce for your project.
+
+300
+00:56:38.370 --> 00:56:48.690
+**Susan Daniels***: You can begin to design the computer based training which by the way, I strongly recommend, especially if it's a new process that you're implementing in an organization.
+
+301
+00:56:49.050 --> 00:56:57.030
+**Susan Daniels***: Because you want them to be able to go back and show it over and over and over and over again, I to somebody who's who's onboarding new to the role.
+
+302
+00:56:57.960 --> 00:57:09.030
+**Susan Daniels***: Now, another way to bring people up to speed is to simply have them go through some of the documents and have a look at the the archives, you know past performance reports.
+
+303
+00:57:09.330 --> 00:57:24.930
+**Susan Daniels***: On the Charter have them look at your business case, maybe look at your master project management plan, there are different documents they can review that help them get up to speed, but preferable, is a computer based training class or instructor led training.
+
+304
+00:57:26.790 --> 00:57:35.130
+**Susan Daniels***: Well, you can't do any plan without actually having a budget for it right and a schedule you've got to build all that in so.
+
+305
+00:57:36.720 --> 00:57:39.750
+**Susan Daniels***: i'm just looking ahead i'll let you read the slide well.
+
+306
+00:57:43.320 --> 00:57:55.380
+**Susan Daniels***: I think is pretty straightforward that you've got to put it into your budget into your schedule, or else is not going to happen, and this is an integral part of your master project management plan.
+
+307
+00:57:57.540 --> 00:58:03.870
+**Susan Daniels***: pairing and coaching this is wonderful, this is where you let people job shadow other people okay.
+
+308
+00:58:04.530 --> 00:58:22.230
+**Susan Daniels***: This is where you let somebody who's still accountable for this deliverable but they give someone a small piece of responsibility Okay, and they can they're kind of working on it together another kind of is pairing, particularly when you're doing coding.
+
+309
+00:58:23.760 --> 00:58:39.120
+**Susan Daniels***: They do pair coding that way they're bouncing their ideas off of each other and they're testing literally against each other on whether their code is accurate or not so pairing is very helpful when you're doing coding and.
+
+310
+00:58:39.810 --> 00:58:48.270
+**Susan Daniels***: pairing people together to mentor and develop or coach other people it's a don't forget the buddy system works, I guess, is what i'm trying to say.
+
+311
+00:58:54.270 --> 00:59:01.920
+**Susan Daniels***: Yes, the cinema for our document review is required reading yes okay so certifications.
+
+312
+00:59:02.370 --> 00:59:11.550
+**Susan Daniels***: There are all different kinds of trainings and there's ways to assess the training, one of them is to go for certifications and certifications have come a long way.
+
+313
+00:59:12.030 --> 00:59:20.160
+**Susan Daniels***: Okay i'm not gonna tell you how old I am but i'm telling you they weren't all that in a bag of chips a couple of decades ago, but as we've had people.
+
+314
+00:59:20.550 --> 00:59:29.100
+**Susan Daniels***: On the population is risen and we've become more international and people have come from various institutions to get their learning.
+
+315
+00:59:29.880 --> 00:59:37.920
+**Susan Daniels***: The only way to really know that they know what they say they know is to have some third party assess their knowledge.
+
+316
+00:59:38.880 --> 00:59:53.700
+**Susan Daniels***: And that's where the certifications have really taken off it's sort of like the HR screener the human resource screener doesn't have to ask you the right questions to know whether you know about project management.
+
+317
+00:59:54.630 --> 01:00:09.300
+**Susan Daniels***: She might not know anything about it herself, so how can she screen you right and so having this certification just sort of rings, the bell and let you through the next step of the funnel and letting me with the ultimate hiring manager.
+
+318
+01:00:10.770 --> 01:00:18.900
+**Susan Daniels***: colleges today are literally doing something called stacking credentials, where you're not going to leave just with your.
+
+319
+01:00:19.230 --> 01:00:34.140
+**Susan Daniels***: Your bachelor or your masters, but they want to stack various certifications On top of that as well, so that you have credibility in the professional environment, along with your your degree.
+
+320
+01:00:35.070 --> 01:00:46.890
+**Susan Daniels***: So you going for your psp is really a differentiator it moves you forward by virtue of the fact of having it, particularly if you're trying to compete.
+
+321
+01:00:47.370 --> 01:01:05.280
+**Susan Daniels***: On in the through the large job boards, and you know really working against a lot of competition in the field point of information and just before we go on break there are more project management more project management jobs available than people to fill it right now.
+
+322
+01:01:06.450 --> 01:01:11.010
+**Susan Daniels***: So you got a very bright future hey once you get your certification.
+
+323
+01:01:12.870 --> 01:01:15.450
+**Susan Daniels***: Okay um i'm going to have let's see.
+
+324
+01:01:19.740 --> 01:01:23.460
+**Susan Daniels***: Okay, two slides and we're gonna break okay so.
+
+325
+01:01:25.590 --> 01:01:29.160
+**Susan Daniels***: it's one thing to send people out to to be trained.
+
+326
+01:01:30.630 --> 01:01:33.240
+**Susan Daniels***: But you need to make sure that the training was effective.
+
+327
+01:01:33.960 --> 01:01:42.720
+**Susan Daniels***: So one of the verifications that the training is effective, is that you're able to pass the exam right well another way of doing that is to say.
+
+328
+01:01:43.110 --> 01:01:54.960
+**Susan Daniels***: Our people we've created this new solution for the company we're going to train you on how to do it here's the baseline walking in how much did you know how this was supposed to work right.
+
+329
+01:01:55.500 --> 01:02:16.680
+**Susan Daniels***: And then you give the test afterwards, how much did you learn from what you knew when you walked in and did you learn enough to actually pass minimum competence competency when you're doing your training development plan it's important that you build these in as part of the plan.
+
+330
+01:02:18.390 --> 01:02:23.520
+**Susan Daniels***: You may not be a professional trainer So how do I get this done you go to the training department.
+
+331
+01:02:23.910 --> 01:02:33.450
+**Susan Daniels***: Or you ask for assistance you build it into the budget, I need a curriculum design consultant for one day to help me outline what I need is objectives.
+
+332
+01:02:33.840 --> 01:02:47.580
+**Susan Daniels***: Training right you build it in, but your training plan typically that transitional training plan should be robust with baseline and post training assessments.
+
+333
+01:02:48.780 --> 01:02:54.420
+**Susan Daniels***: You will, you will see that okay okay you do it before and after.
+
+334
+01:02:56.910 --> 01:03:10.830
+**Susan Daniels***: So this is your guidelines for training i'm not going to go over it i'm just going to go ahead and say, please study it and always have them on sign in original signatures, by the way, okay.
+
+335
+01:03:11.610 --> 01:03:24.900
+**Susan Daniels***: um so it's time for a break i'm going to move the on the timer on the music on and let's take let's return in 15 minutes see in a few.
+

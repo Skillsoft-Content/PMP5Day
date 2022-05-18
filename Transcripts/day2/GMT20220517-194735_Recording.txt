@@ -1,0 +1,213 @@
+06:58:48	Justin Delpalacio:	is the O2O study groups established now?
+06:58:56	Paul Dailey:	@India - Requested to join
+06:59:43	John Branch:	Yes, request connection with Keemiya Pourmonir and she will link you in to the O2O LinkedIn study group
+07:00:11	Justin Delpalacio:	thanks i did
+07:03:33	Simone Bonner:	@keemiya Pourmonir please link me O2O study
+07:04:27	John Norseen:	Can you not "Crash" on a non-critical path where the risk/costs might be less in order to free up resources to level against the critical path?
+07:06:32	LaSharon Hampton:	the graphics make it easy to understand the key concept being presented
+07:06:54	Jon Kincaid:	@keemiya Pourmonir please link me to the study group
+07:07:00	Zendre L Glymph:	Crashing and Fast-Tracking are located in Module 16 in the Coursework
+07:07:30	Zendre L Glymph:	Crashing is Submodule 5. Fast Tracking is Submodule 6
+07:08:55	Susan Daniels:	Yes John, but my point is your start looking to crash on the critical path to get the greatest return.  The goal is to improve the early finish date.  Crashing work streams not on the crucial path would be a secondary strategy  only to create resources to in crash an activity on the critical path.
+07:09:09	Charmakeitha Smith:	video frozen
+07:10:15	Ian Randall:	NASCAR
+07:10:17	Zendre L Glymph:	A pitstop
+07:10:18	Cierra White:	Nascar
+07:10:40	Anitha Kurunthachalam:	if we have fixed budget how can we add more resources? also when we  consider resource training period and proficiency to complete the new task it impact the timeline and puts the project at risk
+07:12:23	Carlos Duque:	Tri state area here
+07:12:29	James Fung:	Susan did you say crashing should usually be tried after fast tracking? pls explain why
+07:12:55	Sirak Medhane:	For EST Study Group: sirak.medhane@gmail.com (in MD - Rockville Area) ; Please add me .  Thank you!
+07:13:43	Susan Daniels:	please study group conversations to the break periods.
+07:14:21	Siobhan Meehan:	***Susan Daniels*** Fast Tracking- does this not have a potential impact on the Scope? Considering there's no additional budget and time has been shortened.
+07:14:35	Timothy Wolfe:	If we could have achieved these efficiencies through parallel efforts all along without jeopardizing the project all along, why would we have needed the client's compression guidance to tell us to do so?
+07:16:19	Siobhan Meehan:	***Susan Daniels*** impact to QA?
+07:16:25	Siobhan Meehan:	Quality
+07:18:18	Joseph Stapleton:	Timothy, 
+07:18:34	Joseph Stapleton:	Parallel efforts increase risk and may result in rework. 
+07:18:53	Timothy Wolfe:	That makes sense, Joseph, thanks! 
+07:19:03	Joseph Stapleton:	Np!
+07:20:06	Heema Sharma:	can you specify what you mean by rework? Are we talking people making mistakes and needing to redo some tasks?
+07:20:40	Phillip Hiner:	Couldn’t moving a task up in the timeline cause them to ask for more money since you are going out of contract?
+07:21:14	Jonathan Olson:	Is/Should the risk potential of fast tracking/crashing  addressed in Resource management Plan? 
+07:21:26	Siobhan Meehan:	thank you :-)
+07:21:47	Mark Murphy:	What about costs associated with external suppliers when you adjust schedules -- i.e. idle production lines, resources that aren't available, etc?
+07:22:18	Timothy Kroll:	Often there are multiple parts of a project. If the technology part is behind making or fixing the software, the testing project is at a much higher risk by having to speed up to make up the delay and meet milestone deadlines. Are these independent or intercoonnected?
+07:22:36	Mannix Flores-Cruz:	Would we apply Management of Change for Schedule Compression?
+07:23:17	Mannix Flores-Cruz:	Thanks
+07:24:33	Shrikant Kulkarni:	PMIS Stands for?
+07:24:43	Seth Maldonado:	Project Management Information System
+07:24:49	Heema Sharma:	project management information system
+07:24:59	Zendre L Glymph:	PMIS stands for Project Management Information System
+07:25:03	Dominique Griffin:	What does EAC stand for?
+07:25:23	Stephen Edmunds:	Estimate at Completion
+07:25:27	Timothy Kroll:	East Australian Current. :)
+07:26:43	Susan Daniels:	Interconnected
+07:28:36	Timothy Kroll:	Thanks, these types of multifaceted projects, like the one I did in Orange County, CA, were very difficult as interconnected and these tools were not accurately predicting progress. :(
+07:29:12	Joseph Stapleton:	Thanks Carl!
+07:29:29	Timothy Wolfe:	Is it industry standard to call a human employee or contractor a "resource"?
+07:30:31	**Carl Mullin**:	You're welcome
+07:31:40	Claudio Bomfim:	We may have a model to bottom-up estimate.
+07:32:36	Andreliqua Cannaday:	What does SWAG stand for?
+07:32:37	Robert J Sproat:	Swag = Kentucky Windage
+07:32:40	James Anderson:	Scientific Wild A$$ Guess
+07:32:42	Stephen Edmunds:	Rough Order of Magnitude: ROM
+Scientific Wild Argh Guess - SWAG
+07:32:59	Andreliqua Cannaday:	Thanks :)
+07:33:03	Claudio Bomfim:	Or using a model would be considered Top-down estimate?
+07:34:14	Juliana Osuoha:	what of the phased estimate at the bottom?
+07:38:26	Stephen Edmunds:	Compliance will get you in trouble quicker than more aspects
+07:40:20	Andrew Dugger:	Are there proprietary issues with Lessons Learned access?
+07:41:03	Stephen Edmunds:	That would depends upon the agreements with sponsors and stakeholders
+07:41:10	Juliana Osuoha:	it is, thanks
+07:41:35	Sean Whiteman:	page 255 of sixth ed
+07:41:48	John Barnett:	do you build costs for your compensation if you are a full time member of the company?
+07:43:28	Jason Maass:	What is the diff between Activity cost and work package cost?
+07:43:41	Ryan Pursley:	John, I think that would depend on the business practices. I'm in the Marines and I've added my salary because for a project that was time I spent away from my actual job. It was a cost the Marine Corps had to eat from me being productive where I am trained
+07:44:03	Ryan Patterson:	Work Package Cost and Activity Cost covers all costs for materials and labor?
+07:44:12	Julian Walle:	@Timothy Wolfe that is a good question as I was wondering the same thing.  Very strange to hear that in the video.
+07:45:02	Alex Broud:	do we build  in a slack price into est.
+07:45:25	Jason Maass:	It seems to me that activity and work are synonyms. Im confused.
+07:45:26	Stephen Edmunds:	Smaller to greater cost in the reserve
+07:46:58	Stephen Edmunds:	Activity = Specific tasks
+Work= Larger job or sections. Human Resources vs Phone clerk ?
+07:48:28	Gibb Little:	With "Management Reserves" include profit?
+07:48:31	Juliana Osuoha:	Does reserves mean cost buffers?
+07:48:48	Ian Fryman:	I suppose the management reserves might be in the SOP?
+07:48:51	Paul Dailey:	Do you find that management reserves are still available for companies that approve budgets for the entire year before a project launches? 
+07:49:33	Arianne Wilson:	so management reserves like funds set aside in case more money is required to move forward with the project?
+07:50:28	Ryan Patterson:	No
+07:50:28	Siobhan Meehan:	Yes
+07:50:28	Stephen Edmunds:	Mostly
+07:50:30	Kashif Baloch:	no
+07:50:32	Michelle Fortier:	No
+07:50:32	Jennifer Aguilar:	es
+07:50:32	David Delgado:	yes
+07:50:33	Eric Towns:	no
+07:50:33	Kelly Brown:	yes
+07:50:34	Jonathan Olson:	no
+07:50:34	Ramon Diaz Soto:	yes
+07:50:34	Darain Kawamoto:	no
+07:50:35	Raymond Lawson:	yes
+07:50:35	Ian Fryman:	not really, not if I'm over budget
+07:50:35	Norman Johnson:	no
+07:50:37	David Hulse:	over budget 
+07:50:38	Michael O'Leary:	depends
+07:50:38	Jean Marthone:	yes
+07:50:39	Jimmy Turner:	No
+07:50:39	Aaron Butler:	looks like it ended up unde budget
+07:50:40	Deanne LaFace:	yes
+07:50:40	Simone Bonner:	no
+07:50:41	Joseph Dewey:	Yes
+07:50:41	Erin Becote:	yes
+07:50:41	Kelly McCann:	yes
+07:50:41	Brad Phillips:	yes
+07:50:42	Matthew Rippard:	no
+07:50:42	Andreliqua Cannaday:	no
+07:50:43	Brenda Calvert:	Yes
+07:50:43	John Mateer:	Kinda
+07:50:43	Edgardo E Del valle:	yes
+07:50:44	Matthew Fultz:	yes
+07:50:44	Angelic Wheeler:	yes
+07:50:44	John Branch:	Expenditures exceeded Baseline at the end
+07:50:44	Ian Randall:	yes
+07:50:44	Rocky King:	no
+07:50:44	Jamie Davis:	yes
+07:50:44	Jonathan Tatum:	No
+07:50:45	Bonniekeya Kliest:	yes
+07:50:46	Ryan Marcotte:	No, you had to use management reserves.
+07:50:46	Clayborne Taylor:	no
+07:50:47	Cindy Cuencas:	No 
+07:50:47	Phillip Hiner:	No
+07:50:47	Juliana Osuoha:	yes, 
+07:50:47	Brian Parrish:	no, had to use some of reserve
+07:50:47	Emile Cochet:	maybe
+07:50:47	Blake Weitzel:	yes
+07:50:48	Brianna Muth:	no
+07:50:48	Carlos Duque:	yes
+07:50:49	George Gyles:	Yes
+07:50:49	Tim Dubeansky:	Yes
+07:50:50	Daniel Ramos:	yes
+07:50:50	Skyler Hawkes:	yes
+07:50:51	Morgan Libby:	no because I am tapping into management reserves
+07:50:52	Alejandro del Angel Rodriguez:	yes
+07:50:52	Lisa James:	Yes, it appers expenditures were in line
+07:50:53	Onec Hughes:	yes
+07:50:53	Tyler Elliot:	Over budget not on time
+07:50:53	David Kowalczyk:	Yes, only a little over budget.
+07:50:53	Glen Moody:	i think i would rather be on budget
+07:50:54	Marquise Bowman:	no
+07:50:54	Angela Reynolds:	yes
+07:50:54	Jyothi Reddi:	yes
+07:50:55	Fierlaha Yeo:	Yes
+07:50:55	Kashif Baloch:	No went over the budget
+07:50:56	Maximiliano Salcedo:	no
+07:50:56	Reuben Greene:	Mostly
+07:50:56	1_FaG@9506hg:	yes
+07:50:57	Jeffrey Rice:	no
+07:50:57	Michael Grant:	no
+07:50:57	Mark Vertuli:	yes
+07:50:57	Eduardo Defendini:	if it was a project to send man to mars, yes
+07:50:58	John Barnett:	over time and over budget
+07:50:58	Jason Shurtz:	yes
+07:50:58	Tania Constance Mabounou:	ys
+07:50:58	Michele Maggard:	no
+07:50:59	Sarina Miller:	no
+07:50:59	Jeremiah Clark:	I think so
+07:51:01	Carmelo Rosario:	No, unless the sponsor was the cause for overbudgeting
+07:51:01	Ryan Scranton:	yes
+07:51:02	Christine Jones:	yes
+07:51:02	Stephen Edmunds:	Primary budget was spent but management reserve was not fully spent
+07:51:02	Adam Cannon:	If the objective was met and it didn't bust the entire budget, then yes.
+07:51:02	Gibb Little:	Is BAC teh same as cost baseline?
+07:51:02	Michael Johnson:	Depends on the customer
+07:51:03	Mallory King:	no
+07:51:03	Timothy Goloversic:	I cam in slightly over budget. So no
+07:51:03	Geoffrey Essman:	with todays inflation rise yes
+07:51:03	Shrikant Kulkarni:	yes
+07:51:03	Heather Wilson:	yes
+07:51:04	Sequoia Sime-Geffner:	Under
+07:51:05	Ian Dick:	Yes
+07:51:07	Erik Hamilton:	It depends
+07:51:08	Oscar Marin:	yes
+07:51:08	Faisal Munib:	yes
+07:51:09	Lewis McCurry:	no
+07:51:10	Lauren Wanzer:	expenditures are in management reserves
+07:51:12	Lorenzo Slay:	yes
+07:51:13	Matthew Hummel:	no
+07:51:17	Melody Mechanic:	no
+07:51:17	Mark Murphy:	The bigger question is if my sponsor is happy.
+07:51:18	TRACI SLUSS:	yes
+07:51:19	Brian Fleenor:	Yes, I'd be satisfied with those results.
+07:51:20	Chad Hayes:	No
+07:51:25	Kurt Roller:	Yes, under budget despite us being unaware of the Management Reserve
+07:51:25	Michael Notarianni:	ya expenditure slope is heading back to baseline
+07:51:31	Trey Coon:	it depends on the variables causing expenditures to increase at quicker rate late in project.
+07:52:13	Edgardo E Del valle:	whats wrong with buffering
+07:52:20	Stephen Edmunds:	Lots of overtime as used at the end
+07:52:39	Phillip Christensen:	They got behind and used OT at the end. Team was not productive.
+07:52:42	Michael Franco:	** Susan ** are the funds swept quarterly from the PM's budget if under budget? 
+07:52:44	Juliana Osuoha:	lol
+07:52:49	Tom Fuller:	Towards the end it seems to go over but what else was happening, were there delays that caused you not to be able to execute and now you end up going over in an effort to complete the project on time
+07:53:04	Alex Broud:	are the budget percentages included in tolerances ?
+07:53:17	Deanne LaFace:	what happened to the money each quarter? 
+07:53:22	Raymond Lawson:	This could have been a resource lost that had to be replaced at a higher cost.
+07:53:42	Michael O'Leary:	There is no context.  External circumstances could have caused that deviation
+07:53:45	Stephen Moss:	what name of chart is that? a burn up?
+07:54:13	Aaron Butler:	Waht about if it was under budget the whole time, then ended up right at the budget mark. Is the answer still not good since it surprises mgmt in the end?
+07:54:14	Lisa James:	This was helpful.  So in this is actually unfavorable because of the gap through the project and surprise at the end?
+07:54:16	Ramon Diaz Soto:	Can you use the under-budget funds to supplement the over budget?
+07:54:16	Eduardo Defendini:	is the cost baseline over time expected to also be produced by the PM
+07:54:23	Mark Murphy:	In govt unexecuted funding late in the FY may be at risk and you have to work to keep it.
+07:54:33	Eddie Utuk:	Susan - you briefly mentioned variance. Does this have to do with the deviation between planned and actual?
+07:54:34	Deanne LaFace:	ahh got it what you stated with sweeping
+07:54:47	Billy Hirschfield:	how do they word the questions on the test?  If they are asking your opinion on successful budgeting, isn't it very subjective?
+07:55:05	Dennis Lovin:	Ive never worked a program that had MR.  
+07:55:23	Sequoia Sime-Geffner:	Can you clarify- this was unfavorable?
+07:55:36	Matthew Rippard:	yes
+07:57:26	Ryan Patterson:	Commonplace to add money into your budget for unforeseen incident? Or is that padding the budget?
+07:57:42	Michelle Fortier:	That's a contingency
+07:57:56	Ryan Patterson:	Thanks
+07:58:20	Simone Bonner:	***Susan Daniels***. Will there be a definition breakdown for the afternoon session?
+07:58:21	Marquise Bowman:	good here
+07:58:40	Kristen Parsons:	O2O Study Groupo https://www.linkedin.com/groups/9189105/
+07:58:47	Patrick Newman:	@Felicia, I'm in Alexandria VA, please add me patricknewman2020@gmail.com

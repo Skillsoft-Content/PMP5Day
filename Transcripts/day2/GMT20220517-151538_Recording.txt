@@ -1,0 +1,126 @@
+02:26:35	Stephen Edmunds:	Sean Well Said
+02:27:30	Lorenzo Slay:	got booted from the system the entire break!!
+02:27:54	Timothy Wolfe:	You didn't miss anything, Lorenzo.  Just the Great Eagle Spirit.
+02:28:35	Charmakeitha Smith:	MDMP
+02:28:50	Eric Towns:	yes....COA Analysis
+02:28:55	Timothy Wolfe:	My Dad Makes Pizza?
+02:29:40	Timothy Wolfe:	Rock, paper, scissors.
+02:31:35	Kristopher Wells:	You can also add weight to the ranks in the matrix.
+02:32:41	Robert Sproat:	Do you have an example?
+02:33:02	Robert Sproat:	Visual, not verbal
+02:34:01	Charmakeitha Smith:	different courses of actions are evaluated in the Military Decision Making Process, hence MDMP...similar to the multi decision analysis in PMP that assists the PM and team in developing, integrating and syching the project
+02:34:46	Alex Broud:	fibonacci sequence poker card usage on voting has been used in scrum
+02:34:57	Graham Crawford:	The Delphi method is a process used to arrive at a group opinion or decision by surveying a panel of experts. Experts respond to several rounds of questionnaires, and the responses are aggregated and shared with the group after each round
+02:35:02	John Norseen:	There is research that shows flaws in different voting systems, what about a combo: i.e.-plurality pick top two and get majority
+02:35:10	Neal Madsen:	How is the lunch example given different from majority?
+02:35:36	Charmakeitha Smith:	The Road to Abilene
+02:36:00	Mark Murphy:	Supermajority can also be effective when Unanimity isn't possible but simple majority doesn't get enough buy in to keep things moving.
+02:36:46	Kevin McLin:	Is Delphi Technique a Agile Method?
+02:36:56	Stephanie Roman:	I'm not clear on the difference between majority and plurality.  Could you please explain further?
+02:37:34	Neal Madsen:	I agree with Stephaine Roman, please expound on majority vs plurality
+02:37:49	Carlos Duque:	@stephanie plurality is when you have more than 2 options
+02:38:00	Thomas Hanifen:	always track and log votes... folks have short memories whebn project goes bad
+02:38:07	John Norseen:	Plurality happens when you have more than two options and none a single one reaches 51%
+02:38:13	Thomas Hanifen:	poor spelling
+02:38:22	John Norseen:	the one with the highest percentage is the Plurality
+02:38:27	Jim Shaw:	Plurality outcome: 30/30/40 vote. 40% wins even though not majority.
+02:38:28	Ryan Pursley:	4 over 3 and 3
+02:38:48	Sean Whiteman:	majority greater than 50%
+plurality biggest group ex: 10 people 4 choices; 4 people chose option 1 and all others select 2 for each option
+02:38:51	Neal Madsen:	Thanks @Jim Shaw
+02:38:57	James Jackson:	Do we need to know Delphi? Is it part of the curriculum?
+02:38:57	Lisa James:	Love mind mapping!!
+02:39:12	Mark Murphy:	1996 election is a good example of plurality.  In a 3-way race, the winner (Clinton) won with less than 50%.
+02:39:18	Natalie Byrd:	Lucid Chart is a mind mapping tool that is great for PMs
+02:39:34	Stephen Edmunds:	Mid Mapping: Is visualization of ideas into major concepts that can be broken down into smaller parts
+02:39:36	Shawn Sanders:	The Brain is the mind mapping tool that I use. It is fantastic.
+02:44:26	Stephen Edmunds:	Affinity Diagram examples:
+
+https://projectmanagementacademy.net/resources/blog/grow-your-affinity-for-pmp-planning-tools/
+02:44:38	Heema Sharma:	thank you for examples, Shawn and Stephen!
+02:45:49	Julian Walle:	is it sometimes common to use a hybrid approach?
+02:46:47	Lisa James:	Muted 
+02:46:55	Madhuri Bang:	are these vidoes available for us to go through later stage?
+02:47:18	Shemeika Jones:	Susan are you speaking?
+02:47:23	Troy Lindsay:	is the video stuck?
+02:47:28	**Carl Mullin**:	The videos are from the 2021 Update courses. Percipio users can access the 2021 Update courses through their Bootcamp channel as follows.Step 1. Log into PercipioStep 2. Select Library > Showcase > Skillsoft BootcampsStep 3. Choose Project Management BootcampsStep 4. Select the Project Management Professional (PMP) ATP Bootcamp: 5 Day CohortStep 5. Under View More select the PMP ATP option and choose the other option.The 2021 Update courses with the selected videos are on the Watch tab.For all other users try searching your Learning Portal using the key words 2021 Update
+02:47:31	David Chui:	does anyone hear anything? 
+02:47:36	Jason Hazley:	are we frozen
+02:47:39	David Chui:	I can hear now
+02:47:43	Troy Lindsay:	oh its over I see
+02:47:44	**Carl Mullin**:	She is back
+02:51:48	Carl Hawkins:	it follows along with the powerpoint that we can dowload
+02:54:19	Stephen Moss:	follow on recommendations 
+02:54:27	Shrikant Kulkarni:	Is the Transition  for post go-live support activity? 
+02:54:29	Timothy Wolfe:	Where would requirements from outside of the organization (e.g., environmental, etc) fit into this model?
+02:55:05	Andrew Fisher:	Non-functional
+02:55:30	Jonathan Olson:	Transition capability: Is that like developing new software version… but not the training program for the software implementation?
+02:55:49	Eddie Utuk:	In a matrixed organization, how difficult is transiton?
+02:56:06	Eddie Utuk:	*transitions
+02:56:12	Sequoia Sime-Geffner:	Our team provides a "warranty" period as a warm transition.
+02:56:14	Jennifer Aguilar:	or implementing new equipment without the follow on maintenance or warranty program if something were to happen to the equipment after delivery?
+02:56:18	Jonathan Olson:	ahh . got it. thanks
+02:56:52	Timothy Wolfe:	Where would requirements from outside of the organization (e.g., environmental regulations, local ordinances, etc) fit into this model?
+
+03:00:00	Charmakeitha Smith:	is she frozen
+03:00:09	Claudio Bomfim:	no
+03:02:34	Raymond Lawson:	Where does the justification go? In the appropriate section? ie; Product Design
+03:02:35	Dhanya Soman:	Is Requirements traceability matrix mandatory in agile as well?
+03:02:36	Michael Oliver:	Can you give an actual example as to what will be filled in this Matrix?
+03:02:47	Robert Sproat:	Pork Spending
+03:02:48	Alex Broud:	yes
+03:02:48	Seth Maldonado:	100%!!!
+03:02:50	Brenda Calvert:	yes
+03:02:59	Stephen Edmunds:	Dont judge completion of the projct by the amount of money spent but by the areas of completion
+03:03:03	Jason Maass:	CAn you provide an actual example that would be on this doc?
+03:03:04	Tom Fuller:	definitely feels familar
+03:03:07	Troy Lindsay:	I defiantly can relate 
+03:03:24	Jon Kincaid:	Access provisions for adjoining properties.
+03:03:27	Dustin Juerling:	is the screen blurry?  I can't read the black row very well
+03:03:39	Michael Oliver:	It is blurry
+03:03:41	Aimee McLaughlin:	Can you remind us what you mean by "sponsor"?
+03:03:56	Eddie Utuk:	Can the Requirement Traceability Matrix help prevent scope creep?
+03:04:00	Aimee McLaughlin:	Is that basically the client? Or is the sponsor essentially your senior management team?
+03:04:08	Tom Fuller:	Michael yes it's blurry
+03:04:12	John Norseen:	Who is Sponsor: An individual or group that provides resources and support for the project, program, or portfolio, and is accountable for enabling success. See also stakeholder
+03:04:32	Seth Maldonado:	Sponsor = Paying for projecy
+03:05:02	Jose Giron:	are the templates you show us the same all around the PM community?
+03:05:02	Dawn Dunlop:	Change Control process help prevent scope creep
+03:05:09	**Carl Mullin**:	If you are a paid PMI member, you may want to check out PMIStandards+ for templates and to see examples.
+03:05:15	TASHARA Simpson:	Can you define scope creep?
+03:05:24	John Norseen:	Can you add to Requirements traceability matrix after approved via a change request?
+03:05:30	Dhanya Soman:	is requirement traceability matrix mandatory in agile as well?
+03:05:36	Brent Tornga:	difference between scope creep and gold plating?
+03:06:35	Christopher Mascarina:	@tashara https://www.pmi.org/learning/library/top-five-causes-scope-creep-6675
+03:06:53	Dawn Dunlop:	User story captures rqmnts traceability for agile
+03:07:50	Carmen Iglesias:	Yes please collaborate w/ the sponsor on the RTM as best as possible. As part of a sponsor team on a project, it was incredibly useful and allowed us to be on the same page when we had to seek more funding, make tradeoffs due to budget or adjust need. Being on the same page is essential.
+03:08:09	Raymond Lawson:	Where does the justification go? In the appropriate section? ie; Product Design
+
+03:08:56	John Norseen:	If you add scope creep requirement via Change Request, can you get authorization and money? If so does it get added to requirements traceability matrix?
+03:09:11	Emile Cochet:	why would we add specific things in the Project Scope Statement to NOT include????  Can't it be assumed that if it's not in the statement that it's not in the project?
+03:09:23	Adam Cannon:	Are there easy ways to understand when scope creep requires a revisit of the project charter?
+03:09:24	Lauren Mandell:	Can you go back to the guidelines slide
+03:11:44	Maima Kamara:	how do you convert a prod analysis to a process based project
+03:11:58	Graham Crawford:	If there is a CR it is Scope Change, as opposed to Scope Creep ?
+03:12:02	Kimberly Zunker:	Does approval through formal change control include budget changes to support the addition?
+03:12:24	Maima Kamara:	relate prod analysis for a project tha does not have a product as a deliverable
+03:13:38	Eddie Utuk:	Susan, is the project scope statement you mentioned co-authored with the sponsor OR is it done exclusively by the PM and then endorsed by the sponsor and steering committee?
+03:15:34	Stephanie Roman:	just to be clear, everything we've talked about today are things needed for creating the Scope Management Plan?
+03:15:56	Jason Maass:	The scope statement includes scope mgmnt plan, project charter, and req docs?
+03:16:11	Maima Kamara:	can u give an example of a prod analysis for a project that does not have a tangible product as a deliverable?
+03:16:45	Stephanie Roman:	Can we slow down a bit if possible? I haven't been able to take notes like I did yesterday
+03:18:26	**Carl Mullin**:	@Stephanie: Please note, you can always listen back to the recording and get the text transcript from the instruction after the session from GitHub.
+03:18:56	Jason Maass:	To be clear. The scope statement includes scope mgmnt plan, project charter, and req docs?
+03:19:00	Stephanie Roman:	@Carl Can I access that through the IVMF Percipio portal?
+03:19:04	Charles Slagle:	lexicon
+03:19:56	Sequoia Sime-Geffner:	@stephanie roman- agreed. Can we move throw slides with the mindset that we are taking notes.
+03:20:20	**Carl Mullin**:	@Stephanie - The recording has to be requested. You can ask the next day to see if the link is available in the Q&A. Here is the link to GiHub for the transcript text. https://github.com/Skillsoft-Content/PMP5Day
+03:20:47	Stephanie Roman:	@Carl, thank you
+03:22:06	Eric Towns:	It looks like the WBS Dictionary has a lot of the elements of what I would expect in the Project Implementation Plan...
+03:22:51	John Branch:	***Susan*** Can you explain the FF, FS, SF, SS abbreviations on the flowchart in the lower right of the slide? 
+03:23:22	Abhishek Srivastava:	Who are we sending this WBS dictionary email too? Sorry missed that part..
+03:23:27	**Carl Mullin**:	@Stephanie: You're welcome. If you have any other questions about where to get documents (other resources) or have technical issues, please reach out to us in the Q&A instead of the chat if possible.
+03:23:42	Michael Notarianni:	finish to finish, finish to start, start to finish, start to start
+03:23:57	John Branch:	Thanks @Michael
+03:24:02	Stephanie Roman:	A lot of these concepts from today seem like repeat information of what was needed for other concepts from yesterday.  I'm looking for some visual clarity on what exactly is needed for each concept. Right now it seems like we've jumped around and I'm just not clear. If I'm the only one, I'll figure it out after lol
+03:24:09	Michael Oliver:	Is the WBS dictionary something that has to be done periodically?
