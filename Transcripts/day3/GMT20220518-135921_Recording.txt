@@ -1,0 +1,157 @@
+01:05:04	Ammara Wood:	Good morning!
+01:05:38	Erin Becote:	Good morning Susan!
+01:05:42	Robert Oyebade:	good morning
+01:05:46	Faisal Munib:	Good Morning
+01:05:53	Mariacecilia Nguyen:	Good morning
+01:06:01	Arthur Wood:	Arthur Wood
+01:06:05	Zendre L Glymph:	Good morning Susan!
+01:06:07	Jon Kincaid:	Good Morning All!
+01:06:19	Madhuri Bang:	Madhuri Bang
+01:06:28	Anitha Kurunthachalam:	Hi, Good Morning. could some one please share the link from yesterdays recording
+01:09:00	Arlene Adams:	Good morning
+01:12:16	Frank Carranco:	test
+01:12:32	Ryan Pursley:	Frank you're good
+01:13:15	Michael Roth:	Is there a document somewhere that shows these steps "in order?" a sort of process flowchart?
+01:14:27	Raymond Lawson:	PMBoK
+01:14:44	Michael Roth:	thanks, Raymond
+01:15:00	Skyler Hawkes:	did we glance over the enablers for this task?
+01:15:42	Ian Fryman:	I could use about 15 seconds more each time we are asked to read the slides first
+01:16:06	Jamie Davis:	we did
+01:16:20	Skyler Hawkes:	thanks Susan!
+01:17:08	Stephen Edmunds:	They dont have one on the provided slide deck either from the resources we can download
+01:18:35	Jeffrey Nix:	my questions are not being responded to in the Q&A, can my chat be seen here
+01:18:54	Raymond Lawson:	Susan, from yesterday, the first 10 or 20 slides PART 2 A are not in the downloadable decks on Presipio or Github
+01:18:55	Sean Whiteman:	@Jeff yes
+01:19:05	Michael Grant:	@Jeffrey Nex, yes
+01:19:07	Jennifer Smith:	Try again?
+01:19:21	Jeffrey Nix:	thank you
+01:19:59	John Barnett:	raymond thru percipio if you go to 8 day cohort resource tab and download, those slides matched hers exactly
+01:20:13	Graham Crawford:	Can you review difference between Project mgmt plan and implementation plan again please?
+01:20:30	Graham Crawford:	mgmt is what, implementation is how?
+01:21:35	William Delmar:	Will PMP include PIP, Risk Mgmt Plan, Sked Mgmt Plan, Quality Plan, etc.?
+01:21:44	William Rogers:	@Jeffrey Nix I don't see your questions in Q&A
+01:22:32	Raymond Lawson:	Thanks John, How in the world did you figure that out? Just looking around?
+01:23:56	Jeffrey Nix:	I was asking about tracking attendance
+01:24:56	Raymond Lawson:	I learned mind mapping for the first time at CGSC. Very useful planning tool. and study tool as well.
+01:25:30	Derrek Saxton:	I think it's Zoom trying to preserve bandwidth.
+01:25:31	John Barnett:	downloaded wrong slides my mistake and they matched up Raymond
+01:25:34	Michael Grant:	I have downloaded the .pdf and use that when I can't read the slide being broadcast/streamed.
+01:25:35	Claudio Bomfim:	Suggestion: download and open the presentation in your computer as well.
+01:25:38	Felicia Assan:	when you say "classic" do you mean traditional
+01:25:41	Ryan McIlquham:	Or download the slide deck and follow along, taking notes.
+01:25:59	Phillip Christensen:	If you're using Percipio you can get the slides from Resources and follow along on your own.
+01:26:03	Lauren Wanzer:	you can download the slides from your resources tab on Percipio.
+01:26:54	Raymond Lawson:	You can download the slides and follow that way on side by side screen. You can make notes on the slides and save all for later for study. its better then a notebook and puts the notes on the slide where you heard the information.
+01:27:13	John Branch:	***Susan*** Why are Change Management Plan and Configuration Management Plan in the "Additional Components" versus Subsidiary Plans. Weren't those in the required components of a Project Management Plan previously? 
+01:28:22	Frank Carranco:	thank you!
+01:28:39	Joseph Stapleton:	Ben Franklin 
+01:28:55	Cierra White:	Benjamin Franklin, if you fail to plan, you are planning to fail.
+01:29:08	Alex Broud:	what is a typical timeframe to ask for when starting the plan/proposal?
+01:29:34	Christopher Hall:	I is also helpful to know that you are rarely starting from scratch. Modify pre-existing documents to meet your needs.
+01:29:50	DEAN ZEZEUS:	Three items in the additional components are called "plans", none of the items in the "subsidiary plans" are labeled "plans."
+01:29:59	Charmakeitha Smith:	Can’t get QA screen up for technical support.  No audio and trouble logging in this morning on laptop.  Trying to use phone but won’t expand and no audio!  @Carl….can you send zoom link or call 915-227-4522 to assist please!
+01:30:03	Christopher Hall:	*It
+01:30:30	DEAN ZEZEUS:	What then is the distinction between additional components and subsidiary plans?
+01:30:39	Clifford Weinstein:	The slide shows Baselines of Scope, Schedule and Cost also as Subsidiary Plans, is it both?
+
+01:31:22	Michael McDonald:	Charmakeitha- 
+ZOOM Meeting: 395 330 836
+Passcode: 912744
+01:31:29	Ryan Pursley:	What was the difference between the two types if Scope in the image?
+01:32:09	John Branch:	Are the Subsidiary Plans no longer called "XXX Management Plan"?
+01:32:23	John Branch:	For example, Cost Management Plan? 
+01:32:41	Michael McDonald:	Webinar ID: 395 330 836
+Passcode: 912744
+Direct Zoom link: https://skillsoftbootcamp.zoom.us/j/395330836?pwd=MHMvaU5wcjRZMkhuWDV5QXZiMkhBUT09
+01:32:46	Jodie Christopher:	A good resource for templates - https://www.edrawsoft.com/share-business.html
+01:33:26	Stephen Edmunds:	Unauthorized commitments
+01:33:29	Blain Jones:	All baselines are subsidiary?
+01:33:36	Seth Maldonado:	Is the “Iron Triangle” a testable term?
+01:34:07	Anitha Kurunthachalam:	Project might have all different plans from different parties like, Dev/Test/Performance test/Infrastructure etc., for integration management is there any standard template you recommend for gap analysis? 
+01:34:16	Anitha Kurunthachalam:	All the plans are applicable for both Traditional and Agile? 
+01:37:09	Raymond Lawson:	That's how the Army works? lol
+01:37:41	Alex Broud:	photocopy yourself instead of becoming a pidgeon holed into  an SME
+01:37:43	Christopher Hall:	In the Navy we call this training your relief
+01:38:39	John Mateer:	air force projects take so long people die before the project is complete. LOL
+01:39:21	Norman Johnson:	is that also known as rolling wave?
+01:40:45	Skyler Hawkes:	Lol!!!
+01:41:04	Ramses Brunache:	Yes!
+01:41:17	Yichen Ma:	lol
+01:41:22	Ryan Marcotte:	It sounds like you may go over budget.
+01:41:22	Arianne Wilson:	In the air force we say wingin it lol
+01:41:29	Lisa James:	Professional flying by the seat lol 
+01:42:07	Jon Kincaid:	Semper Gumbi!
+01:43:32	Michael McDonald:	Requirements Plan
+01:43:34	Joseph Stapleton:	Requirements Matric
+01:43:36	Timothy Boehme:	requirements traceability matrix
+01:43:39	Cierra White:	implementation plan 
+01:43:46	Kimberly Zunker:	requirements matric
+01:43:47	Melody Mechanic:	implementation plan
+01:43:47	Adam Cannon:	requirements traceability matrix
+01:43:47	Hany Beeh:	RTM
+01:43:48	Kimberly Zunker:	matrix
+01:43:49	Anitha Kurunthachalam:	requirement specification document
+01:43:50	Jodie Christopher:	RTM
+01:43:51	Mark Vertuli:	ram
+01:43:52	John Barnett:	requirements traceability matrix
+01:43:54	Ian Fryman:	Requirements Management Plan?
+01:43:54	Sheree Wolliston:	requirements matrix
+01:43:56	Nylah Thomas:	WBS checklist
+01:43:56	TRACI SLUSS:	the charter?
+01:43:58	Sarina Miller:	Requirement traceability matrix
+01:43:59	Sequoia Sime-Geffner:	Implementation Paln
+01:44:01	Robert Ross:	traceability
+01:44:03	Zendre L Glymph:	Requirements Traceability matrix
+01:44:06	Glenn Fuller:	RTM
+01:44:06	Benjamin Smith:	requirmens plan
+01:44:08	Justin Daniel:	Requirements Matrix
+01:44:10	fredrick gayles:	RTM
+01:44:17	Rocky King:	rtm
+01:44:20	Stephen Edmunds:	RTM
+01:45:19	Aaron Butler:	say again for notes please?
+01:45:29	Joseph Stapleton:	Configuration = Specification = Detail
+01:45:38	Aaron Butler:	TY
+01:46:18	Alex Broud:	is this built into the quality
+01:47:03	Siobhan Meehan:	Perfect!
+01:47:27	Lisa James:	How it's built vs what is needed to build it
+01:48:01	Adam Cannon:	Does feedback from the sponsor/stakeholder that changes the configuration end up being reflected in an updated WBS dictionary?
+01:48:27	Paul Dailey:	***Susan*** Is the change management plan developed per project or is that determined by the organization and the project has to adhere to that?
+01:48:29	Lisa James:	True
+01:48:39	Ian Fryman:	mine
+01:48:43	Mark Vertuli:	pm
+01:48:44	Ian Randall:	Me!
+01:48:46	Sequoia Sime-Geffner:	PM - me
+01:48:50	Erin Becote:	mine
+01:48:52	Matt Reudelhuber:	PM
+01:49:36	Cassie Strojny:	Iso certified companies typically have change management plans. Correct?
+01:49:36	vanessa  ramos:	who typically sits on the CCB?
+01:49:59	Christopher Hall:	Who typically comprises a Change Control Board?
+01:50:59	Joseph Stapleton:	Key stakeholders and sponsors I believe. 
+01:51:33	Stephanie Roman:	So you should have both change plans built into the project management plan in the very beginning? 
+01:51:38	Vanessa Goldsmith:	Is the slide suppose to change?
+01:51:40	Christopher Hall:	Rgr, thank you.
+01:52:17	Andrew Dugger:	**Susan Daniels**
+01:52:35	Andrew Dugger:	What is the best practice when staff sections are resistant to change?
+01:54:01	Michael Franco:	Is the configuration management plan a close hold document or shared with the team 
+01:54:45	Paul Dailey:	***Susan*** Is the change management plan developed per project or is that determined by the organization and the project has to adhere to that?
+01:54:49	Lisa James:	Can you repeat what it saves me?
+01:55:04	Jason Vulcan:	@Susan, would you repeat the columns you would add to your Resource Traceability Matrix to come up with the Config. Management System?
+01:55:31	John Barnett:	Jason she said configuration specs
+01:57:31	Charmakeitha Smith:	The 5 Ws
+01:57:33	John Barnett:	what/when/authority
+01:57:50	Cindy Cuencas:	Add three columns that show on who is accountable, who has authority to change, and the justification 
+01:57:56	Charmakeitha Smith:	Who what when and why
+01:58:36	John Barnett:	change = new reuirement/resources
+01:58:54	John Barnett:	config. = change in specs...requirement/reso stays the same
+02:00:12	Jamie Davis:	thx John
+02:00:32	Mark Murphy:	How do you verify potential ripple effects on other activities that arise from a change?
+02:03:49	John Branch:	*** Susan ** *can you repeat the Notes for SAFe
+02:04:14	Aaron Butler:	I saw a bunch of study groups pop up. I re-branded a group to be a collaboration group vice only study. Hopefully it will live on past studying and us all hopefully becoming certified.
+
+If you are interested: 
+https://www.linkedin.com/groups/14085791/
+
+02:04:21	Paul Dailey:	Scaled Agile Framework (SAFe®) - A knowledge
+base of integrated patterns for enterprise-scale,
+lean-agile development.
+02:04:22	Jyothi Reddi:	thanks

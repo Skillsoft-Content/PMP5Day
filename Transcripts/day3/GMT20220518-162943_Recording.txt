@@ -1,0 +1,550 @@
+03:35:51	Charmakeitha Smith:	I had the same the same issue this morning Frank…nerve wrecking!
+03:36:12	James Fung:	Fierlaha Yeo can you invite me too lps?
+03:36:46	Fierlaha Yeo:	Ok Fung, I will try
+03:37:26	Fierlaha Yeo:	But I'm waiting admin to approved 
+03:37:46	Fierlaha Yeo:	but the link is https://www.linkedin.com/groups/14085791/
+03:38:52	Dave Embrey:	Jargon
+03:43:05	Heema Sharma:	***Susan*** Would anyone in procurement be worthwhile to have in project governance?
+03:43:28	John Branch:	***Susan*** this looks like the components of a Project Management Plan, Subsidiary Plans, Additional Components, etc. 
+03:44:21	John Branch:	So how is this different that a PMP
+03:45:33	John Branch:	Thank you - the Governance Committee has the keys to the PMP
+03:47:27	inan kanik:	It depends on the project
+03:48:38	Raymond Lawson:	Pre deployment - deployment - reconstitution - post deployment
+03:48:52	Lauren Wanzer:	large construction projects like roads & bridges will have phases. sometimes it changes the contractor or subcontractors
+03:49:01	Adam Cannon:	How well, or should, the project schedule align with the phases ?
+03:51:33	Charmakeitha Smith:	Phase gates= governance control
+03:52:42	Cindy Cuencas:	It should be affirmation that project and POA&Ms are on track and on budget
+03:55:37	Maliwa Mensah:	is Governance where change management plans can be implemented?
+
+03:56:58	Lorenzo Slay:	***Susan, think you're muted***
+03:57:45	Ryan Pursley:	Is there a difference between phases and milestones? I think I missed that
+03:58:00	**Susan Daniels**:	I do not quite understand your question.  What are your aconymns?
+03:58:55	Aaron Butler:	Is there typically an overlap between phases? Specifically, toward the end of phase 1 start planning for phase 2, instead of having a bug gap in-between?
+03:59:03	**Susan Daniels**:	Good question I will answer on screen
+03:59:05	Jodie Christopher:	I am grateful you asked that Ryan, I have the same question.
+03:59:40	Aaron Butler:	Ah ok, Never mind
+04:00:10	Trey Coon:	@RyanPursley - there can be many, or even just one, milestone in any given phase
+04:00:20	**Susan Daniels**:	I will respond on screen to Ryan's question
+04:00:29	Siobhan Meehan:	****Susan Daniels*** can the phases be equated to the Critical path/WBS? 
+04:00:51	Ryan Pursley:	ahh, so the phase is higher in the hierarchy
+04:02:09	David Delgado:	design reviews
+04:03:22	Ryan Marcotte:	In Government work Milestones can actually be your kill points MS-A, MS-B, and MS-C.
+04:03:30	Claudio Bomfim:	Can I say the each phase has its deliverables?
+04:03:50	Daniel Beckman:	Phases are mostly product/deliverable focused rather than time bound?
+04:03:51	Claudio Bomfim:	Thanks.
+04:03:52	John Barnett:	thats in the definition
+04:05:10	Issa Sall:	how would you add expert analysis costs to the budget as you need the expert analysis to build the budget
+04:07:22	vanessa  ramos:	In military terms— is project governance this similar the AF working groups? or is a working group considered a project team?
+04:07:25	Issa Sall:	thank you
+04:12:17	Siobhan Meehan:	***Susan*** is this also laid out in the initial Project charter and the Integration Plan at the beginning?
+04:12:43	Raymond Roche:	going through that now
+04:13:06	Raymond Roche:	stop start during monthly reviews
+04:13:31	Yichen Ma:	It is not possible if you work for a client on a project though, it has to complete...
+04:13:59	Cindy Cuencas:	**Susan** project stopped /closed because it met exit criteria? 
+04:18:16	Norman Johnson:	what is the relationship between acceptance criteria and quality?
+04:20:19	Daniel Cooper:	Would passing user acceptance testing be classified as a verified deliverable? 
+04:20:58	Felicia Assan:	so true
+04:21:02	Michael McDonald:	ALWAYS!!!!!!
+04:21:48	Stephanie Roman:	**Susan** What circumstance would a contract be closed before payment?
+04:23:16	Michael Roth:	If a project is killed, is payment still madet? basically pro-rated?
+Or does it depend on the contract?
+04:23:21	Dave Embrey:	Susan, do PMs have a dedicated team of folks to manage projects? Or is the team just adhoc SMEs allocated at different times throughout the project? It seems the PM has ALOT of plated spinning and to be effective should have a dedicated team.
+04:23:49	Glen Moody:	quality is an internal process correct?
+04:24:25	Anna Yarashus:	default
+04:24:56	Stephanie Roman:	referring to the ullet that says "unless a contract is closed at the completion of the project or phase, payment will most likely have been made at the time of contract closure
+04:25:03	John Barnett:	maybe on default or after the legal works out settlement with contractor
+04:26:31	Dave Embrey:	I like to deligate..lol
+04:27:08	Shrikant Kulkarni:	Usually Procurement team negotiate payment terms with Vendors & Accounts payable will payout the invoices to vendor - How does the PM Project manager control of aspect of the payments?
+04:27:41	Andrew Dugger:	why is knowledge management so narrowly focused on lessons learned?  I have heard KM aspects through out the Project Management Plan (Meeting management, PMIS content management, etc)
+04:28:03	Faisal Munib:	Is Quality management the responsibility of all the people working on the project, i.e. collective responsibility and not just for the PM
+04:31:18	Charmakeitha Smith:	Sharedrives are OP.As to place your archives
+04:35:15	Brianna Muth:	D
+04:35:17	Lucas Frank:	D
+04:35:17	Andrew Church:	D
+04:35:21	Marcus Rybicki:	d
+04:35:21	Sarah Wolberg:	d
+04:35:22	Nylah Thomas:	D
+04:35:24	Adam Cannon:	d
+04:35:25	Natalie Byrd:	d
+04:35:26	Michael Roth:	d
+04:35:26	Corey Goddard Sr.:	Cost
+04:35:26	Sirak Medhane:	Cost Reimbursable
+04:35:26	Ronald Mendez:	d
+04:35:27	Thomas Hanifen:	4
+04:35:27	Anitha Kurunthachalam:	D
+04:35:28	David Day:	D
+04:35:29	Jodie Christopher:	cost-reimbursable
+04:35:29	Emile Cochet:	D
+04:35:30	Robert Henderson:	B
+04:35:30	Sequoia Sime-Geffner:	cost reimbursable
+04:35:30	Jon Kincaid:	D
+04:35:30	John Mateer:	d
+04:35:31	Melvin Cabebe:	D
+04:35:31	Madhuri Bang:	Cost Reimbursable
+04:35:31	Gibb Little:	D
+04:35:32	Matthew Rippard:	d
+04:35:32	Nicholas Arambula:	D
+04:35:33	Matthew Hall:	d
+04:35:33	Mark Vertuli:	d
+04:35:33	Erin Becote:	D
+04:35:33	Michele Maggard:	D
+04:35:34	Alex Hathaway:	d
+04:35:35	Karla Castillo:	D
+04:35:35	Cindy Cuencas:	Cost reimbursable
+04:35:35	Seth Maldonado:	D
+04:35:35	Lewis McCurry:	D
+04:35:35	John Norseen:	D
+04:35:36	Aaron Amick:	D
+04:35:36	Zendre L Glymph:	d
+04:35:37	Eddie Utuk:	d
+04:35:37	Jason Stewart:	D
+04:35:38	Harpreet Kaur:	D
+04:35:38	Amanda Cray:	D
+04:35:38	Paul Schmidt:	d
+04:35:38	Justin Bono:	D
+04:35:38	Carlos Duque:	D
+
+04:35:38	Tania Constance Mabounou:	D
+04:35:39	Jeremiah Clark:	D
+04:35:39	Benjamin Smith:	a
+04:35:39	Luis Vega:	Cost-Reimbursabe
+04:35:40	Henry Guevara:	D
+04:35:40	Frederick Cichon:	D
+04:35:40	Brad Phillips:	D
+04:35:41	India Anderson:	D
+04:35:41	Rocky King:	d
+04:35:42	Abhishek Srivastava:	D
+04:35:42	Michael O'Leary:	d
+04:35:42	Kelly Brown:	d
+04:35:42	John Norseen:	What are FPEPA and CPIF?
+04:35:43	George Gyles:	d
+04:35:44	Anthony Feige:	D
+04:35:44	Marcos Malacara:	d
+04:35:44	Lisa Huerth:	D
+04:35:44	Clifford Weinstein:	reimbursable
+04:35:44	Trey Coon:	d
+04:35:44	David Chui:	D
+04:35:44	Ian Fryman:	D
+04:35:44	Ruben Hernandez:	d
+04:35:45	Christy Van Den Heuvel:	d
+04:35:46	Shaiema Joseph:	cost reimbursable
+04:35:46	Jamie Davis:	D
+04:35:46	Timothy Goloversic:	d
+04:35:46	Simone Bonner:	d
+04:35:47	Sheree Wolliston:	d
+04:35:47	Siobhan Meehan:	D
+04:35:47	Jason Maass:	d
+04:35:47	Jeffrey Rice:	d
+04:35:48	Robert Maurer:	d
+04:35:48	Kimberly Zunker:	d
+04:35:48	Matthew Hummel:	Cost reimbursable
+04:35:48	Adrienne Hewitt:	d
+04:35:49	Brenda Calvert:	d
+04:35:49	Christopher French:	Time and Materials
+04:35:49	David Delgado:	B
+04:35:49	Mardellas Morris:	D
+04:35:49	Jeffrey Kelley:	D
+04:35:49	Heather O’Donnell:	D
+04:35:50	Kelly Brown:	d
+04:35:50	Rayza Collazo:	D
+04:35:50	Christopher Hall:	a
+04:35:51	Samantha  Beeson:	d
+04:35:51	Eduardo Defendini:	cost reimburse
+04:35:51	Jessica Brown:	D
+04:35:51	Jana Gaskin:	d
+04:35:51	David Kowalczyk:	B
+04:35:52	Raymond Butler:	d
+04:35:52	Desmond Peters:	d
+04:35:52	Christopher Brown:	D
+04:35:52	Aimee McLaughlin:	D, but this was an educated guess
+04:35:52	Mallory King:	D
+04:35:53	Elizabeth Zhang:	A
+04:35:53	TASHARA Simpson:	A
+04:35:53	Darain Kawamoto:	d
+04:35:53	Zendre L Glymph:	Cost-reimbursable
+04:35:54	Vikash Das:	D
+04:35:54	Onec Hughes:	4
+04:35:54	Ros Martin:	Fixed price
+04:35:55	Maximiliano Salcedo:	d
+04:35:57	Ian Randall:	4th
+04:35:57	Angelic Wheeler:	D
+04:35:57	Christian Vasconez:	D
+04:35:57	Brent Tornga:	cr
+04:35:57	Daniel Cooper:	Cost-reimbursable 
+04:35:58	John Branch:	cost-reimbusable
+04:35:59	Paul Salas:	Last
+04:36:00	Swapnadeep Ghosh:	d
+04:36:00	Clayborne Taylor:	A
+04:36:00	Robert Sproat:	c
+04:36:00	Prince Turner:	d
+04:36:01	Dominique Griffin:	D
+04:36:02	Ramses Brunache:	D
+04:36:02	Ulysses Larry:	d
+04:36:03	Eric Neubert:	b
+04:36:03	Robert Henderson:	cost plus incentive fee
+04:36:03	Ramon Diaz Soto:	D
+04:36:04	David Delgado:	cost plus incentive fee
+04:36:07	Michael McDonald:	cost re
+04:36:07	Brian Towell:	d
+04:36:09	Alfonso Castaneda:	D
+04:36:12	LaSharon Hampton:	d
+04:36:13	Joseph Dewey:	D
+04:36:14	Hany Beeh:	d
+04:36:15	Deanne LaFace:	a
+04:36:15	Shrikant Kulkarni:	D
+04:36:17	Christopher Newell:	d
+04:36:19	Bonniekeya Kliest:	D
+04:36:20	Kris Boulware:	A
+04:36:21	Dhanya Soman:	D
+04:36:23	Santosh Chandankar:	time and material
+04:36:23	Fierlaha Yeo:	D
+04:36:24	Elizabeth Wills:	D
+04:36:25	Skyler Hawkes:	D
+04:36:27	fredrick gayles:	d
+04:36:28	Carmelo Rosario:	d
+04:36:29	Charmakeitha Smith:	D
+04:36:30	Olakunle Oluwadamisi Atanda:	D
+04:36:30	Alejandro del Angel Rodriguez:	B
+04:36:32	Heather Wilson:	d
+04:36:32	Ashley Worboys:	d
+04:36:34	Justin Comeaux:	B
+04:36:34	Eduardo Defendini:	cpif
+04:36:35	Christopher Brown:	maybe A too
+04:36:36	Keemiya Pourmonir:	d
+04:36:36	Cameron McCampbell:	D
+04:36:37	Kimberly Zunker:	b
+04:36:38	Tonya Guillot:	D
+04:36:38	Michelle Fortier:	B
+04:36:39	Kelly McCann:	d
+04:36:41	Hailey Kimble:	a
+04:36:44	John Barnett:	a
+04:36:48	John Norseen:	Thank you
+04:36:49	Yohannis Swaby:	a
+04:36:50	Lisa James:	D
+04:36:54	Bryan Saunders:	D
+04:36:57	Ryan Pursley:	d
+04:36:59	Jose Calderon:	cpif
+04:36:59	TRACI SLUSS:	d
+04:37:03	David Day:	A
+04:37:05	Eddie Utuk:	a
+04:37:06	Joseph Dewey:	A
+04:37:10	Ryan Hastings:	Why wasn't that last one CPIF?
+04:37:12	Anna Yarashus:	passing along the cost is also "time and material"
+04:37:12	Ronald Mendez:	a
+04:37:13	Mardellas Morris:	D
+04:37:13	Kimberly Zunker:	Why is it not cost plus incentive fee? isn't the $5,000 an incentive fee?
+04:37:13	Robert Henderson:	A
+04:37:14	Tellis Carr:	A
+04:37:18	Jodie Christopher:	A
+04:37:19	Seth Maldonado:	A
+04:37:19	Andrew Church:	A
+04:37:21	Amanda Cray:	A
+04:37:21	Deanne LaFace:	a
+04:37:21	Brianna Muth:	A
+04:37:22	Brent Tornga:	d
+04:37:22	Sheree Wolliston:	a
+04:37:22	Michael O'Leary:	a
+04:37:22	Robert Maurer:	A
+04:37:23	Dominique Griffin:	A
+04:37:23	Keemiya Pourmonir:	a
+04:37:23	Dhanya Soman:	D
+04:37:23	Brad Phillips:	a
+04:37:24	Sarah Buczek:	a
+04:37:24	John Branch:	A
+04:37:24	Bryan Saunders:	A
+04:37:25	Sirak Medhane:	A and D
+04:37:25	Jennifer Smith:	a
+04:37:25	John Mateer:	a
+04:37:25	John Norseen:	A
+04:37:25	Madhuri Bang:	a
+04:37:25	Glen Moody:	a
+04:37:25	Samuel Bina:	a
+04:37:26	Shaiema Joseph:	a
+04:37:26	Anitha Kurunthachalam:	A
+04:37:26	Adrienne Hewitt:	d
+04:37:27	Brian Spring:	A
+04:37:27	Andreliqua Cannaday:	A]
+04:37:27	Mimi Byrd:	a
+04:37:28	Matthew Rippard:	a
+04:37:28	Daniel Ramos:	a
+04:37:28	Erin Becote:	A
+04:37:28	Robert Henderson:	Why wasn't that CPIF?  There was a $5K fee.
+04:37:28	Charmakeitha Smith:	A
+04:37:28	Jose Calderon:	doc reasons
+04:37:28	TRACI SLUSS:	a
+04:37:28	Clinton Cummings:	a
+04:37:28	Prince Turner:	a
+04:37:29	Darain Kawamoto:	a
+04:37:29	Tonya Guillot:	A
+04:37:29	Jeffrey Kelley:	A
+04:37:30	Paul Salas:	first
+04:37:30	Ian Dick:	a
+04:37:30	Rocky King:	A
+04:37:30	Christy Van Den Heuvel:	A
+04:37:30	Lewis McCurry:	A
+04:37:31	Christopher Brown:	A
+04:37:31	Angelic Wheeler:	D
+04:37:31	Eric Neubert:	A
+04:37:31	Kris Boulware:	A
+04:37:31	Michelle Fortier:	A &D
+04:37:31	Kurt Roller:	A
+04:37:31	Karla Castillo:	A
+04:37:31	Michael Roth:	a
+04:37:31	Chad Hayes:	A
+04:37:32	TASHARA Simpson:	A
+04:37:32	Abhishek Srivastava:	D
+04:37:32	D'Andrea Joyce:	a
+04:37:32	Kelly McCann:	a
+04:37:33	Marcus Rybicki:	a
+04:37:33	Kristen Parsons:	A
+04:37:33	Thomas Hanifen:	a
+04:37:33	Dhanya Soman:	A
+04:37:33	Jason Stewart:	A
+04:37:33	Benjamin Smith:	d
+04:37:34	Kelly Brown:	a
+04:37:34	Vikash Das:	A
+04:37:34	Robert Sproat:	a
+04:37:34	Swapnadeep Ghosh:	a
+04:37:34	Ryan Hastings:	It said invoices for costs plus an invoice fee?
+04:37:35	Clayborne Taylor:	A
+04:37:35	KWANSAH ACKAH:	A
+04:37:35	Keith Wilkinson:	a
+04:37:35	Carlos Duque:	D
+04:37:36	Christopher Newell:	a
+04:37:36	Joseph Stapleton:	A
+04:37:36	Mark Vertuli:	a
+04:37:36	Jeanetta Harper:	a
+04:37:36	Marcos Malacara:	a
+04:37:36	Henry Guevara:	A
+04:37:36	Elizabeth Zhang:	A
+04:37:37	Raymond Butler:	a
+04:37:37	Amanda Cray:	A or D
+04:37:37	Corey Crow:	a
+04:37:38	Luis Vega:	A
+04:37:38	Christian Vasconez:	Acd
+04:37:38	Frederick Cichon:	a
+04:37:38	Jeffrey Rice:	a
+04:37:38	David Delgado:	a
+04:37:38	Anitha Kurunthachalam:	A AND D
+04:37:39	Onec Hughes:	1
+04:37:39	Melody Mechanic:	A
+04:37:40	Siobhan Meehan:	A
+04:37:40	Paul Schmidt:	a
+04:37:40	Lisa James:	a
+04:37:40	David Kowalczyk:	A
+04:37:40	LaSharon Hampton:	a
+04:37:40	Anthony Feige:	A
+04:37:40	Aimee McLaughlin:	D
+04:37:40	Matthew Hall:	a
+04:37:41	Cassie Strojny:	A and d
+04:37:41	Skyler Hawkes:	D
+04:37:42	Eduardo Defendini:	a
+04:37:42	Christopher Mascarina:	a
+04:37:42	Glenn Fuller:	a
+04:37:43	Jeremiah Clark:	A
+04:37:43	Latisha Cooper:	a
+04:37:43	David Chui:	I am between A and D. I think it's A
+04:37:44	Matthew Hummel:	a
+04:37:44	Clifford Weinstein:	Still have to close and document the reasons
+04:37:44	Harpreet Kaur:	A
+04:37:45	Sequoia Sime-Geffner:	A maybe D
+04:37:45	India Anderson:	A
+04:37:47	Cindy Cuencas:	A
+04:37:47	Maria Beltre:	A
+04:37:47	Michele Maggard:	a
+04:37:48	Aaron Butler:	Prob A, but D sounds good too
+04:37:48	Adam Cannon:	a
+04:37:48	Bonniekeya Kliest:	A
+04:37:49	Rayvin Pack:	A
+04:37:49	Christopher Hall:	d
+04:37:49	Alfonso Castaneda:	A
+04:37:50	Daniel Cooper:	A
+04:37:50	Ros Martin:	A
+04:37:50	Elizabeth Wills:	A
+04:37:50	Fierlaha Yeo:	A & D
+04:37:51	Arianne Wilson:	A
+04:37:51	Cassie Strojny:	A
+04:37:51	Mariacecilia Nguyen:	A
+04:37:51	Trey Coon:	a
+04:37:51	Anitha Kurunthachalam:	A
+04:37:52	Michelle Fortier:	A
+04:37:52	Nicole James:	A
+04:37:52	Sher Singh:	1
+04:37:53	Alejandro del Angel Rodriguez:	A
+04:37:53	Peter Thompson:	A
+04:37:53	Natalie Byrd:	a
+04:37:53	Melvin Cabebe:	A
+04:37:53	vanessa  ramos:	a
+04:37:53	Desmond Peters:	a
+04:37:54	Jason Maass:	a
+04:37:54	Luis Mino:	a
+04:37:54	Jimmy Turner:	a
+04:37:54	Ammara Wood:	A
+04:37:56	Alexander McKenzie:	a
+04:37:56	Sirak Medhane:	A
+04:37:57	EMDE JR SCOTT:	a
+04:37:57	Corey Crow:	a
+04:37:57	Samantha  Beeson:	a
+04:37:58	Jean Marthone:	to document lesson learned
+04:37:58	Olakunle Oluwadamisi Atanda:	A or D... closer to A
+04:37:59	Amanda Cray:	D
+04:37:59	Rayvin Pack:	d
+04:37:59	John Barnett:	a
+04:38:00	Jamie Davis:	a
+04:38:00	Anil Kumar Narasappa:	a
+04:38:00	Brenda Calvert:	a
+04:38:00	Ryan Scranton:	A
+04:38:01	Lauren Wanzer:	A
+04:38:01	Tom Fuller:	A
+04:38:02	Ramses Brunache:	A
+04:38:03	Rayza Collazo:	A
+04:38:04	Christian Vasconez:	A
+04:38:04	Carmelo Rosario:	a
+04:38:05	Shrikant Kulkarni:	A&D
+04:38:06	Ashley Worboys:	a
+04:38:06	Michael O'Leary:	a,b
+04:38:07	Eddie Utuk:	a and b
+04:38:07	Timothy Goloversic:	a
+04:38:07	John Norseen:	A&B
+04:38:07	Bobby Morales:	d
+04:38:08	Aimee McLaughlin:	B
+04:38:09	Joseph Dewey:	A&B
+04:38:10	Karla Castillo:	A&B
+04:38:12	Mark Vertuli:	b
+04:38:12	Lewis McCurry:	B
+04:38:13	Alexander McKenzie:	a/b
+04:38:13	John Branch:	A&B
+04:38:13	India Anderson:	b
+04:38:14	Sirak Medhane:	1 and 2
+04:38:15	Oluwole Oyedokun:	A and B
+04:38:16	Jason Maass:	1 and 2
+04:38:16	Seth Maldonado:	A&B
+04:38:16	John Mateer:	a
+04:38:16	Sarah Buczek:	b
+04:38:17	Samuel Bina:	a/d
+04:38:17	Eduardo Defendini:	ab
+04:38:17	Charmakeitha Smith:	B
+04:38:17	Rayza Collazo:	B
+04:38:17	Ian Randall:	1st
+04:38:17	Morgan Libby:	b
+04:38:17	Michael McDonald:	a/b
+04:38:17	Ramon Diaz Soto:	B
+04:38:18	David Chui:	B phase gate
+04:38:18	Chad Hayes:	B
+04:38:18	Jeffrey Nix:	2
+04:38:18	Brian Spring:	AB
+04:38:18	Robert Maurer:	A/B
+04:38:18	Samantha  Beeson:	b
+04:38:19	India Anderson:	B
+04:38:19	Madhuri Bang:	Kill Point
+04:38:19	Brian Towell:	a b
+04:38:19	Benjamin Smith:	a and d
+04:38:19	Tania Constance Mabounou:	a
+04:38:20	Sequoia Sime-Geffner:	A & B
+04:38:20	Christopher Hall:	b
+04:38:20	Robert Henderson:	A&B
+04:38:20	Anna Yarashus:	b
+04:38:21	Clayborne Taylor:	B
+04:38:21	Aimee McLaughlin:	A/B
+04:38:21	John Barnett:	a, b
+04:38:21	Abhishek Srivastava:	b
+04:38:21	Sarina Miller:	B
+04:38:21	Sher Singh:	1 and 2
+04:38:22	Alyssa Lavers:	phase gate
+04:38:22	Paul Salas:	one and two
+04:38:22	Corey Goddard Sr.:	phase
+04:38:22	Dominique Griffin:	A b
+04:38:22	Deanne LaFace:	b
+04:38:22	Matthew Hummel:	a and b
+04:38:22	Mark Vertuli:	a/b
+04:38:22	Michelle Fortier:	AB
+04:38:23	Michael Roth:	a and b
+04:38:23	David Day:	A & B
+04:38:23	Brent Tornga:	a and b
+04:38:23	Adam Cannon:	a/B
+04:38:23	Dhanya Soman:	A,B
+04:38:23	Jessica Tarsa:	A & B
+04:38:23	David Delgado:	d
+04:38:23	Corey Crow:	ab
+04:38:24	Skyler Hawkes:	B
+04:38:24	Phillip Christensen:	A/B
+04:38:24	Swapnadeep Ghosh:	a/b
+04:38:24	Carleythia Anderson:	a
+04:38:24	Ryan Scranton:	A&b
+04:38:24	Carmelo Rosario:	ab
+04:38:24	vanessa  ramos:	a b
+04:38:25	EMDE JR SCOTT:	b
+04:38:25	Ronald Mendez:	a & b
+04:38:25	Siobhan Meehan:	B D
+04:38:25	Matthew Hall:	a/b
+04:38:25	TASHARA Simpson:	A/b
+04:38:25	John Mateer:	a d
+04:38:26	Rocky King:	a & b
+04:38:26	Darain Kawamoto:	a and b
+04:38:26	Cassie Strojny:	B
+04:38:26	Mardellas Morris:	a/b
+04:38:26	Tania Constance Mabounou:	A&B
+04:38:26	Luis Mino:	a b
+04:38:26	Anthony Feige:	B
+04:38:26	Robert Sproat:	a
+04:38:26	Vikash Das:	A & B
+04:38:26	David Kowalczyk:	B or D
+04:38:27	Lisa James:	a and b
+04:38:27	Benjamin Brumfield:	ab
+04:38:27	Erin Becote:	A & B
+04:38:27	Deanne LaFace:	b
+04:38:27	Natalie Byrd:	a b
+04:38:27	Ramses Brunache:	AB
+04:38:27	Shrikant Kulkarni:	B
+04:38:27	Ashley Carmichael:	A/B
+04:38:27	Christopher Hall:	a
+04:38:28	Marcus Rybicki:	ab
+04:38:28	Jason Stewart:	B
+04:38:28	Daniel Cooper:	A/B
+04:38:28	Tonya Guillot:	A&B
+04:38:28	Jose Calderon:	kill pt & phas
+04:38:28	Jodie Christopher:	kill point and phase gate
+04:38:28	Jason Hazley:	ab
+04:38:29	Melody Mechanic:	A/b
+04:38:29	Joseph Stapleton:	AB
+04:38:29	Bobby Morales:	a &b
+04:38:29	Jeffrey Rice:	a
+04:38:29	Hany Beeh:	ab
+04:38:29	Kimberly Zunker:	a&b
+04:38:29	Christopher Veal, PMP:	A
+04:38:30	Luis Vega:	A/B
+04:38:30	Michael Grant:	a
+04:38:30	Andrew Church:	A/B
+04:38:30	Emile Cochet:	ab
+04:38:30	Alfonso Castaneda:	Ab
+04:38:30	Jessica Brown:	AB
+04:38:31	Trey Coon:	a,b
+04:38:31	Shaiema Joseph:	kill point and phase gate
+04:38:31	D'Andrea Joyce:	a b
+04:38:32	Clifford Weinstein:	A&B
+04:38:32	Alex Hathaway:	b
+04:38:32	Jamie Davis:	ac
+04:38:32	Ramon Diaz Soto:	A/B
+04:38:33	Scott Newdick:	A/b
+04:38:33	Timothy Goloversic:	a and b
+04:38:33	Keemiya Pourmonir:	a/b
+04:38:33	Jon Kincaid:	A and B
+04:38:34	Cindy Cuencas:	A/B
+04:38:34	Jeffrey Kelley:	A&B
+04:38:35	Christian Vasconez:	Ab
+04:38:36	Fierlaha Yeo:	A & b
+04:38:36	Anthony Feige:	A &B
+04:38:37	Michele Maggard:	A and B
+04:38:37	Christy Van Den Heuvel:	a/b
+04:38:38	Kris Boulware:	B and A
+04:38:40	Kelly Brown:	a and b
+04:38:42	William Rogers:	A&B
+04:38:42	Paul Schmidt:	b
+04:38:44	Jana Gaskin:	a and b
+04:38:51	Cassie Strojny:	This one didn’t ask for 2 answers. Why 2 now?
+04:38:51	Robert Henderson:	Why wasn't the first question CPIF?  There was a $5K fee in addition to costs?
+04:38:54	Andrew Church:	Thank You
+04:39:01	John Barnett:	****Susan**** as a Master Training Specialist ive rarely gone more than 6 hours on podium/in topic in a day (plus indiv. instruction b4/between/after).  I commend you for 7 hour instructing days...lots of talking and you do it well.
+04:39:05	Deanne LaFace:	I have one question
+04:39:13	Jessica Brown:	thank you see you soon!
+04:39:13	Alex Broud:	same lead titymes change
