@@ -1,0 +1,891 @@
+01:11:04	Carl Mullin:	Chat is paused
+01:14:45	Carl Mullin:	FYI: Sorting by Upvotes only appears to be available if you join by Zoom.
+01:15:21	Carl Mullin:	You can join by Percipio and Zoom at the same time if you want.
+01:15:22	Carl Mullin:	https://skillsoftbootcamp.zoom.us/j/93856860131?pwd=L0JON2ZXZHU0dEh2eENreWVLb3FKdz09Passcode: 424428
+01:25:05	Carl Mullin:	FYI: People are asking if I have to log the breaks. My answer is: Remember you are supposed to stay logged in for the entire 8 hours. So if everything goes okay. You will have one entry in the session table for when you joined and when you left the session when it was over. So the break times are automatically included. There is nothing separate you need to document during breaks "unless you were disconnected or accidently logged out".
+01:31:40	Carl Mullin:	If you are having connectivity issues, black/blank screen, audio issues, and so on you may want join Zoom directly Desktop client:Webinar ID: 938 5686 0131Passcode: 424428Or you can use the Web link:https://skillsoftbootcamp.zoom.us/j/93856860131?pwd=L0JON2ZXZHU0dEh2eENreWVLb3FKdz09Passcode: 424428Also, if you are a Percipio issue, please advise Customer Support https://support.skillsoft.com/bootcamps
+02:26:41	Carl Mullin:	FYI: I am noticing some of the posts in the Q&A are not complete or missing information. For example asking the following question does not provide enough context "Is this on the exam" OR "Can you explain this chart". Please be sure to quote the slide number and be specific with your question. Also, please do not include some information on one post and other information in another post. Everything about the question or issue should be in one post.
+03:51:49	James Hodgman:	A and B
+03:51:50	Steven Cragg:	A and B
+03:51:52	Zachary Peterson:	a &B 
+03:51:53	Saranya Azhagamanna Hariharan:	a and b
+03:51:53	Wyatt Pierce:	a & b
+03:51:54	Marta Nalik:	A B
+03:51:54	Benjamin Goclano:	a, d. 
+03:51:54	Matthew Ong:	A & B
+03:51:55	Dragos Zamfir:	a b
+03:51:55	Allison Anderson:	A&B
+03:51:55	Lilith Cruces:	A & B
+03:51:56	Angel Ojeda:	A &B
+03:51:56	Vashti Torres:	A/B
+03:51:57	Andrew Zeigler:	a and b
+03:51:57	Stefanie Stadler:	A and B
+03:51:57	Ranjitha Rao:	a and b
+03:51:57	Justen Anderson:	b and c
+03:51:57	Chanika Pope:	A&B
+03:51:57	Prashant Singh:	b n c
+03:51:57	Taylor Joy:	AB
+03:51:58	Anna Valdez:	A and B
+03:51:58	Frederick Torde:	B, d
+
+03:51:59	Henry James:	a,c
+03:51:59	Nathan Trotter:	B and C
+03:51:59	Siju Abraham:	Ang Fen and Eugne Lowe
+03:52:00	Siwen Cremean:	product owner, project manager
+03:52:00	Alana Rezanovich:	a, b
+03:52:00	Michael Miklos:	A&B
+03:52:01	Mark Heidenfeldt:	A.B
+03:52:01	Manish Bansiwala:	A and D
+03:52:02	Amy Leary:	A and B
+03:52:03	Erika Tarzi:	a d
+03:52:03	Gloria Arango Solano:	a, b
+03:52:04	Jotika Levy:	a and b
+03:52:04	Marco Egizi:	A, C
+03:52:05	Johnny Workman:	a&B
+03:52:06	Alison Waddy:	a and b
+03:52:06	Carlos Perez-Islas:	a and c
+03:52:07	Ajaysingh Dehariya:	b ans d
+03:52:07	Jessica Fourney Martin:	a d
+03:52:07	Brooke Talker:	A and b
+03:52:08	Thomas House:	a&B
+03:52:08	John Schroeder:	a b
+03:52:08	Matthew Roberts:	A B
+03:52:08	Crystal Greenlay:	a b
+03:52:09	Eddie Seward:	a c
+03:52:09	Rose Povazanj:	a b
+03:52:09	Seth Harrison:	b and c
+03:52:10	Vergil Johnson:	C and B
+03:52:10	Alice Tchakedjian:	A and C
+03:52:10	Kai Cao:	a&b
+03:52:10	Matthew Kelly:	a&b
+03:52:11	Chris DeJesus:	a c
+03:53:13	Seth Harrison:	b
+03:53:13	Xiaoyan Zhang:	b
+03:53:13	pranay kamble:	b
+03:53:14	Anand Kumar:	CD
+03:53:14	Kai Cao:	b
+03:53:14	Nathan Trotter:	B and D?
+03:53:14	Mary Burdell:	b
+03:53:15	Erika Tarzi:	ab
+03:53:15	Devanand Jayapaul:	D
+03:53:15	Matthew Johnson:	b
+03:53:15	Zachary Peterson:	b
+03:53:16	Arpad Piskolti:	b
+03:53:16	Alana Rezanovich:	b
+03:53:16	Allison Anderson:	b&d
+03:53:16	Valente Ortiz:	D
+03:53:16	Isabel Geiger:	a, b
+03:53:16	Joseph Deniro:	b
+03:53:16	Vergil Johnson:	D
+03:53:16	Shroog Ahmed:	c
+03:53:16	Garrett Gourley:	a b
+03:53:16	Benjamin Giovingo:	d
+03:53:16	Isaac Kopach:	b
+03:53:17	Matthew Roberts:	b
+03:53:17	Elaine Johnson:	B
+03:53:17	Angel Ojeda:	A&B
+03:53:17	Rose Povazanj:	ac
+03:53:18	Camilo Mitchell:	b,d
+03:53:18	Prashant Singh:	a & c
+03:53:18	Lilith Cruces:	a & b
+03:53:18	Justen Anderson:	a, c
+03:53:18	Johnny Workman:	b and d
+03:53:18	David Tallon:	ad
+03:53:18	Buck Brunner:	a and b
+03:53:18	Cheyenne Gutierrez:	b&d
+03:53:18	Silvia Ramirez Suarez:	a and d
+03:53:18	Hanna Pardee:	B
+03:53:18	Janneane Gerot:	B & c
+03:53:19	DON HILL:	b
+03:53:19	Frederick Torde:	A, B
+03:53:19	Amy Leary:	bc
+03:53:19	Sean Byerly:	A& D
+03:53:19	Seth Harrison:	d
+03:53:19	Dragos Zamfir:	b d
+03:53:20	Kathryn May:	c, b
+03:53:20	Henry James:	A D
+03:53:21	Sheikh Ahmed:	bc
+03:53:21	Dana Parisi:	c and d
+03:53:21	Marco Egizi:	A, D
+03:53:21	Oyun:	B c
+03:53:21	Gloria Arango Solano:	a and d
+03:53:21	Benjamin Goclano:	b, c
+03:53:21	Abhishek Paul:	a&b
+03:53:22	Ganesh Sasane:	b,c
+03:53:22	Thomas Wypyski:	a c
+03:53:22	Daniel Trtanj:	a,b
+03:53:22	Ajaysingh Dehariya:	b n d
+03:53:23	Marta Nalik:	cd
+03:53:23	Roda Farley:	b,d
+03:53:23	Anna Valdez:	a,b
+03:53:23	Steven Cragg:	A&D
+03:53:23	Sumit Kumar:	b and d
+03:53:23	Matthew Kelly:	c&d
+03:53:23	Vergil Johnson:	D and B
+03:53:23	Kenneth Moonan:	a&B
+03:53:23	Priya Ranjan Tripathi:	a&b
+03:53:23	Robert Thomas:	WBS and roadmap
+03:53:23	Andrew Zeigler:	a
+03:53:24	Ranjitha Rao:	b and d
+03:53:24	Aven Azizi:	ab
+03:53:24	Dae Kyung Kwon:	A and B
+03:53:24	Selassie Hayibor:	a and C
+03:53:24	John Schroeder:	a b
+03:53:24	Maliek Mckenna/PMP:	A d
+03:53:24	Elizabeth Jackson:	b,d
+03:53:24	Stephanie Donnell:	a&B
+03:53:25	Andrew Burns:	B and d
+03:53:25	Ashwyn Kumar:	B&C
+03:53:25	Iestyn Williams:	bd
+03:53:25	Jessica Fourney Martin:	a b
+03:53:25	Ebrima Cham:	ad
+03:53:25	Valente Ortiz:	B and D
+03:53:25	Saranya Azhagamanna Hariharan:	b d
+03:53:26	Elizabeth Kohl:	b&d
+03:53:26	Anand Kumar:	C D
+03:53:26	Andrew Warninghoff:	A C
+03:53:26	Kyle Hite:	B d
+03:53:26	Isaac Kopach:	bd
+03:53:26	Michael Miklos:	bd
+03:53:26	Stefanie Stadler:	C and D
+03:53:26	Brian Mellon:	b, a
+03:53:26	Vashti Torres:	A/B
+03:53:26	Mark Heidenfeldt:	B D
+03:53:26	Colin Udoh:	A and B
+03:53:27	Thomas House:	A&C
+03:53:27	Geoffrey Bekker:	bd
+03:53:27	MARY YOUNG:	ca
+03:53:27	Tina Frey:	b and d
+03:53:27	Taylor Joy:	A and B
+03:53:27	Alvin Norton:	b
+03:53:28	Darryl George:	ca
+03:53:28	Demet McDaniel:	b, c
+03:53:28	Paul McCrory:	a&b
+03:53:29	Tanangachi Ngwira:	a cv
+03:53:29	Siwen Cremean:	b
+03:53:29	Brooke Talker:	a and d
+05:45:53	Steven Cragg:	Hours
+05:45:53	Nathan Trotter:	hours
+05:45:54	Paula Blackford:	days
+05:45:54	Siju Abraham:	use days.
+05:45:54	Roda Farley:	hours
+05:45:55	Abel "Abe" Tavarez IT:	Days
+05:45:55	Nelly M. Steele:	days
+05:45:57	Seth Harrison:	hours
+05:45:58	Justen Anderson:	days
+05:46:00	Luca MAGNANI:	hours
+05:46:00	Sheikh Ahmed:	HRS
+05:46:01	Jessica Fourney Martin:	hours
+05:46:01	Manish Sharma:	Hours
+05:46:01	MARY YOUNG:	hours
+05:46:01	Ashwyn Kumar:	Days
+05:46:02	ANDREW LEWIS:	hours
+05:46:03	Dragos Zamfir:	days
+05:46:03	Eric Blair:	hors
+05:46:03	Dana Parisi:	hours because you need to be able to estimate labor costs
+05:46:03	Alice Tchakedjian:	Hours 
+05:46:04	Angel Ojeda:	Hours
+05:46:04	Justin Cepeda:	Days
+05:46:04	Pramod Itkar:	Day
+05:46:04	John Schroeder:	hours
+05:46:04	Rahul Chourasiya:	Days, relative
+05:46:05	Amanda Henning:	schedule management plan
+05:46:05	Taylor Joy:	days 
+05:46:06	Chad Logan:	days
+05:46:06	Valente Ortiz:	The WBS
+05:46:06	Andrew Zeigler:	You need to estimate hours based on the scope of work
+05:46:06	Andrew Burns:	days
+05:46:09	Brian Mellon:	WBS
+05:46:09	Marta Nalik:	depends on project and related tasks 
+05:46:09	Valente Ortiz:	In Days
+05:46:10	Michael Domino:	scope
+05:46:10	Nancy Brennan:	PMO
+05:46:11	Susanne Miller:	WBS
+05:46:11	Steven Cragg:	WBS
+05:46:11	Edward Hudson:	days
+05:46:11	Vashti Torres:	WBS
+05:46:11	Erika Tarzi:	WBS
+05:46:12	Abel "Abe" Tavarez IT:	hours
+05:46:12	Janneane Gerot:	scope
+05:46:13	Sherwyn Tenia:	wbs
+05:46:13	Adam Tegerdine:	WBS
+05:46:13	Josh Keiser:	project charter
+05:46:13	James De Los Santos:	review scope
+05:46:14	Justin Cepeda:	Scope
+05:46:14	Kathryn May/PMP:	scope
+05:46:15	Nathan Trotter:	WBS
+05:46:15	Andrew Burns:	wbs
+05:46:15	Luca MAGNANI:	WBS
+05:46:16	Buck Brunner:	WBS
+
+05:46:16	Rafael Machado:	scope]
+05:46:16	Li Yuan:	schedule management plan
+05:46:16	Abel "Abe" Tavarez IT:	WBS
+05:46:16	Mark Nyberg:	Work dictionary
+05:46:17	Azizza Brown:	the scope?
+05:46:17	Hans Nygren:	WBS
+05:46:17	Renatta Foston:	Hours
+05:46:18	Richard Winkelbach:	Hours, depending on type of project
+05:46:18	Darryl George:	project roadmap
+05:46:19	Seth Harrison:	pmbok
+05:46:19	Brandon Nelson:	scope and SMEs
+05:46:19	Jessica Fourney Martin:	wbs
+05:46:20	Rahul Chourasiya:	Agile says always relative 
+05:46:20	Sheikh Ahmed:	Project Plan
+05:46:20	Isabel Geiger:	deliverables
+05:46:21	Angie Velarde Garcia:	scope of work
+05:46:22	Matthew Kelly:	Proect Schedule
+05:46:22	Paula Blackford:	baseline
+05:46:22	Devanand Jayapaul:	Scgedule
+05:46:22	Andrew Warninghoff:	schedule
+05:46:23	Andrew Zeigler:	The WBS broken down to the schedle
+05:46:24	ANDREW LEWIS:	Plan
+05:46:25	Phuong Rosell:	Depends 
+05:46:25	Dragos Zamfir:	plan
+05:46:25	STEPHANIE WHYTE:	WBS and project schedule
+05:46:26	Zachary Peterson:	schedule managment plan 
+05:46:26	Rafael Machado:	project scope 
+05:46:27	Brygida Kulesza-orlowska:	plan
+05:46:33	Darryl George:	schedule mgmt. plan
+05:55:50	Kathryn May/PMP:	work package
+05:55:50	Delan Humphrey:	actions
+05:55:50	Shauna Fox:	work package
+05:55:51	Erika Tarzi:	work packages
+05:55:51	Yalla Bhanusri:	activity
+05:55:52	Nathan Trotter:	work package?
+05:55:52	Matthew Ong:	WP
+05:55:52	Silvia Ramirez Suarez:	work package
+05:55:52	Jerrod Hall:	Activity
+05:55:53	Benjamin Goclano:	work package
+05:55:53	Benjamin Giovingo:	work packages
+05:55:53	Hanna Pardee:	work package
+05:55:53	Marta Nalik:	work package 
+05:55:54	Zachary Peterson:	work package
+05:55:54	Christopher Foss:	work package
+05:55:54	Tiffany Bingham:	work package
+05:55:55	Geoffrey Bekker:	workpackage
+05:55:56	Jessica Masters:	work package
+05:55:56	Rahul Chourasiya:	Work PAckage
+05:55:56	Susanne Miller:	WP
+05:55:56	Lilith Cruces:	activities
+05:55:56	Mary Burdell:	work package
+05:55:56	Brian Mellon:	work package
+05:55:56	Ashwyn Kumar:	Element level
+05:55:56	Vergil Johnson:	WOrk packages
+05:55:56	David Tallon:	work package
+05:55:57	Armad Todd:	work package
+05:55:57	Michael Berst:	Wp
+05:55:57	Kyle Hite:	work package
+05:55:59	Manish Sharma:	Work Package
+05:56:00	Ahmed Ali:	WP
+05:57:10	Darryl George:	TP
+05:57:10	Andrew Zeigler:	analogous
+05:57:10	Brian Mellon:	point
+05:57:10	Hans Nygren:	Analogous
+05:57:11	Derek Likes:	three  point
+05:57:11	Iestyn Williams:	analogous
+05:57:12	Joseph Deniro:	analogous
+05:57:12	Abhishek Paul:	analogous
+05:57:12	Mark Nyberg:	Three-point
+05:57:13	Wyatt Pierce:	analogous
+05:57:13	Delan Humphrey:	analogous
+05:57:13	Siju Abraham:	analogous
+05:57:13	Manish Bansiwala:	analogous
+05:57:13	LAWRENCE ROGERS:	analagous
+05:57:14	Brian Schwartzkopf:	analo
+05:57:14	John Hunter:	Ananlogues
+05:57:14	Denis Herrera:	analog
+05:57:15	Brandon White:	analagous
+05:57:15	Hanna Pardee:	Analogous
+05:57:16	Andrew Warninghoff:	analougous
+05:57:16	Robert Thomas:	Analogous
+05:57:16	Floyd Green:	Analog..
+05:57:17	Manish Sharma:	3 point
+05:57:18	Dragos Zamfir:	analougus
+05:57:45	Ahmed Ali:	P
+05:57:46	Timothy White:	bottom up
+05:57:46	Marco Egizi:	bottom up
+05:57:46	Gloria Arango Solano:	parametric
+05:57:46	David Tallon:	bottom up
+05:57:47	Roda Farley:	bottom up
+05:57:47	Jessica Masters:	bottom up
+05:57:47	Kathryn May/PMP:	bottom up
+05:57:47	Hans Nygren:	Bottom Up
+05:57:47	Amanda Henning:	bottom up
+05:57:47	Erika Tarzi:	bottom up
+05:57:47	Mark Thompson:	bottom up
+05:57:47	Zachary Peterson:	bottom up 
+05:57:47	Andrew Burns:	B-up
+05:57:47	Jeanne de Oliveira Dalapé:	bottom up
+05:57:48	Abhishek Paul:	bottom up
+05:57:48	Francisco Pineiro:	bottom up
+05:57:48	Madelyn Reuther:	Bottom up
+05:57:48	Michele Peters:	Bottom up
+05:57:48	Nathanael Cremean:	parametric
+05:57:48	Ebrima Cham:	Bottom up 
+05:57:48	Delan Humphrey:	bottom-up
+05:57:48	Robert Thomas:	bottom-up
+05:57:48	Sheikh Ahmed:	bottom up
+05:57:48	Brandon White:	bottom uo
+05:57:48	Pradhiba Radhika Venugopal Jawahar:	Parametric
+05:57:48	Andrew Warninghoff:	bottom up
+05:57:48	Geoffrey Bekker:	bottom up
+05:57:48	Janneane Gerot:	Bottom up
+05:57:48	Veladri Palla:	bp
+05:57:48	Valente Ortiz:	parametric
+05:57:48	John Schroeder:	bottom up
+05:57:48	Christopher Wilson:	Parametric
+05:57:48	Portia Howard:	Bottom up
+05:57:48	Dae Kyung Kwon:	Bottom up
+05:57:49	Silvia Lattuada:	bottom up
+05:57:49	Tanangachi Ngwira:	Bottom up
+05:57:49	Joseph Deniro:	bottom-up
+05:57:49	Andrew Zeigler:	paramatric
+05:57:49	John Hunter:	bottoms up[
+05:57:49	Bhupinder Bath:	bottom up
+05:57:49	Jennifer Ojakovo:	Bottom-up
+05:57:49	Abel "Abe" Tavarez IT:	Bottom up
+05:57:49	Florina Paduraru:	bottom up
+05:57:50	Kyle Hite:	bottom up
+05:57:50	Karen Kuzdak:	bottom up
+05:57:50	Brandon Nelson:	bottom up
+05:57:50	Devanand Jayapaul:	bottom up
+05:57:50	Dana Parisi:	bottom up
+05:57:50	Gene Galke:	bottom up
+05:57:51	Manish Sharma:	Bottom Up
+05:57:51	Hanna Pardee:	Bottom up
+06:11:50	Timothy White:	8
+06:11:51	Valente Ortiz:	8
+06:11:52	David Tallon:	8
+06:11:53	Dana Parisi:	11
+06:11:53	Teisha Akinpelu:	19
+06:11:55	Silvia Lattuada:	10
+06:11:55	Abel "Abe" Tavarez IT:	8
+06:11:55	Kathryn May/PMP:	8
+06:11:56	Devanand Jayapaul:	8
+06:11:56	Erika Tarzi:	8
+06:11:56	Jason Pattee:	8
+06:11:58	John Hunter:	5
+06:11:58	Steven Cragg:	8
+06:11:59	Veladri Palla:	19]
+06:11:59	Nathan Trotter:	4
+06:12:00	Saranya Azhagamanna Hariharan:	8
+06:12:00	Javier Lopez:	8
+06:12:01	Floyd Green:	8
+06:12:01	Kyle Hite:	8
+06:12:02	Geoffrey Bekker:	10
+06:12:02	Karunanithi Kandasamy:	5
+06:12:03	Ahmed Ali:	8
+06:12:03	Bogahawattage Pasan Kularatne:	8
+06:12:03	Ranjitha Rao:	8
+06:12:03	Ganesh Sasane:	8
+06:12:04	Sameh Elgendy:	8
+06:12:04	Brandon Nelson:	8
+06:12:04	Matthew Ong:	8
+06:12:04	Rocio Mostacero:	8
+06:12:06	Raymundo Perez:	8
+06:12:06	Brooke Talker:	8
+06:12:07	Kyle Hite:	8
+06:12:07	Jotika Levy:	8
+06:12:24	Darryl George:	10
+06:12:25	Timothy White:	10
+06:12:25	Valente Ortiz:	10
+06:12:25	Saranya Azhagamanna Hariharan:	10
+06:12:25	Seth Harrison:	10
+06:12:25	Delan Humphrey:	10
+06:12:25	Brandon Nelson:	10
+06:12:25	Jessica Masters:	10
+06:12:25	Johanna Strandtoft:	10
+06:12:25	Gloria Arango Solano:	10
+06:12:25	Steven Cragg:	10
+06:12:25	Silvia Lattuada:	10
+06:12:25	Jacklyn Parks:	10
+06:12:25	Mark Thompson:	10
+06:12:25	Matthew Johnson:	10
+06:12:26	MARY YOUNG:	10
+06:12:26	Matthew Ong:	10
+06:12:26	Abel "Abe" Tavarez IT:	10
+06:12:26	Kathryn May/PMP:	10
+06:12:26	Veladri Palla:	11
+06:12:26	Pradhiba Radhika Venugopal Jawahar:	10
+06:12:26	Justen Anderson:	10
+06:12:26	Manish Sharma:	20
+06:12:26	Aaron:	10
+06:12:26	Brooke Talker:	10
+06:12:26	Erika Tarzi:	10
+06:12:27	Jason Pattee:	10
+06:12:27	Mary Burdell:	10
+06:12:27	Kyle Hite:	10
+06:12:27	Sheikh Ahmed:	10
+06:12:27	Denis Herrera:	11
+06:12:27	Matthew Kelly:	10
+06:12:27	Ganesh Sasane:	11
+06:12:27	Sameh Elgendy:	10
+06:12:28	Gloria Arango Solano:	11
+06:12:28	Luca MAGNANI:	10
+06:12:28	Devanand Jayapaul:	15
+06:12:29	Juan Luis Cabrera Bernal:	10
+06:12:29	Floyd Green:	10
+06:12:29	Geoffrey Bekker:	10
+06:12:29	Shannon Greenbaum:	10
+06:12:29	Katie Poirrier:	10
+06:12:29	John Hunter:	10
+06:12:30	Ranjitha Rao:	10
+06:12:30	George Collins:	10
+06:12:30	Javier Lopez:	10
+06:12:30	Eddie Seward:	10
+06:12:30	Gregg VandeWiele:	10
+06:12:30	Marco Egizi:	10
+06:12:31	Poonam Sabnani:	10
+06:12:31	Ebrima Cham:	10
+06:12:32	Raymundo Perez:	10
+06:12:32	Leelananda Reddy Bandlapalli:	10
+06:12:32	Meshach Barkley:	10
+06:12:33	Jotika Levy:	10
+06:12:35	Sherwyn Tenia:	10
+06:12:35	Karunanithi Kandasamy:	10
+06:12:36	Cade Moses:	21
+06:12:36	Vergil Johnson:	10
+06:13:00	Delan Humphrey:	8
+06:13:00	Timothy White:	12
+06:13:00	Darryl George:	8
+06:13:00	Saranya Azhagamanna Hariharan:	8
+06:13:00	Brandon Nelson:	8
+06:13:00	Valente Ortiz:	8
+06:13:00	Matthew Ong:	8
+06:13:00	Abel "Abe" Tavarez IT:	8
+06:13:00	Pradhiba Radhika Venugopal Jawahar:	8
+06:13:00	Ebrima Cham:	8
+06:13:00	MARY YOUNG:	8
+06:13:00	Shannon Greenbaum:	8
+06:13:01	Mary Burdell:	8
+06:13:01	Luca MAGNANI:	8
+06:13:01	Sindy Alcantar:	8
+06:13:01	Meshach Barkley:	8
+06:13:01	Jessica Fourney Martin:	8
+06:13:01	Robert Thomas:	8
+06:13:01	Seth Harrison:	8
+06:13:01	Veladri Palla:	8
+06:13:01	David Tallon:	8
+06:13:01	Rosina Vazquez:	8
+06:13:01	Kathryn May/PMP:	8
+06:13:01	Azizza Brown:	8
+06:13:01	Gloria Arango Solano:	8
+06:13:01	Johanna Strandtoft:	8
+06:13:01	Katie Poirrier:	8
+06:13:01	Ranjitha Rao:	8
+06:13:01	Janneane Gerot:	8
+06:13:01	Justen Anderson:	8
+06:13:01	Jessica Masters:	8
+06:13:01	Brandon White:	8
+06:13:01	Brooke Talker:	8
+06:13:01	Juan Luis Cabrera Bernal:	8
+06:13:02	Geoffrey Bekker:	10
+06:13:02	Jacklyn Parks:	6
+06:13:02	Erika Tarzi:	8
+06:13:02	Rose Povazanj:	8
+06:13:02	Leelananda Reddy Bandlapalli:	8
+06:13:02	Denis Herrera:	8
+06:13:02	Sean E. Eddens:	8
+06:13:02	Poonam Sabnani:	8
+06:13:02	Silvia Lattuada:	8
+06:13:02	Daniel Garcia:	8
+06:13:02	Hanna Pardee:	8
+06:13:02	Elaine Johnson:	8
+06:13:02	Karunanithi Kandasamy:	8
+06:13:02	Floyd Green:	8
+06:13:03	Brian Mellon:	8
+06:13:03	William Villarreal:	8
+06:13:03	Justin Cepeda:	8
+06:13:03	Jason Taylor:	8
+06:13:03	Siju Abraham:	8
+06:13:03	Roda Farley:	8
+06:13:03	Ahmed Ali:	8
+06:13:04	Matthew Kelly:	8
+06:13:04	Chad Logan:	8
+06:13:04	John Hunter:	8
+06:13:04	Javier Lopez:	8
+06:13:04	Sheikh Ahmed:	8
+06:13:04	David Dias:	8
+06:13:05	Sherwyn Tenia:	19
+06:13:06	Li Yuan:	9
+06:13:07	John Schroeder:	12
+06:13:07	Demet McDaniel:	8
+06:13:08	Andrew Burns:	8
+06:13:08	Steven Santon:	88888888
+06:13:08	Kyle Hite:	8
+06:13:09	Ahmed Ali:	8
+06:13:10	Tanangachi Ngwira:	8
+06:13:11	Cade Moses:	why are you leaving out 11?
+06:13:11	Jotika Levy:	8
+06:13:12	Sameh Elgendy:	8
+06:13:14	Kazeem Arowolo:	there is 1 and 11 on start and end
+06:13:15	Sherwyn Tenia:	8
+06:13:15	Gwendolyn Dedrick:	why not calculating 11?
+06:13:15	ANDREW LEWIS:	8
+06:13:16	Eddie Seward:	8
+06:13:17	Abel "Abe" Tavarez IT:	8
+06:13:18	Eddie Seward:	8
+06:13:18	Eddie Seward:	8
+06:13:21	Akash Ranjan:	8
+06:13:49	Marco Egizi:	ade.
+06:13:49	Timothy White:	ade
+06:13:49	Justin Cepeda:	ADE
+06:13:50	Darryl George:	343
+06:13:50	Veladri Palla:	ade
+06:13:50	MARY YOUNG:	ADF
+06:13:50	Miguel Canedo:	ADE
+06:13:50	Janneane Gerot:	10
+06:13:50	Pradhiba Radhika Venugopal Jawahar:	BDE
+06:13:51	Shannon Greenbaum:	ADE
+06:13:51	Manish Sharma:	11'
+06:13:51	William Mitchell:	ADE
+06:13:51	Valente Ortiz:	10
+06:13:51	James Simpson:	adf
+06:13:52	Jerrod Hall:	ADE
+06:13:52	Hanna Pardee:	A D E
+06:13:52	Brandon Nelson:	ade
+06:13:52	Adam Foye:	ADE
+06:13:52	Kathryn May/PMP:	11
+06:13:53	Tiffany Bingham:	ADE
+06:13:53	Matthew Ong:	ADE
+06:13:53	Leelananda Reddy Bandlapalli:	ADE
+06:13:53	Denis Herrera:	ade
+06:13:53	Florina Paduraru:	ade
+06:13:53	Ganesh Sasane:	11
+06:13:53	Jessica Masters:	A to D to E
+06:13:54	Isaac Kopach:	ade
+06:13:54	Matthew Kelly:	ade
+06:13:54	Abel "Abe" Tavarez IT:	A-D-E
+06:13:54	Sheikh Ahmed:	a+D+E=11
+06:13:55	Silvia Lattuada:	ade
+06:13:55	Brandon White:	ADE
+06:13:56	Ganesh Sasane:	QDE
+06:13:56	John Hunter:	11
+06:13:56	Johanna Strandtoft:	ADE
+06:13:57	Floyd Green:	ade
+06:13:57	Saranya Azhagamanna Hariharan:	ade
+06:13:57	Mark Sorapuru:	Ade
+06:13:58	Kathryn May/PMP:	ADE
+06:13:58	Luca MAGNANI:	11
+06:13:58	Rose Povazanj:	ade
+06:13:58	Sherwyn Tenia:	ADE
+06:13:58	MARY YOUNG:	ADE
+06:13:58	Valente Ortiz:	ADF
+06:13:59	Michele Peters:	ADE 11
+06:14:00	Bogahawattage Pasan Kularatne:	11 amd e
+06:14:01	Tammy Alatorre:	11
+06:14:01	Ahmed Ali:	11
+06:14:01	Juan Luis Cabrera Bernal:	11
+06:14:01	ANDREW LEWIS:	ade
+06:14:01	Javier Lopez:	ADE
+06:14:01	Sindy Alcantar:	11
+06:14:02	HR Willingham:	ADE
+06:14:02	Ebrima Cham:	11
+06:14:02	Justin Cepeda:	11
+06:14:02	Darryl George:	11
+06:14:02	Greg Syvertson:	A-D-E = 11
+06:14:02	Justen Anderson:	11
+06:14:02	Sherwyn Tenia:	11
+06:14:03	Daniel Garcia:	11
+06:14:03	Andrew Burns:	11
+06:14:03	Hanna Pardee:	11
+06:14:03	Rosina Vazquez:	11
+06:14:03	Jessica Masters:	11
+06:14:03	Manish Sharma:	ADe 11
+06:14:03	Susanne Miller:	11
+06:14:04	Sean E. Eddens:	ADE
+06:14:04	David Tallon:	11
+06:14:04	Florina Paduraru:	11
+06:14:04	David Dias:	11
+06:14:04	Timothy White:	11
+06:14:04	Jessica Fourney Martin:	11
+06:14:04	Adam Foye:	11
+06:14:04	Siju Abraham:	ADE 11
+06:14:04	Kathryn May/PMP:	ADE 11
+06:14:04	Johanna Strandtoft:	11
+06:14:04	Erika Tarzi:	ade - critical 11
+06:14:04	Floyd Green:	11
+06:14:04	Li Yuan:	11
+06:14:05	Mica Lloyd:	11
+06:14:05	Poonam Sabnani:	ADE
+06:14:05	Roda Farley:	11
+06:14:05	Brandon Nelson:	11
+06:14:06	Marco Egizi:	ELEVEN!!!!!!!
+06:14:06	Denis Herrera:	11
+06:14:06	Eddie Seward:	11
+06:14:06	Omobolanle Kayode:	11
+06:14:06	Kyle Hite:	11
+06:14:06	Leelananda Reddy Bandlapalli:	11
+06:14:06	Brian Mellon:	11
+06:14:06	Elaine Johnson:	11
+06:14:07	Jotika Levy:	ade 11
+06:14:07	Azizza Brown:	11
+06:14:07	Valente Ortiz:	11
+06:14:07	Akash Ranjan:	11
+06:14:07	Eddie Seward:	11
+06:14:07	Saranya Azhagamanna Hariharan:	ade 11
+06:14:07	Tanangachi Ngwira:	11
+06:14:07	Vergil Johnson:	11
+06:14:08	Steven Santon:	11111111111111111111
+06:14:08	HR Willingham:	11
+06:14:08	Matthew Kelly:	11
+06:14:09	Pradhiba Radhika Venugopal Jawahar:	11
+06:14:10	Darryl George:	ADE
+06:14:10	Justin Cepeda:	ADE
+06:14:10	Thomas Kelly:	11
+06:14:10	Silvia Lattuada:	11
+06:14:10	Valente Ortiz:	11
+06:14:11	Javier Lopez:	11
+06:14:11	Luca MAGNANI:	ade
+06:14:11	Sheikh Ahmed:	ADE
+06:14:12	Rosina Vazquez:	ADE
+06:14:12	Ranjitha Rao:	ade
+06:14:12	Ebrima Cham:	ade
+06:14:12	Gloria Arango Solano:	ADE
+06:14:12	Marco Egizi:	A
+06:14:12	Siju Abraham:	ADE
+06:14:12	Andrew Burns:	11
+06:14:12	Ganesh Sasane:	ADE
+06:14:12	Daniel Garcia:	ADE
+06:14:12	Ricardo Aguilar:	ade
+06:14:12	Mica Lloyd:	ade
+06:14:12	Marco Egizi:	D
+06:14:13	David Tallon:	ADE
+06:14:13	Leelananda Reddy Bandlapalli:	ADE
+06:14:13	Felicia Wright:	11
+06:14:13	Marco Egizi:	E
+06:14:13	Geoffrey Bekker:	ADE
+06:14:13	ANDREW LEWIS:	ade
+06:14:13	Jessica Fourney Martin:	BDE
+06:14:13	Poonam Sabnani:	ADE
+06:14:13	James Simpson:	ade
+06:14:13	Li Yuan:	ADE
+06:14:13	Vergil Johnson:	ade
+06:14:14	Kyle Hite:	ade
+06:14:14	Susanne Miller:	ADE
+06:14:14	Brandon White:	ADE
+06:14:14	Justen Anderson:	ade
+06:14:14	Floyd Green:	ade
+06:14:14	Manish Sharma:	ADE 11
+06:14:14	Sindy Alcantar:	ade
+06:14:14	Pradhiba Radhika Venugopal Jawahar:	BDE
+06:14:14	Valente Ortiz:	ADE
+06:14:14	Abel "Abe" Tavarez IT:	ADE
+06:14:14	Eddie Seward:	11
+06:14:15	Andrew Warninghoff:	where is B, D, E?
+06:14:15	Ahmed Ali:	11
+06:14:15	Omobolanle Kayode:	ade
+06:15:25	Darryl George:	3
+06:15:25	John Hunter:	2
+06:15:26	Jacklyn Parks:	3
+06:15:26	Vergil Johnson:	3
+06:15:27	SIVASHANKAR DAMODHARAN:	3
+06:15:27	Rose Povazanj:	3
+06:15:27	Ganesh Sasane:	3
+06:15:27	Brandon White:	3
+06:15:27	Andrew Burns:	3
+06:15:27	Ebrima Cham:	3
+06:15:28	Luca MAGNANI:	3
+06:15:28	Mark Thompson:	3
+06:15:28	Valente Ortiz:	3
+06:15:28	Brandon Nelson:	3
+06:15:28	Kathryn May/PMP:	6 days
+06:15:28	Justen Anderson:	6
+06:15:29	Floyd Green:	3
+06:15:29	Sheikh Ahmed:	3
+06:15:29	Sherwyn Tenia:	3
+06:15:29	Saranya Azhagamanna Hariharan:	3
+06:15:29	ANDREW LEWIS:	3
+06:15:29	Veladri Palla:	3
+06:15:29	Andrew Zeigler:	3
+06:15:29	Steven Cragg:	3
+06:15:29	Timothy Bernard:	3
+06:15:29	Matthew Ong:	3
+06:15:29	Edward Hudson:	3
+06:15:29	Kyle Hite:	3
+06:15:29	Azizza Brown:	3
+06:15:29	Ranjitha Rao:	3
+06:15:29	Robert Thomas:	3
+06:15:29	Isaac Kopach:	3
+06:15:30	Jessica Fourney Martin:	3
+06:15:30	Hanna Pardee:	3
+06:15:30	Devanand Jayapaul:	3
+06:15:30	Kai Cao:	3
+06:15:31	Ahmed Ali:	3
+06:15:33	HR Willingham:	3
+06:15:33	Phuong Rosell:	3
+06:15:33	Ricardo Sanabria:	3
+06:15:33	Rosina Vazquez:	3
+06:15:33	Eddie Seward:	3
+06:15:34	Renatta Foston:	3
+06:15:35	Eddie Seward:	3
+06:15:36	Seth Harrison:	3
+06:15:36	Jotika Levy:	3
+06:15:36	Tammy Alatorre:	3
+06:15:37	Vijay Korlam:	3
+06:15:38	Akash Ranjan:	3
+06:16:46	Valente Ortiz:	11
+06:16:47	Delan Humphrey:	11
+06:16:47	Andrew Burns:	11
+06:16:47	Brandon White:	8
+06:16:48	Timothy White:	11
+06:16:48	Justen Anderson:	11
+06:16:48	Floyd Green:	11
+06:16:48	Phuong Rosell:	11
+06:16:49	Mark Thompson:	11
+06:16:49	Kathryn May/PMP:	11
+06:16:49	Timothy Bernard:	11
+06:16:49	Sean E. Eddens:	11
+06:16:50	Robert Thomas:	11
+06:16:50	Abel "Abe" Tavarez IT:	11
+06:16:50	Gloria Arango Solano:	11
+06:16:50	Li Yuan:	11
+06:16:50	Veladri Palla:	11
+06:16:51	Ahmed Ali:	11
+06:16:51	LAWRENCE ROGERS:	11
+06:16:51	Rosina Vazquez:	11
+06:16:51	Hanna Pardee:	11
+06:16:52	Javier Lopez:	11
+06:16:52	Saranya Azhagamanna Hariharan:	11
+06:16:52	Ricardo Sanabria:	11
+06:16:52	ANDREW LEWIS:	11
+06:16:52	Akash Ranjan:	11
+06:16:52	Poonam Sabnani:	11
+06:16:53	DIANE KUSZEWSKI:	11
+06:16:53	Cathe Alao:	11
+06:16:53	Jotika Levy:	11
+06:16:54	Elaine Johnson:	11
+06:16:54	Renatta Foston:	11
+07:35:24	Carl Mullin:	IMPORATANT INFORMATIOM: If you see a * on your slide next to a word, that means it is a defined word. You an find the definitions of these words by looking at the slides that follow the survey slide in your slide deck.
+08:04:50	Neil Flanders:	3
+08:04:55	Ranjitha Rao:	134
+08:04:56	Andrew Zeigler:	first three
+08:04:56	Wayne Christian:	1, 3, 4
+08:04:56	Nathan Trotter:	1,3,4
+08:04:57	Steffen Nann:	1,3,4
+08:04:58	Marco Egizi:	1, 4
+08:04:58	Azizza Brown:	134
+08:04:59	Steven Cragg:	1, 3, 4
+08:04:59	Zachary Peterson:	134
+08:05:01	Ebrima Cham:	A/C/D
+08:05:02	Buck Brunner:	1,2,3
+08:05:02	Veladri Palla:	1234
+08:05:02	Christopher Wilson:	2 is false
+08:05:02	Arpad Piskolti:	1 3 4
+08:05:02	Erika Tarzi:	134
+08:05:03	Benjamin Goclano:	1,3,4
+08:05:03	Isabel Geiger:	1, 3, 4
+08:05:03	MARY YOUNG:	134
+08:05:03	Richard Winkelbach:	134
+08:05:04	Saranya Azhagamanna Hariharan:	134
+08:05:04	Li Yuan:	1, 3, 4
+08:05:04	Marta Nalik:	1, 4
+08:05:04	Johnny Workman:	14
+08:05:04	Angie Velarde Garcia:	134
+08:05:05	Ryan Dunkle:	134
+08:05:05	Justen Anderson:	134
+08:05:05	Hanna Pardee:	1, 3, 4
+08:05:05	Devanand Jayapaul:	3 and 4
+08:05:05	Taylor Joy:	134
+08:05:05	Floyd Green:	1 3 4
+08:05:06	Sheikh Ahmed:	a. True
+c. True.
+08:05:06	Andrew Boynton:	1,3,4
+08:05:06	Keith Wilson:	3
+08:05:06	Ermelindo Serrano Jr.:	3/4
+08:05:06	Allison Anderson:	134
+08:05:07	Paige Welsh:	134
+08:05:07	Elaine Johnson:	13
+08:05:07	Joshua Ternes:	1, 4
+08:05:08	Muhammed Aslem Painayil Abdul Jabbar:	1
+08:05:08	Seth Harrison:	1 3 4
+08:05:08	David Dias:	134
+08:05:08	Frederick Torde:	1, 3, 4
+08:05:08	Robert Thomas:	1, 3, 4
+08:05:08	Matthew Ong:	1,3,4
+08:05:08	Thomas Kelly:	1,3,4
+08:05:08	Valente Ortiz:	B,C
+08:05:08	Sheikh Ahmed:	D.true
+08:05:09	Abel "Abe" Tavarez IT:	134
+08:05:09	Vergil Johnson:	1,3,4
+08:05:09	Rose Povazanj:	134
+08:05:09	Garrett Gourley:	1,3, 4
+08:05:09	Thomas House:	1,3,4
+08:05:09	Demet McDaniel:	1, 3, 4
+08:05:10	Steven Santon:	2 is not true
+08:05:10	Nathan Gray:	134
+08:05:10	Gregory Whitmarsh:	1,3,4
+08:05:10	Rosina Vazquez:	134
+08:05:10	LAWRENCE ROGERS:	1,3,4
+08:05:10	Prashant Singh:	2,3, 4
+08:05:11	Siju Abraham:	a, c, d
+08:05:33	Ermelindo Serrano Jr.:	PM
+08:05:34	Thomas Kelly:	PM
+08:05:34	Gloria Arango Solano:	PM
+08:05:34	Ahmed Ali:	SM
+08:05:34	Joshua Ternes:	PM
+08:05:35	Floyd Green:	PM
+08:05:35	Erika Tarzi:	scrum master
+08:05:35	Garrett Gourley:	pm
+08:05:35	MARY YOUNG:	PM
+08:05:35	David Tallon:	PM
+08:05:36	Carlos Perez-Islas:	project manager
+08:05:36	Jacklyn Parks:	scrum master
+08:05:36	Ebrima Cham:	sCRUM
+08:05:36	James Simpson:	pm
+08:05:36	Ade Bambe:	Product owner
+08:05:36	Juan Romeropacheco:	pm
+08:05:36	Tina Frey:	PM
+08:05:37	Gene Galke:	scrummaster
+08:05:37	Saranya Azhagamanna Hariharan:	PM
+08:05:37	Andrew Burns:	PM
+08:05:37	Thomas House:	PM
+08:05:37	Buck Brunner:	scrm
+08:05:37	Colin Udoh:	Scrum Master
+08:05:37	Sandra Guerrero:	PM
+08:05:37	Paula Blackford:	me
+08:05:38	Andrew Warninghoff:	pm
+08:05:38	Brian Mellon:	Project mgr
+08:05:38	Phuong Rosell:	Pm
+08:05:38	HR Willingham:	PM
+08:05:38	Daniel Rogne:	The PM
+08:05:38	Ashwyn Kumar:	scrum mater
+08:05:38	Roda Farley:	scrum
+08:05:38	Muhammed Aslem Painayil Abdul Jabbar:	servant leader
+08:05:38	Manish Bansiwala:	product owner
+08:05:38	Edward Hudson:	PM
+08:05:38	Andrew Boynton:	pm
+08:05:39	Veladri Palla:	scrum master
+08:05:39	Sheikh Ahmed:	Scumr Master
+08:05:39	Saranya Azhagamanna Hariharan:	scrum master
+08:05:40	Rose Povazanj:	prod owner
+08:05:40	Frederick Torde:	Product Owner
+08:05:40	Allison Anderson:	scrum master
+08:05:40	Angie Velarde Garcia:	PM, scrum
+08:05:40	Ezekiel Ross:	SCrum
+08:05:41	Abel "Abe" Tavarez IT:	Pm
+08:05:41	Rahul Chourasiya:	SM., PM
+08:05:41	Tanangachi Ngwira:	PM
+08:05:41	ANDREW LEWIS:	SM
+08:05:41	Devanand Jayapaul:	scrum master
+08:05:41	Mags Zalamea:	scrum master - servant leader
+08:05:42	John Hunter:	Scrun Matser
+08:05:42	Dragos Zamfir:	PM
+08:05:42	Kyle Hite:	Scum master
+08:05:44	Franklin Freeman:	sm
+08:05:45	Abel "Abe" Tavarez IT:	Scrum Master
+08:05:45	GerVaise Guyton:	PM or Scrum
+08:05:45	TERRIE EWELL:	pm
+08:05:46	Tim Shea:	scrum master
+08:05:46	Jotika Levy:	PM
+08:05:47	Isaac Kopach:	scrum/pm
+08:05:47	David Mukendi kazadi:	SM 
+08:13:48	Carl Mullin:	Can I get a few attendees to upvote my post for the survey link from C M?
+08:15:29	Carl Mullin:	Thank you everyone
+08:21:18	Carl Mullin:	IMPORTANT INFORMATION: On your slides, defined words are colored or an asterisk (*) is placed next to them.​ Check the definition slides after the survey in your slide decks.
+08:23:43	Carl Mullin:	Survey Link: https://surveys.skillsoft.com/jfe/form/SV_71mBcWDtrAFfFUG
+08:38:45	Carl Mullin:	IMPORTANT INFORMATION FOR TOMORROA - 1. If you are a Percipio user, DO NOT post in the Q&A to check your name; you won't see it there. Instead log into Percipio and check the last icon in the upper right hand corner. This is the Profile icon. If you need assistance changing your name in Percipio please contact Customer Support https://support.skillsoft.com/percipio/ 2. If you are joining by Zoom and you post in the Q&A you should see your name with the word You in brackets. If you have done a name check before in the Q&A using Zoom to join the session, please do not name check in the Q&A.
+08:42:47	Carl Mullin:	GOOD INFORMATION: When it comes to contacts, unless the question on the PMP exam tells you otherwise, you are the buyer.
+09:00:53	Carl Mullin:	The survey link is the same for all 5 days. Please save the link in a file so you don't have to request it.
+09:00:55	Carl Mullin:	Survey Link: https://surveys.skillsoft.com/jfe/form/SV_71mBcWDtrAFfFUG

@@ -1,0 +1,268 @@
+01:01:30	Carl Mullin:	The chat is currently paused. At this time please use the Q&A for technical issues only related to the session such as audio issues or learning platform issues. We are going to cover some very important housekeeping items and need everyone’s full attention. If you have a technical issue, please begin your message with “Percipio:” if you are a Percipio user and “Non-Percipio:” if you are a non-Percipio user. Please hold on to your questions until after we have finished the house keeping items. If you already did a name check yesterday in the Q&A and are using the same method or methods to join the session today, please do not name check
+01:15:22	Carl Mullin:	ATTENTION EVERYONE - Please use the attendance tracker to track your login and logout times for each session. Ideally you should only have one entry per session. When you join the session and when the session ends.
+01:15:50	Carl Mullin:	If you get disconnected please add new entries as needed.
+01:16:33	Carl Mullin:	The Attendance Tracker document is needed for the Certificate Request Center method to request your certificate
+01:18:31	Carl Mullin:	The Day 1 video describes how to use the tracker and Day 5 video for the certificate methods. You can access these videos here.
+01:18:32	Carl Mullin:	https://github.com/Skillsoft-Content/PMP5Day/tree/main/Lunch%20Break%20Videos
+01:27:57	Carl Mullin:	Chat is unpaused
+01:29:58	Jose Pacheco:	What are the three Matrix authorities again?
+01:32:58	Teisha Akinpelu:	I’m struggling with the difference between GOVERNANCE AND COMPLIANCE. Would you agree with this: Governance sets the tone for the entire company’s attitude to risk, ethics, and business practices. Compliance embodies that attitude in relation to specific laws and regulations.
+01:36:24	Wyatt Pierce:	@Teisha, I think of governanance as an internal set of rules/processes for spending and other things. E.g., VP is authorized to sign off on up to $2m; or projects over $xx require review by some group of people. I think of compliance as mostly external to the organization (although there can be internal compliance constructs as well).
+01:37:31	Renatta Foston:	Name test. I did not conduct this action yesterday.
+01:38:39	Rahul Chourasiya:	I think Compliance  have some terms and Conditions writen by goverment, Whenever we develop the application we have to follow the terms and conditions, We can ignore it, Other wise we cant release the ap
+01:39:40	Rahul Chourasiya:	I think Compliance  have some terms and Conditions writen by goverment, Whenever we develop the application we have to follow the terms and conditions, We can ignore it, Other wise we cant release the application
+
+01:39:52	Ebrima Cham:	What is the difference 2B and 4B
+01:39:52	Andrew Warninghoff:	Are Predictive and traditional terms synonymous?
+01:39:56	Jason Stripling:	My apologies but I am unclear on the timesheet accounting process?
+01:40:24	Hans Nygren:	FYI for all Percipio Users: The Q&A through Zoom is better. In Zoom you can filter the Q&A. I found it best to log in through both platforms so I can use the Zoom Q&A.
+01:40:28	John Hunter:	Hi Team Sorry can you confirm if the sessions on the tracker relate to the individual lessons or connection timings.
+01:41:15	Silvia Lattuada:	test
+01:41:30	Amanda Davis:	Test
+01:41:31	Jacob Eaves:	Test
+01:41:37	Dragos:	Test
+01:41:42	Andrew Warninghoff:	Are predictive and traditional considered synonymous?
+01:41:43	Mohamed Safwat:	Test
+01:42:17	null:	test
+01:42:37	Keith Wilson:	Test
+01:42:38	Jotika Levy:	predictive is waterfall
+01:42:43	Mary Burdell:	Test
+01:42:47	Sunil Ghatage:	What is organic org structure?
+01:42:51	Dane Sonnenberg:	Test
+01:44:10	Andrew Boynton:	test
+01:45:10	Sumit Kumar:	how to download attendance tracker.
+01:46:20	Kenneth Moonan:	https://github.com/Skillsoft-Content/PMP5Day/blob/main/5-Day%20Attendance%20and%20Certificates%20of%20Completion%20Info/PMP%20Bootcamp%205-Day%20and%208-Day%20Attendance%20Tracker%20and%20Certificate%20Request%20Process.docx
+01:46:23	Hanna Pardee:	Anyone who has a impact to the project 
+01:46:37	Kenneth Moonan:	https://github.com/Skillsoft-Content/PMP5Day/blob/main/5-Day%20Attendance%20and%20Certificates%20of%20Completion%20Info/PMP%20Bootcamp%205-Day%20and%208-Day%20Attendance%20Tracker%20and%20Certificate%20Request%20Process.docx
+01:47:20	Sunil Ghatage:	Anyone who is associated with the project?
+01:47:23	Hanna Pardee:	Anyone who has a interest, influence, impact, or involved with the project 
+01:47:30	Hanna Pardee:	End Users 
+01:47:31	Delan Humphrey:	homeowner
+01:47:35	Steven Cragg:	State level governments
+01:47:35	Diana Perez:	drivers
+01:47:36	Eli Darby:	EU
+01:47:36	Armad Todd:	all europeans
+01:47:37	Erika Tarzi:	country leaders
+01:47:37	Ezekiel Ross:	Drivers on road
+01:47:37	Valente Ortiz:	In investor
+01:47:37	Rashawn Quinzy:	the land owner
+01:47:38	SIVASHANKAR DAMODHARAN:	Sponsor
+01:47:38	Melanie Ivey-Bunnell:	team members
+01:47:38	Timothy White:	The governments of each country
+01:47:38	Jennifer Johnson:	politicians 
+01:47:38	Cathe Alao:	road users
+01:47:38	Matthew Ong:	The landowners
+01:47:38	Matthew Johnson:	Commerical rep
+01:47:38	Gwendolyn Dedrick:	The drivers
+01:47:38	Shauna Fox:	every driver
+01:47:39	Isabel Geiger:	The population
+01:47:40	Buck Brunner:	Drivers, city
+01:47:40	Ryan Dunkle:	environment
+01:47:40	Ebrima Cham:	Rail way 
+01:47:40	Gregory Whitmarsh:	governments, communities
+01:47:40	Susanne Miller:	ind state/country
+01:47:40	Brian Mellon:	Farmers
+01:47:40	Lakia Henry:	citizens 
+01:47:41	Darryl George:	People living in the town
+01:47:41	Andrew Zeigler:	Funding source
+01:47:41	House:	AEU
+01:47:41	Thomas Wypyski:	FRONTEX
+01:47:42	Hanna Pardee:	Employees
+01:47:43	Seth Harrison:	CEO
+01:47:43	Hanna Pardee:	Customers
+01:47:44	Amanda Housewright:	suppliers
+01:47:44	Jennifer Ojakovo:	INVESTORS
+01:47:44	Wayne Christian:	The residents of Europe
+01:47:44	Shankar Chakraborty:	The landowners
+01:47:45	ANDREW LEWIS:	Commuters
+01:47:46	Camilo Mitchell:	All europeans
+01:47:46	Arpad Piskolti:	people who will use it
+01:47:46	Dayson Emill Lagrange Suero:	Customers
+01:47:46	Marco Egizi:	Cement manufactuers
+01:47:46	Nickeisha Brooks Campbell:	the governments
+01:47:47	Anna Valdez:	city counsel 
+01:47:47	Raymundo Perez:	Customers
+01:47:48	Buck Brunner:	tax implications
+01:47:48	Hans Nygren:	Everyone and countries along the path
+01:47:49	James Simpson:	all countries that the road goes through
+01:47:49	Jerrod Hall:	Population
+01:47:49	William Mitchell:	Tourists
+01:47:49	Silvia Lattuada:	people who live along the path
+01:47:50	Jason Taylor:	the PM
+01:47:50	Gouri Shankar Behera:	CONTRACTOR
+01:47:50	Azizza Brown:	contractors
+01:47:51	Gary Linkevich:	public transport agencies
+01:47:51	Jennifer Ojakovo:	End users
+01:47:52	Richard Winkelbach:	Everyone around or using the highway
+01:47:52	Roseline ALFRED:	customers
+01:47:52	Cathe Alao:	road users
+01:47:52	Gregory Christiansen:	Everyone who lives or works along the proposed route.
+01:48:13	Carl Mullin:	Chat is paused. Please do not post responses to Orlando's questions about the content.
+01:54:55	Carl Mullin:	in the Q&A
+01:57:54	Carl Mullin:	Chat unpaused
+01:58:50	Kimani Alston:	Test
+02:04:25	Cheyenne Gutierrez:	What is a salience model?
+02:17:11	Matthew Ong:	@Cheyenne, its in a later slide. Slide #26.
+02:17:20	Tanangachi Ngwira:	Please resend as I do not see the information from moderators
+02:17:28	Peter Herrmann:	Can you be more specific what information you're saying is important in the chat from the moderators
+02:17:45	Jyotiprabha Senapati:	sir,can i take 2hr class daily
+02:17:46	Sean Byerly:	Please pause the chat so we can see what the moderators said...
+02:17:47	Reim Emam:	FYI Orlando and Moderators. Every time we get automatically logged out. Everything that is posted in the chat and questions disappears
+02:17:58	Edward Hudson:	the pausing and un-pausing of the chat is quite annoying
+02:18:24	Jeremy McGuire:	Name Check!
+02:18:29	House:	how do I do a name check?
+02:18:38	Sumit Kumar:	Test
+02:18:42	zhongyi wu:	test
+02:18:44	Timmy Garcia:	Thanks
+02:18:53	Savion Dubon:	test
+02:19:21	Frederick TarVerdians:	Test
+02:19:27	Ievgeniia Romanenko:	Not sure about how to do a name check, but his is my name: Ievgeniia Romanenko, yesterday I was too
+02:19:37	null:	Test
+02:19:40	House:	test
+02:20:20	Frank Grover:	Test
+02:20:31	Sindy Alcantar:	Test
+02:20:41	Veladri Palla:	what is saliencce model
+02:20:54	Kristy Guede:	It would be helpful if people changed their to field to hosts when posting things not related to the rest of us... Its hard enough to keep up with the chat as is
+02:20:59	mary clement:	name check doesn't work in chat. only QA.
+02:21:21	mary clement:	Chat is distracting and not helpful. please turn it off.
+02:22:22	Ricardo Sanabria:	Does the PMP test focus ? on stakeholders in terms as of being a active participants of the program or as the ones being impacted by the end-state of the project itself. 
+02:22:28	Marco Egizi:	In the europoean highway example, you wouldn't engage the American travelers as much as you would the European residents.
+02:22:37	Azizza Brown:	I agree with mary clement
+
+02:22:41	Ezekiel Ross:	Is identifying the key stakeholders a guessing game?
+02:23:13	Daniel Cusinato:	I had difficulty this morning and missed the first hour of class.  I understand that I must make this up and track once the recorded version comes out.  Am I missing anything above?
+02:24:06	Christele Dudok:	stekaholder register is required either for traditional or agile?
+02:24:15	Matthew Roberts:	just click on "chat" and the feed will go away
+02:24:25	Jeremy Johnson:	I have the same two questions as well.
+02:24:25	Oyun:	What does Stakeholder register is public mean? Can PM share or post public?
+02:24:35	William Mitchell:	In the European Example: Consider the European Tourism/Commerce associations that would know tourism travel patters/concerns - they will know where tour companies believe additional capacity is needed to support tourism.
+02:25:15	Andrew Warninghoff:	are their controls on the stakeholder info? 
+02:25:56	Kristy Guede:	For some projects, you want a sample pool of stakeholders not just the closets people to it right?
+02:26:20	Tanya Gaines:	So,  is It who is requesting the project and funding it as the key stakeholders??
+02:26:20	William Mitchell:	In the European Example: Consider the European Tourism/Commerce associations that would know tourism travel patters/concerns - they will know where tour companies believe additional capacity is needed to support tourism.
+02:26:54	null:	In Risk and mitigation document do we need to mention risk associated with Stakeholders change  or stakeholder  register impact is sufficient?  
+02:26:54	Ahmed Ali:	What if your organization have Global, Regional and National PMO, where policies are driven by Global Level - Do Stakeholders Change?
+02:27:36	Ambra Robinson:	Smartsheet is a great App to create a stakeholder registry
+02:27:57	Carlos Perez-Islas:	Would tenants be labeled as customers?
+02:27:57	Teisha Akinpelu:	“Resistor” lol
+02:28:26	Oyun:	Can stakeholder register shared outside of project or organization?
+02:28:26	Yalla Bhanusri:	what is the difference between 'major requirements' & 'expectations'
+02:28:45	Alice Delp:	is this chart related to specific industry?
+02:28:56	Haitham Hesham:	I also suggest adding to the stakeholder register list the maintenance and operation group as the they will be responsible to maintain this project/asset when complete
+02:29:08	Lakia Henry:	Define a resistor? You can resist and still be internal? 
+02:29:15	Carlos Perez-Islas:	Would protesters fall into the stakeholder register?
+02:29:16	Alice Delp:	will this chart be outlined differently depending on industry or will it have the same titles? 
+02:29:21	Mark Thompson:	who would you allow to see this document given you have Influence attitude on it
+02:29:21	Manish Bansiwala:	Ok
+02:29:30	Justin Aiken:	Is influence/attitude a good idea to put out there?
+02:29:31	Alice Delp:	ok. i understand
+02:29:31	William Mitchell:	In some situations, you may want to consider environmental/historical organizations that may be opposed/vested in the project.
+02:29:45	Manish Bansiwala:	Resister
+02:29:48	Benjamin Giovingo:	A resistor is part of an electrical circuit; a person who resists something is a “resister.”
+02:29:54	Alice Delp:	 is this time constraints on this chart?
+02:30:06	Jean-Luc Kersulec:	If you design someone as a resistor in the register, will it be taken well?
+02:30:15	Alice Delp:	or is this a standing roaster for lifecycle of project?
+02:30:18	Marco Egizi:	It's like the PM equivalent of a CRM for sales.
+02:30:19	Andrew Warninghoff:	are these categories on the register that are required?
+02:30:50	Cesar Centeno Lopez:	does exist a 3d stakehoder register?
+02:31:22	Cesar Centeno Lopez:	stakeholder register I meant
+02:31:25	Zain Safdar Ali:	What are champions, resistor & neutral? how do we know/rate attitude/influence in stakeholder sheet?
+02:31:42	Li Yuan:	How is influence / attitude defined? 
+02:31:59	John Variakojis:	If PM aims to be communicative and transparent, sharing a stakeholder register could be counterproductive, i.e. a stakeholder could negatively view being labeled a 'resistor'.  
+02:32:02	Amanda Henning:	I took a practice exam last night and kept getting the answer wrong for when to reference the stakeholder engagement plan VS communication management plan. Is there a way to differentiate?
+02:32:45	Dell Fletcher:	That is interesting you would add a "detractor" to the stakeholder registry
+02:32:53	Johnny Workman:	what would be an example of the level of interest? 
+02:33:22	Benjamin Giovingo:	perhaps keep the influence/attitude column private
+02:34:04	mary clement:	resisters and detractors are still stakeholders. they are affected by the project. Think about the project as a new software app for tracking employee time. people might be against the project - but they are still internal employees who will be affected by it.
+02:34:22	Dell Fletcher:	I think an example of a detractor may be an external stakeholder that has a small business that neighbors the building you may be proposing to build and are resistance against the builiding being built due to potential risk of them losing customers.
+02:34:52	Marco Egizi:	Good call, Dell!
+02:35:08	Hanna Pardee:	Plus knowing their attitude/influence impacts type of comms to send to those stakeholders - negative feedback is as good as positive 
+02:35:25	Haitham Hesham:	This can be done and communicated through community engagements
+02:35:33	Hanna Pardee:	this way you can address those concerns the "resistors" have
+02:35:37	Dell Fletcher:	Or simple example. Environmental activist "tree huggers" that don't want trees or certain areas to be damaged or removed that may delay the project from moving forward.
+02:35:45	Robins Ramirez:	Turn their frown upside down! :D
+02:36:11	Carl Mullin:	Chat is paused
+02:36:26	Carl Mullin:	Remember content related questions should be posted in the Q&A.
+02:43:50	Carl Mullin:	ATTENTION PERCIPIO USERS: If you are being disconnected, please report this to Customer Support here https://support.skillsoft.com/bootcamps
+02:43:54	Carl Mullin:	or here
+02:44:07	Carl Mullin:	https://support.skillsoft.com/percipio/
+02:44:29	Carl Mullin:	Customer Support needs to have a ticket for this to look into.
+03:30:21	Carl Mullin:	Chat is unpaused
+03:30:37	Tanangachi Ngwira:	Can you use Facebook or Twitter or Instagram?
+03:30:57	Adam Heathman:	Anyone know how to get the learner kit from O2O?
+03:31:22	Tanangachi Ngwira:	Can you use Facebook or Twitter or Instagram?
+03:31:37	Benjamin Techmeier:	@Adam, they said you can apply for it after the bootcamp is over
+03:31:54	Ajaysingh Dehariya:	Timezones
+03:31:56	mary clement:	Adam - I saw a document that said we would get a voucher at the same time we got the voucher for the exam - after completing the course requirements.
+03:32:03	Zachary Johnson:	Adam (AH) - I emailed my sponsor today, they said it would take 24-48 hours for them to get back to us. I remember from the 12 Jan ZOOM - they said you requested the Learner's kit through the advisor
+03:32:04	Jeremy Cottrell:	Tanangachi, probably depends on the organization. Example being if you are dealing with sensitive or classified information.
+03:32:05	Rahul Ramanan:	I am fully confused on how attendance work here - there is no clear instructions on how to do it.. if someone can show an example that will be great. do we need to track it manually?
+03:32:12	Benjamin Techmeier:	@Adam, they said you can apply for it after the boot camp is over
+03:32:25	Adam Heathman:	Ohhh that makes sense. Ok, thank you guys!
+03:32:44	Katelynn Quinn:	Anyone still have the zoom link?
+03:32:49	Elaine Johnson:	From my O2O POC: The Instructor will also mention multiple times purchase the ‘Learner Kit’. Your learner kit is for the PMP certification exam. Once you pass the practice exams/Test Prep, your PMI Application is accepted and we make your PMP certification exam payment, you will receive the Learner Kit.  Everything you need for PMP will be provided by O2O.
+03:33:08	Jeremy Cottrell:	Tanangachi, probably depends on the organization. Example being if you are dealing with sensitive or classified information.
+03:33:35	Adam Heathman:	Thank you Elaine!! All of that was super helpful :).
+03:33:57	Sheikh Ahmed:	If a Stakeholder is difficult to reach out, how can we address this challenge?
+03:33:58	Katelynn Quinn:	Does anyone still have the zoom link?
+03:34:03	Stephanie Donnell:	https://skillsoftbootcamp.zoom.us/j/93856860131?pwd=L0JON2ZXZHU0dEh2eENreWVLb3FKdz09
+Webinar ID: 938 5686 0131
+Passcode: 424428
+03:34:10	Stephanie Donnell:	https://skillsoftbootcamp.zoom.us/j/93856860131?pwd=L0JON2ZXZHU0dEh2eENreWVLb3FKdz09
+Webinar ID: 938 5686 0131
+Passcode: 424428
+03:34:17	Cathe Alao:	I still don't understand how the attendance tracker works.
+03:34:20	Katelynn Quinn:	Thank you!
+03:34:23	Prashant Singh:	Thanks!!
+03:34:40	Alice Delp:	everyone should know that pictures are never allowed.
+03:34:51	House:	Neither do I in ref to the attendance tracker
+03:34:51	Lawton Hill:	Kind of lame that O2O doesn't set you up with the Learner Kit prior to starting the Bootcamp.  Would be nice to follow along with the Student Workbook.
+03:34:54	Melanie Ivey-Bunnell:	@Rahul, at the very top there is a GitHub link that has the attendance tracker. only input log ins and outs from what I understand. no need to document class breaks.
+03:35:10	Alice Delp:	should also be learned when you start your job. thank you for mentioning this example. 
+03:35:16	Adam Heathman:	You just use the fields on the document to log when you joined, how you joined, when you left and why, then submit later when the bootcamp is over.
+03:35:16	Tracey Brown:	can anyone help me get the percipio Attendance tracker not just the video talking about the tracker but the actual tracker?
+03:35:17	Cathe Alao:	@ Eliane Johnson, is that also applicable to Percipio students?
+03:35:58	Seth Harrison:	@lawton, you should be able to download each session's slide deck off the resources tab in Precipio
+03:36:14	Jennifer Johnson:	@cathie If you download the tracker, there are detailed directions on how to fill it out toward the bottom of the document. You need to document each day, regardless of how you log on to the class.  If you stay on the session ALL day, you will only have 1 entry per day. 
+03:37:29	House:	I will try it again but its not allowing me
+03:38:08	Cathe Alao:	Thanks Jennifer
+03:38:09	Lawton Hill:	@seth I've got the slides.  There's a separate "Student Workbook" embedded in the PMI Learner Kit that is referenced in slide 13.
+03:38:10	Jeremy Johnson:	Have you ever had an experience where stakeholders perceived you were "overcommunicating"?
+03:38:31	Tracey Brown:	can anyone help me find the actual attendance tracker in percipio? not just the video but the tracker itself sorry im 55 not very computer savy i need help 
+03:38:56	Melanie Ivey-Bunnell:	@tracey https://github.com/Skillsoft-Content/PMP5Day
+03:39:21	Nathan Trotter:	@Jeremy are you overcommunicating or mainly forwarding all emails or replying all for all emails without filtering them? The latter would be pretty annoying.
+03:39:28	Elaine Johnson:	@Cath Alao - I can only answer as an O2O student.  These are the details provided by my POC.  
+03:39:31	Tracey Brown:	@melainie thanks
+03:39:49	Kenneth Moonan:	@Tracey https://github.com/Skillsoft-Content/PMP5Day/blob/main/5-Day%20Attendance%20and%20Certificates%20of%20Completion%20Info/PMP%20Bootcamp%205-Day%20and%208-Day%20Attendance%20Tracker%20and%20Certificate%20Request%20Process.docx
+03:39:55	Brian Mellon:	https://ivmf.percipio.com/search?q=pmp%20bootcamp%205-session%20attendance%20tracker
+03:40:08	Melanie Ivey-Bunnell:	You'll have to download it and then 'enable all content' to be able to fill out the tracer
+03:40:15	Cathe Alao:	Thanks Eliane
+03:40:53	Johanna Strandtoft:	@Jeremy have you asked how the stakeholder prefers to consume communication? 
+03:41:36	Tracey Brown:	thanks all i will try again at lunch
+03:41:48	Frederick Williams:	What is the difference between leading mean?
+03:42:30	Mahesha Somappa:	can you please share the skillsoft link to download related contents please. 
+03:42:35	Mahesha Somappa:	https://hclcontent.percipio.com/search?categories=Live%20Course&q=pmp%20bootcamp
+03:42:42	Mahesha Somappa:	here unable to find it
+03:44:56	Jeremy Johnson:	Yes
+03:45:39	Jeremy Cottrell:	@nathan @Johanna I would agree that the most important method is the one they want and the frequency they want.
+03:48:16	Mags Zalamea:	Is stakeholder engagement strategy same as stakeholder engagement plan?
+03:49:06	Robins Ramirez:	@Tracey  Percipio Home>Library>Showcase>Skillsoft Bootcamp> "Click" Project Management Professional (PMP) ATP Bootcamp: 5 Day Cohort> "Click" Resource tab> "Click" PMP+Bootcamp+5-Day+and+8-Day+Attendance+Tracker+and+Certificate+Request+Process
+03:49:40	Rahul Ramanan:	@robin we just download and keep it locally?
+03:50:01	Rahul Ramanan:	do we need to upload the attendance some whr?
+03:50:21	Robins Ramirez:	yes. Download and hold on to it
+03:50:34	Robins Ramirez:	update as applicable
+03:50:47	Jotika Levy:	@Robins thank you for percipio guide
+03:51:25	Akash Ranjan:	Does this communication work in scrum or is it overall practice for stakeholders? 
+03:52:04	Robins Ramirez:	👍
+03:52:15	burachat.vamasiri:	@robins Thank you.
+03:52:51	Robins Ramirez:	Yes ma'am@ Ms. Vamasiri
+03:54:51	Johnny Workman:	Orlando,
+03:55:51	Erica Vander Voort:	Could we time box questions? We only have 30 minutes to break and we have a lot of content to cover. 
+03:57:36	Jeremy Cottrell:	A Chiefs Mess on a ship is a perfect example of this :D
+03:57:55	Johnny Workman:	 Here is what I'm tracking. I was notified I'm the PM, and the first step is to get a sense of the business environment. I ask about how my organization's policies and processes affect my project. Then I start to figure out my stakeholders and assess their impact on my project using one of the processes we just used. Is this the right thought process so far? 
+04:02:16	Carl Mullin:	ATTENTION PERCIPIO USERS - If you are unable to see the Spotlight videos, please create a ticket with Customer Support to help get the issue resolved.
+04:02:19	Carl Mullin:	https://support.skillsoft.com/percipio/
+08:15:08	Carl Mullin:	Survey link: We wanted to mention that we have a short survey that we would like you to complete after the session that should only take a couple minutes. We would love to get your feedback on the session and on any topics that you would like to see covered in a future Bootcamp.Survey Link: https://surveys.skillsoft.com/jfe/form/SV_71mBcWDtrAFfFUG
+08:36:43	Carl Mullin:	Can anyone upvote my posting in the Q&A for the survey?
+08:37:40	Carl Mullin:	Thanks everyone!
+08:49:15	Carl Mullin:	I know people will want to say thank you and we appreciate it. But please refrain from doing that as the Q&A will be filled up and hard to locate the questions.
